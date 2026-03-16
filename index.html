@@ -9,21 +9,49 @@
 </head>
 <style>
     @font-face {
-        font-family: Cutive Mono;
-        src: url('./assets/CutiveMono-Regular.ttf');
+        font-family: Doto;
+        src: url('./assets/Doto-VariableFont_ROND,wght.ttf');
     }
 
+    /* .doto-regular> {
+    } */
+    
     body {
-        font-family: "Cutive Mono", Courier, monospace;
+        font-family: "Doto", courier, monospace;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-variation-settings: 
+            "ROND" 100;
+        /* font-family: "Cutive Mono", Courier, monospace; */
         background-color: #000;
         color: #fff;
         font-size: 17px;
+        padding: 0 10px;
+        color: #fff;
+        line-height: 1.25;
+        font-weight: 600;
     }
-
+    
     span.date {
-        font-weight: bold;
+        /* color: #f4e098; */
+        font-weight: 800;
+        font-variation-settings: "ROND" 0;
+        /* margin-right: .25rem; */
+    }
+    
+    span.time-place {
+        /* color: hsl(10, 100%, 89%); */
+        /* color: #fff0bc; */
+        font-weight: 700;
+        font-variation-settings: "ROND" 0;
     }
 
+    details p {
+        color: #aaa;
+        border-left: 2px solid #fff;
+        padding-left: 10px;
+    }
     header {
         margin-bottom: 1.5rem;
     }
@@ -37,7 +65,8 @@
         margin: .625rem 0;
     }
 
-    a, a:visited {
+    a,
+    a:visited {
         color: #fff;
     }
 
@@ -57,139 +86,144 @@
     </header>
     <details>
         <summary>Past Shows</summary>
-        
-        <p>Jan 18 (Sun) - Labor Of Love Wrestling Featuring The Gnome Kelly & Longfriend Timefriend @ God's Autobody, 5pm-10pm</p>
-        <p>Jan 19 (Mon) - SBWU Hardship Fund Benefit Show: Steady Hands, Attack Dog, Ruth In The BarDO @ Nikki Lopez, 7pm</p>
-        <p>Jan 23 (Fri) - Murder Junkies, Rubbish, Sloppy Bitches, Bad To Worse @ Nikki Lopez</p>
-        <p>Jan 23 (Fri) - Bone Weapon, Dridge, Spellhammer, Nvnnery @ Johnny Brenda's, 7pm</p>
-        <p>Jan 24 (Sat) - Harassment, The Playful Bunch, Cartoon w/ James McKain @ Laundrette</p>
-        <p>Jan 24 (Sat) - Juntos Philadelphia Benefit Show: Dipsomaniacs, Diuretic, B.A.S.I.L @ Cousin Danny's</p>
-        <p>Jan 24 (Sat) - Sinister Feeling, Eliminators, Lose Sight, Joystick Fury @ Nikki Lopez</p>
-        <p>Jan 24 (Sat) - Agriculture, Knoll, Nina Ryser @ Underground Arts</p>
-        <p>Jan 24 (Sat) - Joe Jordan, Huston West @ MilkBoy, 6pm, 7pm</p>
-        <p>Jan 29 (Thu) - Hiroe, Objects, Beauty @ Nikki Lopez</p>
-        <p>Jan 30 (Fri) - Nunslaughter @ MilkBoy</p>
-        <p>Jan 30 (Fri) - John Shaw, Frances Cordie @ Brickbat Books, 7pm, $10-15</p>
-        <p>Jan 31 (Sat) - Layer Meat, Charm School Looks, Snow Caps @ Abyssinia Upstairs, 7pm</p>
-        <p>Jan 31 (Sat) - Space Between Attack & Decay Screening, Emily Robb Band, Walnut Brain @ Solar Myth, Film 7pm, Show 8pm</p>
-        <p>Jan 31 (Sat) - Huston West @ Ace Outpost Coffee, 12pm-2pm</p>
-        <p>Jan 31 (Sat) - Skull Presser, Omit All, Violent Form @ Kung Fu Necktie</p>
-        <p>Feb 01 (Sun) - Author and Punisher, King Yosef, Black Magnet @ Ukie Club</p>
-        <p>Feb 04 (Wed) - Mdou Moctar @ Johnny Brenda's</p>
-        <p>Feb 06 (Fri) - Dan Deacon @ Underground Arts</p>
-        <p>Feb 06 (Fri) - Shitfaced, The Erections, Who Killed Spiky Jacket, The Spiky Tops, Nightfall @ Nikki Lopez</p>
-        <p>Feb 07 (Sat) - Antactigo Vespucci, Golden Apples @ First Unitarian Church</p>
-        <p>Feb 07 (Sat) - Opeth, Katatonia @ Fillmore Philly</p>
-        <p>Feb 11 (Wed) - The Black Heart Procession @ Johnny Brenda's</p>
-        <p>Feb 13 (Fri) - Icky Bits, Marshall James Kavanaugh, Holden Linton, Shane Riley @ Molly's Books & Records, 7pm-930pm</p>
-        <p>Feb 14 (Sat) - JeJaWeDa (Jeb Bishop / Jaap Blonk / Weasel Walter & Damon Smith), Sandy Ewen & 52nd Street Planetary Ensemble @ 2223 Fish 730pm</p>
-        <p>Feb 14 (Sat) - Wednesday Knudsen, Stiff Curlz, Bill Nace @ Laundrette, 8pm</p>
-        <p>Feb 15 (Sun) - Embarker, Nomad War Machine (Record Release) @ Studio 34, 7pm</p>
-        <p>Feb 16 (Mon) - Wheel, Sound And Shape @ Nikki Lopez</p>
-        <p>Feb 16 (Mon) - All 4 All, Demonstrate, Reason Why, Madman, Fever @ Cousin Danny's</p>
-        <p>Feb 21 (Sat) - Huston West, Kristina Murray, Danny and the Do-Overs @ Johnny Brenda's, 7pm</p>
-        <p>Feb 24 (Tue) - Drunks With Guns, Drums Like Machine Guns, Stroker, Agita, Uncle Blender @ Cookies Place, 1316 S 36th St, 7pm, $10-15</p>
-        <p>Feb 27 (Fri) - Adhesive (FL), Siphon (RVA), Insectoids, Military School @ Cousin Danny's</p>
-        <p>Feb 28 (Sat) - Gaza Benefit Show: Huston West, Red Tailed Rounders, Joe James @ The Rug Club, 928 S 49th Street, 7pm</p>
-        <p>Feb 28 (Sat) - Angel Du$t, Crown of Thornz, Combust, Love Sick @ Lithuanian Music Hall</p>
-        <p>Feb 28 (Sat) - Yearn Decay, Jewel Eye, Nick Saia, Wet Eggs, Benoit Francois @ God's Autobody, 7pm</p>
-        <p>Mar 01 (Sun) - Sheer Mag w/ Dirty Fences, Nancy, and The Smarthearts @ Johnny Brenda's</p>
-        <p>Mar 03 (Tue) - Uncle Blender, Hallucination Realized, Diuretic, Durian @ Grays Warehouse</p>
-        <p>Mar 03 (Tue) - Rotten Bones, Kline, Birdcage, Temple of the Holy Spirit @ The Side Bar</p>
-        <p>Mar 04 (Wed) - Henbane scores Susan Kleckner films @ BOK</p>
-        <p>Mar 08 (Sun) - Readings by Sara Jaffe, Megan Milks, Julia Bloch, Emily Abendroth, Music by Matt Shuff @ Brickbat Books, 630pm</p>
-        <p>Mar 08 (Sun) - Cat Power @ Union Transfer</p>
+        <p><span class="date">Jan 18 (Sun)</span> Labor Of Love Wrestling Featuring The Gnome Kelly & Longfriend Timefriend <span class="time-place">@ God's Autobody,5pm-10pm</span></p>
+        <p><span class="date">Jan 19 (Mon)</span> SBWU Hardship Fund Benefit Show: Steady Hands, Attack Dog, Ruth In The BarDO <span class="time-place">@ Nikki Lopez,7pm</span></p>
+        <p><span class="date">Jan 23 (Fri)</span> Murder Junkies, Rubbish, Sloppy Bitches, Bad To Worse <span class="time-place">@ Nikki Lopez</span></p>
+        <p><span class="date">Jan 23 (Fri)</span> Bone Weapon, Dridge, Spellhammer, Nvnnery <span class="time-place">@ Johnny Brenda's, 7pm</span></p>
+        <p><span class="date">Jan 24 (Sat)</span> Harassment, The Playful Bunch, Cartoon w/ James McKain <span class="time-place">@ Laundrette</span></p>
+        <p><span class="date">Jan 24 (Sat)</span> Juntos Philadelphia Benefit Show: Dipsomaniacs, Diuretic, B.A.S.I.L <span class="time-place">@ Cousin Danny's</span></p>
+        <p><span class="date">Jan 24 (Sat)</span> Sinister Feeling, Eliminators, Lose Sight, Joystick Fury <span class="time-place">@ Nikki Lopez</span></p>
+        <p><span class="date">Jan 24 (Sat)</span> Agriculture, Knoll, Nina Ryser <span class="time-place">@ Underground Arts</span></p>
+        <p><span class="date">Jan 24 (Sat)</span> Joe Jordan, Huston West <span class="time-place">@ MilkBoy, 6pm, 7pm</span></p>
+        <p><span class="date">Jan 29 (Thu)</span> Hiroe, Objects, Beauty <span class="time-place">@ Nikki Lopez</span></p>
+        <p><span class="date">Jan 30 (Fri)</span> Nunslaughter <span class="time-place">@ MilkBoy</span></p>
+        <p><span class="date">Jan 30 (Fri)</span> John Shaw, Frances Cordie <span class="time-place">@ Brickbat Books, 7pm, $10-15</span></p>
+        <p><span class="date">Jan 31 (Sat)</span> Layer Meat, Charm School Looks, Snow Caps <span class="time-place">@ Abyssinia Upstairs, 7pm</span></p>
+        <p><span class="date">Jan 31 (Sat)</span> Space Between Attack & Decay Screening, Emily Robb Band, Walnut Brain <span class="time-place">@ Solar Myth, Film 7pm, Show 8pm</span></p>
+        <p><span class="date">Jan 31 (Sat)</span> Huston West <span class="time-place">@ Ace Outpost Coffee, 12pm-2pm</span></p>
+        <p><span class="date">Jan 31 (Sat)</span> Skull Presser, Omit All, Violent Form <span class="time-place">@ Kung Fu Necktie</span></p>
+        <p><span class="date">Feb 01 (Sun)</span> Author and Punisher, King Yosef, Black Magnet <span class="time-place">@ Ukie Club</span></p>
+        <p><span class="date">Feb 04 (Wed)</span> Mdou Moctar <span class="time-place">@ Johnny Brenda's</span></p>
+        <p><span class="date">Feb 06 (Fri)</span> Dan Deacon <span class="time-place">@ Underground Arts</span></p>
+        <p><span class="date">Feb 06 (Fri)</span> Shitfaced, The Erections, Who Killed Spiky Jacket, The Spiky Tops, Nightfall <span class="time-place">@ Nikki Lopez</span></p>
+        <p><span class="date">Feb 07 (Sat)</span> Antactigo Vespucci, Golden Apples <span class="time-place">@ First Unitarian Church</span></p>
+        <p><span class="date">Feb 07 (Sat)</span> Opeth, Katatonia <span class="time-place">@ Fillmore Philly</span></p>
+        <p><span class="date">Feb 11 (Wed)</span> The Black Heart Procession <span class="time-place">@ Johnny Brenda's</span></p>
+        <p><span class="date">Feb 13 (Fri)</span> Icky Bits, Marshall James Kavanaugh, Holden Linton, Shane Riley <span class="time-place">@ Molly's Books & Records, 7pm-930pm</span></p>
+        <p><span class="date">Feb 14 (Sat)</span> JeJaWeDa (Jeb Bishop / Jaap Blonk / Weasel Walter & Damon Smith), Sandy Ewen & 52nd Street Planetary Ensemble <span class="time-place">@ 2223 Fish 730pm</span></p>
+        <p><span class="date">Feb 14 (Sat)</span> Wednesday Knudsen, Stiff Curlz, Bill Nace <span class="time-place">@ Laundrette, 8pm</span></p>
+        <p><span class="date">Feb 15 (Sun)</span> Embarker, Nomad War Machine (Record Release) <span class="time-place">@ Studio 34, 7pm</span></p>
+        <p><span class="date">Feb 16 (Mon)</span> Wheel, Sound And Shape <span class="time-place">@ Nikki Lopez</span></p>
+        <p><span class="date">Feb 16 (Mon)</span> All 4 All, Demonstrate, Reason Why, Madman, Fever <span class="time-place">@ Cousin Danny's</span></p>
+        <p><span class="date">Feb 21 (Sat)</span> Huston West, Kristina Murray, Danny and the Do-Overs <span class="time-place">@ Johnny Brenda's, 7pm</span></p>
+        <p><span class="date">Feb 24 (Tue)</span> Drunks With Guns, Drums Like Machine Guns, Stroker, Agita, Uncle Blender <span class="time-place">@ Cookies Place, 1316 S 36th St, 7pm, $10-15</span></p>
+        <p><span class="date">Feb 27 (Fri)</span> Adhesive (FL), Siphon (RVA), Insectoids, Military School <span class="time-place">@ Cousin Danny's</span></p>
+        <p><span class="date">Feb 28 (Sat)</span> Gaza Benefit Show: Huston West, Red Tailed Rounders, Joe James <span class="time-place">@ The Rug Club, 928 S 49th Street, 7pm</span></p>
+        <p><span class="date">Feb 28 (Sat)</span> Angel Du$t, Crown of Thornz, Combust, Love Sick <span class="time-place">@ Lithuanian Music Hall</span></p>
+        <p><span class="date">Feb 28 (Sat)</span> Yearn Decay, Jewel Eye, Nick Saia, Wet Eggs, Benoit Francois <span class="time-place">@ God's Autobody, 7pm</span></p>
+        <p><span class="date">Mar 01 (Sun)</span> Sheer Mag w/ Dirty Fences, Nancy, and The Smarthearts <span class="time-place">@ Johnny Brenda's</span></p>
+        <p><span class="date">Mar 03 (Tue)</span> Uncle Blender, Hallucination Realized, Diuretic, Durian <span class="time-place">@ Grays Warehouse</span></p>
+        <p><span class="date">Mar 03 (Tue)</span> Rotten Bones, Kline, Birdcage, Temple of the Holy Spirit <span class="time-place">@ The Side Bar</span></p>
+        <p><span class="date">Mar 04 (Wed)</span> Henbane scores Susan Kleckner films <span class="time-place">@ BOK</span></p>
+        <p><span class="date">Mar 08 (Sun)</span> Readings by Sara Jaffe, Megan Milks, Julia Bloch, Emily Abendroth, Music by Matt Shuff <span class="time-place">@ Brickbat Books, 630pm</span></p>
+        <p><span class="date">Mar 08 (Sun)</span> Cat Power <span class="time-place">@ Union Transfer</span></p>
     </details>
-    <p><span class="date">Mar 10 (Tue)</span> - Bolt Swallower (TN), Bootprint (AL), Dystrophy, Headless World @ Cousin Danny's, 07:00PM</p>
-    <p><span class="date">Mar 10 (Tue)</span> - Victor Viera-Branco Trio @ 48 Record Bar, 7:30PM</p>
-    <p><span class="date">Mar 10 (Tue)</span> - Marshall Allen’s Ghost Horizons with Angel Bat Dawid @ Solar Myth, 8:00PM</p>
-    <p><span class="date">Mar 11 (Wed)</span> - Owls @ Perelman Theater, 7:30PM</p>
-    <p><span class="date">Mar 11 (Wed)</span> - Lia Kohl, Zachary Good & Pureply @ The Perch, 7:30PM</p>
-    <p><span class="date">Mar 11 (Wed)</span> - Inoculation, Atomic Witch @ Kung Fu Necktie</p>
-    <p><span class="date">Mar 12 (Thu)</span> - Skullcap / Dave McDonnell Group @ Century Bar, 7:30PM</p>
-    <p><span class="date">Mar 12 (Thu)</span> - The Lepidopterans & Barbedwire @ Pageant: Soloveev, 8:00PM</p>
-    <p><span class="date">Mar 12 (Thu)</span> - Thom Nguyen & Anne Ishii / Alex Lewis & Matthew S Lee @ Jerry’s on Front, 8:00PM</p>
-    <p><span class="date">Mar 12 (Thu)</span> - Joe Lally (Fugazi) + Yanni (Stinking Lizaveta) + Jason K (Hot Snakes) / Deathbird Earth / Bruxxer @ Johnny Brenda's, 08:00PM</p>
-    <p><span class="date">Mar 13 (Fri)</span> - Alarm Will Sound with Bora Yoon @ Annenberg Center, 7:30PM</p>
-    <p><span class="date">Mar 14 (Sat)</span> - Noise Songs 4 @ Above Solar Myth, 8:30PM</p>
-    <p><span class="date">Mar 14 (Sat)</span> - Mzztr, Spellbook, Grozov, Hellion Child @ Kung Fu Necktie</p>
-    <p><span class="date">Mar 14 (Sat)</span> - Chained to the Bottom of the Ocean, Moros (record release), Lichen, Caged @ Bonks</p>
-    <p><span class="date">Mar 15 (Sun)</span> - Slow No Wake x Petite Mort, Perpetual Oyster, Zygoteweb, LN Celestine, Casey Adams & Hannah Rice @ Greys Warehouse, 06:00PM-10:00PM</p>
-    <p><span class="date">Mar 15 (Sun)</span> - Bootblacks (Brooklyn), The Discussion (LA), Cult Objects (Philly) @ Nikki Lopez, 07:00PM-11:00PM</p>
-    <p><span class="date">Mar 15 (Sun)</span> - Demon King, IATT, The World Without Us, Abortion Survivor @ The Nail</p>
-    <p><span class="date">Mar 16 (Mon)</span> - Anthony Tidd Quite Sane @ Solar Myth, 8:00PM</p>
-    <p><span class="date">Mar 17 (Tue)</span> - Burning Flubber- Kresten Osgood x Gabe Meyer Trio + FFMMAP @ Black Squirrel Club, 7:00PM</p>
-    <p><span class="date">Mar 17 (Tue)</span> - Victor Viera-Branco Trio @ 48 Record Bar, 7:30PM</p>
-    <p><span class="date">Mar 17 (Tue)</span> - DM Hotep / Matt Engle / Daniel Villarreal @ Solar Myth, 7:30PM</p>
-    <p><span class="date">Mar 17 (Tue)</span> - Tudor works for Live Electronics Composers Inside Electronics @ Community Education Center, 8:00PM</p>
-    <p><span class="date">Mar 18 (Wed)</span> - Kresten Osgood with Bobby Zankel, Marshall Allen & Dave Burrell @ Solar Myth, 8:00PM</p>
-    <p><span class="date">Mar 18 (Wed)</span> - Niloufar Shiri & Bahar Badieitabar + Parsa Ferdowsi @ The Rotunda, 8:00PM</p>
-    <p><span class="date">Mar 19 (Thu)</span> - GEORGE @ Solar Myth, 8:00PM</p>
-    <p><span class="date">Mar 20 (Fri)</span> - Sapremia, Bone Weapon, Purulency, Spell Hammer @ Nikki Lopez, 07:00PM-11:55AM</p>
-    <p><span class="date">Mar 20 (Fri)</span> - An Evening with Settled Arrows and Travis Woodson @ The Perch, 08:00PM-10:00PM</p>
-    <p><span class="date">Mar 21 (Sat)</span> - Earthen Sea, Sohme, Kiernan Laveaux; visuals by Klip Collective [feat. Malzof, Luminous Abstract, David Scott Kessler w/ Steph Mantis] @ St. Michael's Lutheran Church Sanctuary, 2139 E Cumberland St., 7pm-11pm</p>
-    <p><span class="date">Mar 21 (Sat)</span> - Flandrew Fleisenberg, id m theft able, Bhob Rainey @ Fidget, 8:00PM</p>
-    <p><span class="date">Mar 21 (Sat)</span> - Brood X, Flash Hits, Time Creep, Stiff Curlz @ Ortlieb's, 8pm, $15</p>
-    <p><span class="date">Mar 21 (Sat)</span> - INVISIBLE CITIES (NYC), SPIRAL PATH, SUBTLE BODY @ Cousin Danny's, 08:00PM-11:55PM</p>
-    <p><span class="date">Mar 22 (Sun)</span> - Miro Quartet w/ Karen Slack @ Perelman Theater, 3:00PM</p>
-    <p><span class="date">Mar 22 (Sun)</span> - Bitter Branches (LP Release Show) Medicinal, Stress Spells, Disappearances, New Harm @ The Latvian Society, 03:00PM-07:00PM</p>
-    <p><span class="date">Mar 22 (Sun)</span> - Angry Samoans @ Nikki Lopez</p>
-    <p><span class="date">Mar 22 (Sun)</span> - Haunt, Intranced, Skullovich @ MilkBoy</p>
-    <p><span class="date">Mar 23 (Mon)</span> - VISUAL LEARNER (MN), NITE SPRITES (OR), CHAINED BLISS, GRUMBLE @ Cousin Danny's, 07:00PM-12:00AM</p>
-    <p><span class="date">Mar 23 (Mon)</span> - Orcutt Shelley Miller with Chris Forsyth's What Is Now @ Solar Myth, 8:00PM</p>
-    <p><span class="date">Mar 24 (Tue)</span> - Victor Viera-Branco Trio @ 48 Record Bar, 7:30PM</p>
-    <p><span class="date">Mar 24 (Tue)</span> - Obscura, Allegaeon, Cognitive, Cryptosis @ Underground Arts</p>
-    <p><span class="date">Mar 25 (Wed)</span> - Shabaka @ Solar Myth, 2 sets: 7:00PM & 9:30PM</p>
-    <p><span class="date">Mar 25 (Wed)</span> - Evicshen @ Warehouse on Watts</p>
-    <p><span class="date">Mar 25 (Wed)</span> - Tombs, Replicant @ MilkBoy</p>
-    <p><span class="date">Mar 26 (Thu)</span> - Goshupon, Propeller, Heater (Juntos Benefit) @ philly typewriter, 07:00PM-11:00AM</p>
-    <p><span class="date">Mar 26 (Thu)</span> - June Bender, Jason Carr w/ Koof Ibi @ Century Bar, 7:30PM</p>
-    <p><span class="date">Mar 27 (Fri)</span> - Caroline Davis, Christian Mirande / Carrie DeCunzo Mirande Duo @ The Perch, 8:00PM</p>
-    <p><span class="date">Mar 27 (Fri)</span> - Irreversible Entanglements @ Solar Myth, 8:00PM</p>
-    <p><span class="date">Mar 27 (Fri)</span> - Drain, No Pressure, Haywire, Secret World @ Union Transfer</p>
-    <p><span class="date">Mar 28 (Sat)</span> - Solo and Chamber Music of Elliott Carter Arcana New Music Ensemble @ The Perch, 8:00PM</p>
-    <p><span class="date">Mar 28 (Sat)</span> - Irreversible Entanglements present Organic Music Society @ Solar Myth, 8:00PM</p>
-    <p><span class="date">Mar 28 (Sat)</span> - The Great Tomorrow- Golberg & Götzen & Pond, Glazier x Blacksberg, Hotep @ Wooden Shoe Books, 8:00PM</p>
-    <p><span class="date">Mar 28 (Sat)</span> - Gnostics (RVA), The Guise, Cult Objects @ hall pass, 08:00PM</p>
-    <p><span class="date">Apr 02 (Thu)</span> - Dirty Three @ Underground Arts</p>
-    <p><span class="date">Apr 02 (Thu)</span> - Gouge Away, Ovlov, Raskol, The Angies @ First Unitarian Church</p>
-    <p><span class="date">Apr 03 (Fri)</span> - EVIL SWORD (Record Release Show), Kilynn Lunsford, Nina Ryser @ Ruba Club, 07:30PM</p>
-    <p><span class="date">Apr 03 (Fri)</span> - Dogma, Frayle @ Kung Fu Necktie</p>
-    <p><span class="date">Apr 04 (Sat)</span> - Phantom Rider, Total Maniac, Dipsomaniacs @ Cousin Danny's</p>
-    <p><span class="date">Apr 06 (Mon)</span> - Tardive Dyskinesia, Subjects, Demonstrate, Condumb, Acid Test @ Cousin Danny's</p>
-    <p><span class="date">Apr 09 (Thu)</span> - NOX NOVACULA (seattle), SPESIMIN, GLORIOUS DESCENT, BEQUEST (tape release gig) @ Cousin Danny's, 08:00PM-11:55PM</p>
-    <p><span class="date">Apr 09 (Thu)</span> - Subhumans, La Pobreska, The Brood @ Warehouse on Watts</p>
-    <p><span class="date">Apr 09 (Thu)</span> - Blood For Blood, Skinhead, Conservative Military Image, Flpsde @ Underground Arts</p>
-    <p><span class="date">Apr 10 (Fri)</span> - Guilt Trip, Malevolence @ Ukie Club</p>
-    <p><span class="date">Apr 11 (Sat)</span> - Mangled, Nomad War Machine, Layer Meat, TBA @ God's Autobody, 7pm</p>
-    <p><span class="date">Apr 11 (Sat)</span> - Reek Minds, Yambag, Early Grave @ Ask a punk, 09:00PM</p>
-    <p><span class="date">Apr 11 (Sat)</span> - Sunn O))) @ Union Transfer</p>
-    <p><span class="date">Apr 20 (Mon)</span> - Pallbearer @ Underground Arts</p>
-    <p><span class="date">Apr 24 (Fri)</span> - CREEP FEST @ Ortlieb's, 05:00PM</p>
-    <p><span class="date">Apr 24 (Fri)</span> - SKALLAR, D.O.D., NIGHTFALL, DYSTROPHY @ Common Beat Records, 07:00PM-10:00PM</p>
-    <p><span class="date">Apr 25 (Sat)</span> - Weedeater, Conan @ Underground Arts</p>
-    <p><span class="date">May 01 (Fri)</span> - COKE BUST, COMMITMENT (ALBUM RELEASE), HIRS, MELISSA, DEMONSTRATE @ PhilaMoca, 7:00PM-11:00PM</p>
-    <p><span class="date">May 02 (Sat)</span> - White Reaper, Drug Church, Public Opinion @ Union Transfer</p>
-    <p><span class="date">May 02 (Sat)</span> - Heavy Temple, Waxed @ MilkBoy</p>
-    <p><span class="date">May 02 (Sat)</span> - Poison Ruïn, The Marked Men, The Serfs, Zorn @ First Unitarian Church</p>
-    <p><span class="date">May 08 (Fri)</span> - The Casualties, The Drowns @ First Unitarian Church</p>
-    <p><span class="date">May 08 (Fri)</span> - Corrosion Of Conformity, Whores, Crobot @ Underground Arts</p>
-    <p><span class="date">May 13 (Wed)</span> - Snuffed On Sight, Torture, Final Resting Place @ Underground Arts</p>
-    <p><span class="date">May 14 (Thu)</span> - Ghost Bath, Unholy Altar, Zauberei @ Milkboy</p>
-    <p><span class="date">May 16 (Sat)</span> - Infected Rain @ Underground Arts</p>
-    <p><span class="date">May 21 (Thu)</span> - Oranssi Pazuzu, Wayfarer @ Underground Arts</p>
-    <p><span class="date">May 29 (Fri)</span> - Master Boot Record @ Underground Arts</p>
-    <p><span class="date">May 31 (Sun)</span> - Flipper @ Johnny Brenda's, 7pm</p>
-    <p><span class="date">Jun 05 (Fri)</span> - mekons @ The Latvian Society of Philadelphia, 7pm</p>
-    <p><span class="date">Jun 14 (Sun)</span> - Saetia, Geoff Rickley, Commitment, The Saddest Landscape, Universal Girlfriend, REDS @ The First Unitarian Church, 5pm</p>
-    <p><span class="date">Jun 23 (Tue)</span> - Spoon & The Beths @ Fillmore Philly</p>
-    <p><span class="date">Jul 02 (Thu)</span> - Carnivorous Bells, Cartoon, Early Grave, NRG @ Johnny Brenda's</p>
+    <p><span class="date">Mar 10 (Tue)</span> Bolt Swallower (TN), Bootprint (AL), Dystrophy, Headless World <span class="time-place">@ Cousin Danny's, 07:00PM</span></p>
+    <p><span class="date">Mar 10 (Tue)</span> Victor Viera-Branco Trio <span class="time-place">@ 48 Record Bar, 7:30PM</span></p>
+    <p><span class="date">Mar 10 (Tue)</span> Marshall Allen’s Ghost Horizons with Angel Bat Dawid <span class="time-place">@ Solar Myth, 8:00PM</span></p>
+    <p><span class="date">Mar 11 (Wed)</span> Owls <span class="time-place">@ Perelman Theater, 7:30PM</span></p>
+    <p><span class="date">Mar 11 (Wed)</span> Lia Kohl, Zachary Good & Pureply <span class="time-place">@ The Perch, 7:30PM</span></p>
+    <p><span class="date">Mar 11 (Wed)</span> Inoculation, Atomic Witch <span class="time-place">@ Kung Fu Necktie</span></p>
+    <p><span class="date">Mar 12 (Thu)</span> Skullcap, Dave McDonnell Group <span class="time-place">@ Century Bar, 7:30PM</span></p>
+    <p><span class="date">Mar 12 (Thu)</span> The Lepidopterans & Barbedwire <span class="time-place">@ Pageant: Soloveev, 8:00PM</span></p>
+    <p><span class="date">Mar 12 (Thu)</span> Thom Nguyen & Anne Ishii, Alex Lewis & Matthew S Lee <span class="time-place">@ Jerry’s on Front, 8:00PM</span></p>
+    <p><span class="date">Mar 12 (Thu)</span> Joe Lally (Fugazi) + Yanni (Stinking Lizaveta) + Jason K (Hot Snakes), Deathbird Earth, Bruxxer <span class="time-place">@ Johnny Brenda's, 08:00PM</span></p>
+    <p><span class="date">Mar 13 (Fri)</span> Alarm Will Sound with Bora Yoon <span class="time-place">@ Annenberg Center, 7:30PM</span></p>
+    <p><span class="date">Mar 14 (Sat)</span> Noise Songs 4 <span class="time-place">@ Above Solar Myth, 8:30PM</span></p>
+    <p><span class="date">Mar 14 (Sat)</span> Mzztr, Spellbook, Grozov, Hellion Child <span class="time-place">@ Kung Fu Necktie</span></p>
+    <p><span class="date">Mar 14 (Sat)</span> Chained to the Bottom of the Ocean, Moros (record release), Lichen, Caged <span class="time-place">@ Bonks</span></p>
+    <p><span class="date">Mar 15 (Sun)</span> Slow No Wake x Petite Mort, Perpetual Oyster, Zygoteweb, LN Celestine, Casey Adams & Hannah Rice <span class="time-place">@ Greys Warehouse, 06:00PM-10:00PM</span></p>
+    <p><span class="date">Mar 15 (Sun)</span> Bootblacks (Brooklyn), The Discussion (LA), Cult Objects (Philly) <span class="time-place">@ Nikki Lopez, 07:00PM-11:00PM</span></p>
+    <p><span class="date">Mar 15 (Sun)</span> Demon King, IATT, The World Without Us, Abortion Survivor <span class="time-place">@ The Nail</span></p>
+    <p><span class="date">Mar 16 (Mon)</span> Anthony Tidd Quite Sane <span class="time-place">@ Solar Myth, 8:00PM</span></p>
+    <p><span class="date">Mar 17 (Tue)</span> Burning Flubber- Kresten Osgood x Gabe Meyer Trio + FFMMAP <span class="time-place">@ Black Squirrel Club, 7:00PM</span></p>
+    <p><span class="date">Mar 17 (Tue)</span> Victor Viera-Branco Trio <span class="time-place">@ 48 Record Bar, 7:30PM</span></p>
+    <p><span class="date">Mar 17 (Tue)</span> DM Hotep / Matt Engle / Daniel Villarreal <span class="time-place">@ Solar Myth, 7:30PM</span></p>
+    <p><span class="date">Mar 17 (Tue)</span> Tudor works for Live Electronics Composers Inside Electronics <span class="time-place">@ Community Education Center, 8:00PM</span></p>
+    <p><span class="date">Mar 18 (Wed)</span> Kresten Osgood with Bobby Zankel, Marshall Allen & Dave Burrell <span class="time-place">@ Solar Myth, 8:00PM</span></p>
+    <p><span class="date">Mar 18 (Wed)</span> Niloufar Shiri & Bahar Badieitabar + Parsa Ferdowsi <span class="time-place">@ The Rotunda, 8:00PM</span></p>
+    <p><span class="date">Mar 19 (Thu)</span> GEORGE <span class="time-place">@ Solar Myth, 8:00PM</span></p>
+    <p><span class="date">Mar 20 (Fri)</span> Sapremia, Bone Weapon, Purulency, Spell Hammer <span class="time-place">@ Nikki Lopez, 07:00PM-11:55AM</span></p>
+    <p><span class="date">Mar 20 (Fri)</span> An Evening with Settled Arrows and Travis Woodson <span class="time-place">@ The Perch, 08:00PM-10:00PM</span></p>
+    <p><span class="date">Mar 21 (Sat)</span> Earthen Sea, Sohme, Kiernan Laveaux; visuals by Klip Collective [feat. Malzof, Luminous Abstract, David Scott Kessler w/ Steph Mantis] <span class="time-place">@ St. Michael's Lutheran Church Sanctuary, 2139 E Cumberland St., 7pm-11pm</span></p>
+    <p><span class="date">Mar 21 (Sat)</span> Flandrew Fleisenberg, id m theft able, Bhob Rainey <span class="time-place">@ Fidget, 8:00PM</span></p>
+    <p><span class="date">Mar 21 (Sat)</span> Brood X, Flash Hits, Time Creep, Stiff Curlz <span class="time-place">@ Ortlieb's, 8pm, $15</span></p>
+    <p><span class="date">Mar 21 (Sat)</span> INVISIBLE CITIES (NYC), SPIRAL PATH, SUBTLE BODY <span class="time-place">@ Cousin Danny's, 08:00PM-11:55PM</span></p>
+    <p><span class="date">Mar 22 (Sun)</span> Miro Quartet w/ Karen Slack <span class="time-place">@ Perelman Theater, 3:00PM</span></p>
+    <p><span class="date">Mar 22 (Sun)</span> Bitter Branches (LP Release Show) Medicinal, Stress Spells, Disappearances, New Harm <span class="time-place">@ The Latvian Society, 03:00PM-07:00PM</span></p>
+    <p><span class="date">Mar 22 (Sun)</span> Angry Samoans <span class="time-place">@ Nikki Lopez</span></p>
+    <p><span class="date">Mar 22 (Sun)</span> Haunt, Intranced, Skullovich <span class="time-place">@ MilkBoy</span></p>
+    <p><span class="date">Mar 23 (Mon)</span> VISUAL LEARNER (MN), NITE SPRITES (OR), CHAINED BLISS, GRUMBLE <span class="time-place">@ Cousin Danny's, 07:00PM-12:00AM</span></p>
+    <p><span class="date">Mar 23 (Mon)</span> Orcutt Shelley Miller with Chris Forsyth's What Is Now <span class="time-place">@ Solar Myth, 8:00PM</span></p>
+    <p><span class="date">Mar 24 (Tue)</span> Victor Viera-Branco Trio <span class="time-place">@ 48 Record Bar, 7:30PM</span></p>
+    <p><span class="date">Mar 24 (Tue)</span> Obscura, Allegaeon, Cognitive, Cryptosis <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">Mar 25 (Wed)</span> Shabaka <span class="time-place">@ Solar Myth, 2 sets: 7:00PM & 9:30PM</span></p>
+    <p><span class="date">Mar 25 (Wed)</span> Evicshen <span class="time-place">@ Warehouse on Watts</span></p>
+    <p><span class="date">Mar 25 (Wed)</span> Tombs, Replicant <span class="time-place">@ MilkBoy</span></p>
+    <p><span class="date">Mar 26 (Thu)</span> Goshupon, Propeller, Heater (Juntos Benefit) <span class="time-place">@ philly typewriter, 07:00PM-11:00AM</span></p>
+    <p><span class="date">Mar 26 (Thu)</span> June Bender, Jason Carr w/ Koof Ibi <span class="time-place">@ Century Bar, 7:30PM</span></p>
+    <p><span class="date">Mar 27 (Fri)</span> Caroline Davis, Christian Mirande / Carrie DeCunzo Mirande Duo <span class="time-place">@ The Perch, 8:00PM</span></p>
+    <p><span class="date">Mar 27 (Fri)</span> Irreversible Entanglements <span class="time-place">@ Solar Myth, 8:00PM</span></p>
+    <p><span class="date">Mar 27 (Fri)</span> Drain, No Pressure, Haywire, Secret World <span class="time-place">@ Union Transfer</span></p>
+    <p><span class="date">Mar 28 (Sat)</span> Solo and Chamber Music of Elliott Carter Arcana New Music Ensemble <span class="time-place">@ The Perch, 8:00PM</span></p>
+    <p><span class="date">Mar 28 (Sat)</span> Irreversible Entanglements present Organic Music Society <span class="time-place">@ Solar Myth, 8:00PM</span></p>
+    <p><span class="date">Mar 28 (Sat)</span> The Great Tomorrow- Golberg & Götzen & Pond, Glazier x Blacksberg, Hotep <span class="time-place">@ Wooden Shoe Books, 8:00PM</span></p>
+    <p><span class="date">Mar 28 (Sat)</span> Gnostics (RVA), The Guise, Cult Objects <span class="time-place">@ hall pass, 08:00PM</span></p>
+    <p><span class="date">Apr 02 (Thu)</span> Dirty Three <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">Apr 02 (Thu)</span> Gouge Away, Ovlov, Raskol, The Angies <span class="time-place">@ First Unitarian Church</span></p>
+    <p><span class="date">Apr 03 (Fri)</span> EVIL SWORD (Record Release Show), Kilynn Lunsford, Nina Ryser <span class="time-place">@ Ruba Club, 07:30PM</span></p>
+    <p><span class="date">Apr 03 (Fri)</span> Dogma, Frayle <span class="time-place">@ Kung Fu Necktie</span></p>
+    <p><span class="date">Apr 04 (Sat)</span> Angel Meat, The Lodestones, Ted Rees @ <span class="time-place">Brickbat Books, 7:30pm</span></p>
+    <p><span class="date">Apr 04 (Sat)</span> Phantom Rider, Total Maniac, Dipsomaniacs <span class="time-place">@ Cousin Danny's</span></p>
+    <p><span class="date">Apr 06 (Mon)</span> Tardive Dyskinesia, Subjects, Demonstrate, Condumb, Acid Test <span class="time-place">@ Cousin Danny's</span></p>
+    <p><span class="date">Apr 09 (Thu)</span> NOX NOVACULA (seattle), SPESIMIN, GLORIOUS DESCENT, BEQUEST (tape release gig) <span class="time-place">@ Cousin Danny's, 08:00PM-11:55PM</span></p>
+    <p><span class="date">Apr 09 (Thu)</span> Subhumans, La Pobreska, The Brood <span class="time-place">@ Warehouse on Watts</span></p>
+    <p><span class="date">Apr 09 (Thu)</span> Blood For Blood, Skinhead, Conservative Military Image, Flpsde <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">Apr 10 (Fri)</span> Guilt Trip, Malevolence <span class="time-place">@ Ukie Club</span></p>
+    <p><span class="date">Apr 10 (Sat)</span> Sonja, Nympho, Crazy Tran <span class="time-place">@ God's Autobody</span></p>
+    <p><span class="date">Apr 11 (Sat)</span> Mangled, Nomad War Machine, Layer Meat, TBA <span class="time-place">@ God's Autobody, 7pm</span></p>
+    <p><span class="date">Apr 11 (Sat)</span> Reek Minds, Yambag, Early Grave <span class="time-place">@ Ask a punk, 09:00PM</span></p>
+    <p><span class="date">Apr 11 (Sat)</span> Sunn O))) <span class="time-place">@ Union Transfer</span></p>
+    <p><span class="date">Apr 20 (Mon)</span> Pallbearer <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">Apr 24 (Fri)</span> CREEP FEST <span class="time-place">@ Ortlieb's, 05:00PM</span></p>
+    <p><span class="date">Apr 24 (Fri)</span> SKALLAR, D.O.D., NIGHTFALL, DYSTROPHY <span class="time-place">@ Common Beat Records, 07:00PM-10:00PM</span></p>
+    <p><span class="date">Apr 25 (Sat)</span> Weedeater, Conan <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">May 01 (Fri)</span> COKE BUST, COMMITMENT (ALBUM RELEASE), HIRS, MELISSA, DEMONSTRATE <span class="time-place">@ PhilaMoca, 7:00PM-11:00PM</span></p>
+    <p><span class="date">May 02 (Sat)</span> White Reaper, Drug Church, Public Opinion <span class="time-place">@ Union Transfer</span></p>
+    <p><span class="date">May 02 (Sat)</span> Heavy Temple, Waxed <span class="time-place">@ MilkBoy</span></p>
+    <p><span class="date">May 02 (Sat)</span> Poison Ruïn, The Marked Men, The Serfs, Zorn <span class="time-place">@ First Unitarian Church</span></p>
+    <p><span class="date">May 08 (Fri)</span> The Casualties, The Drowns <span class="time-place">@ First Unitarian Church</span></p>
+    <p><span class="date">May 08 (Fri)</span> Corrosion Of Conformity, Whores, Crobot <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">May 13 (Wed)</span> Snuffed On Sight, Torture, Final Resting Place <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">May 14 (Thu)</span> Ghost Bath, Unholy Altar, Zauberei <span class="time-place">@ Milkboy</span></p>
+    <p><span class="date">May 16 (Sat)</span> Infected Rain <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">May 21 (Thu)</span> Oranssi Pazuzu, Wayfarer <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">May 29 (Fri)</span> Master Boot Record <span class="time-place">@ Underground Arts</span></p>
+    <p><span class="date">May 31 (Sun)</span> Flipper <span class="time-place">@ Johnny Brenda's, 7pm</span></p>
+    <p><span class="date">Jun 05 (Fri)</span> mekons <span class="time-place">@ The Latvian Society of Philadelphia, 7pm</span></p>
+    <p><span class="date">Jun 14 (Sun)</span> Saetia, Geoff Rickley, Commitment, The Saddest Landscape, Universal Girlfriend, REDS <span class="time-place">@ The First Unitarian Church, 5pm</span></p>
+    <p><span class="date">Jun 23 (Tue)</span> Spoon & The Beths <span class="time-place">@ Fillmore Philly</span></p>
+    <p><span class="date">Jun 27 (Sat)</span> Layer Meat, Spectral Forces, Void of the Infinite Consequence. Benefit for Sol Collective @ <span class="time-place">God's Autobody 7:30pm</span></p>
+    <p><span class="date">Jul 02 (Thu)</span> Carnivorous Bells, Cartoon, Early Grave, NRG <span class="time-place">@ Johnny Brenda's</span></p>
+
+
+
 
 
     <footer>
         <!-- <a href="https://www.215music.net/calendar.html">215 Music Calendar</a>
         <a href="https://philly.askapunk.net/">Philly Punk</a>
-        <a href="https://phillymetal.net/">Philly Metal</a> -->
+        <a href="https://phillymetal.net/">Philly Metal</a>->
         <p>in loving memory of playinpossum.net</p>
     </footer>
 </body>
