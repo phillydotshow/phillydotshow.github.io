@@ -1,0 +1,898 @@
+[
+  {
+    "date": "Jan 18 (Sun)",
+    "time": "5pm-10pm",
+    "place": "God's Autobody",
+    "artists": "Labor Of Love Wrestling Featuring The Gnome Kelly & Longfriend Timefriend",
+    "description": ""
+  },
+  {
+    "date": "Jan 19 (Mon)",
+    "time": "7pm",
+    "place": "Nikki Lopez",
+    "artists": "SBWU Hardship Fund Benefit Show: Steady Hands, Attack Dog, Ruth In The BarDO",
+    "description": ""
+  },
+  {
+    "date": "Jan 23 (Fri)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Murder Junkies, Rubbish, Sloppy Bitches, Bad To Worse",
+    "description": ""
+  },
+  {
+    "date": "Jan 23 (Fri)",
+    "time": "7pm",
+    "place": "Johnny Brenda's",
+    "artists": "Bone Weapon, Dridge, Spellhammer, Nvnnery",
+    "description": ""
+  },
+  {
+    "date": "Jan 24 (Sat)",
+    "time": "",
+    "place": "Laundrette",
+    "artists": "Harassment, The Playful Bunch, Cartoon w/ James McKain",
+    "description": ""
+  },
+  {
+    "date": "Jan 24 (Sat)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Juntos Philadelphia Benefit Show: Dipsomaniacs, Diuretic, B.A.S.I.L",
+    "description": ""
+  },
+  {
+    "date": "Jan 24 (Sat)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Sinister Feeling, Eliminators, Lose Sight, Joystick Fury",
+    "description": ""
+  },
+  {
+    "date": "Jan 24 (Sat)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Agriculture, Knoll, Nina Ryser",
+    "description": ""
+  },
+  {
+    "date": "Jan 24 (Sat)",
+    "time": "6pm, 7pm",
+    "place": "MilkBoy",
+    "artists": "Joe Jordan, Huston West",
+    "description": ""
+  },
+  {
+    "date": "Jan 29 (Thu)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Hiroe, Objects, Beauty",
+    "description": ""
+  },
+  {
+    "date": "Jan 30 (Fri)",
+    "time": "",
+    "place": "MilkBoy",
+    "artists": "Nunslaughter",
+    "description": ""
+  },
+  {
+    "date": "Jan 30 (Fri)",
+    "time": "7pm, $10-15",
+    "place": "Brickbat Books",
+    "artists": "John Shaw, Frances Cordie",
+    "description": ""
+  },
+  {
+    "date": "Jan 31 (Sat)",
+    "time": "7pm",
+    "place": "Abyssinia Upstairs",
+    "artists": "Layer Meat, Charm School Looks, Snow Caps",
+    "description": ""
+  },
+  {
+    "date": "Jan 31 (Sat)",
+    "time": "Film 7pm, Show 8pm",
+    "place": "Solar Myth",
+    "artists": "Space Between Attack & Decay Screening, Emily Robb Band, Walnut Brain",
+    "description": ""
+  },
+  {
+    "date": "Jan 31 (Sat)",
+    "time": "12pm-2pm",
+    "place": "Ace Outpost Coffee",
+    "artists": "Huston West",
+    "description": ""
+  },
+  {
+    "date": "Jan 31 (Sat)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Skull Presser, Omit All, Violent Form",
+    "description": ""
+  },
+  {
+    "date": "Feb 01 (Sun)",
+    "time": "",
+    "place": "Ukie Club",
+    "artists": "Author and Punisher, King Yosef, Black Magnet",
+    "description": ""
+  },
+  {
+    "date": "Feb 04 (Wed)",
+    "time": "",
+    "place": "Johnny Brenda's",
+    "artists": "Mdou Moctar",
+    "description": ""
+  },
+  {
+    "date": "Feb 06 (Fri)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Dan Deacon",
+    "description": ""
+  },
+  {
+    "date": "Feb 06 (Fri)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Shitfaced, The Erections, Who Killed Spiky Jacket, The Spiky Tops, Nightfall",
+    "description": ""
+  },
+  {
+    "date": "Feb 07 (Sat)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Antactigo Vespucci, Golden Apples",
+    "description": ""
+  },
+  {
+    "date": "Feb 07 (Sat)",
+    "time": "",
+    "place": "Fillmore Philly",
+    "artists": "Opeth, Katatonia",
+    "description": ""
+  },
+  {
+    "date": "Feb 11 (Wed)",
+    "time": "",
+    "place": "Johnny Brenda's",
+    "artists": "The Black Heart Procession",
+    "description": ""
+  },
+  {
+    "date": "Feb 13 (Fri)",
+    "time": "7pm-930pm",
+    "place": "Molly's Books & Records",
+    "artists": "Icky Bits, Marshall James Kavanaugh, Holden Linton, Shane Riley",
+    "description": ""
+  },
+  {
+    "date": "Feb 14 (Sat)",
+    "time": "730pm",
+    "place": "2223 Fish",
+    "artists": "JeJaWeDa (Jeb Bishop / Jaap Blonk / Weasel Walter & Damon Smith), Sandy Ewen & 52nd Street Planetary Ensemble",
+    "description": ""
+  },
+  {
+    "date": "Feb 14 (Sat)",
+    "time": "8pm",
+    "place": "Laundrette",
+    "artists": "Wednesday Knudsen, Stiff Curlz, Bill Nace",
+    "description": ""
+  },
+  {
+    "date": "Feb 15 (Sun)",
+    "time": "7pm",
+    "place": "Studio 34",
+    "artists": "Embarker, Nomad War Machine (Record Release)",
+    "description": ""
+  },
+  {
+    "date": "Feb 16 (Mon)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Wheel, Sound And Shape",
+    "description": ""
+  },
+  {
+    "date": "Feb 16 (Mon)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "All 4 All, Demonstrate, Reason Why, Madman, Fever",
+    "description": ""
+  },
+  {
+    "date": "Feb 21 (Sat)",
+    "time": "7pm",
+    "place": "Johnny Brenda's",
+    "artists": "Huston West, Kristina Murray, Danny and the Do-Overs",
+    "description": ""
+  },
+  {
+    "date": "Feb 24 (Tue)",
+    "time": "7pm, $10-15",
+    "place": "Cookies Place, 1316 S 36th St",
+    "artists": "Drunks With Guns, Drums Like Machine Guns, Stroker, Agita, Uncle Blender",
+    "description": ""
+  },
+  {
+    "date": "Feb 27 (Fri)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Adhesive (FL), Siphon (RVA), Insectoids, Military School",
+    "description": ""
+  },
+  {
+    "date": "Feb 28 (Sat)",
+    "time": "7pm",
+    "place": "The Rug Club, 928 S 49th Street",
+    "artists": "Gaza Benefit Show: Huston West, Red Tailed Rounders, Joe James",
+    "description": ""
+  },
+  {
+    "date": "Feb 28 (Sat)",
+    "time": "",
+    "place": "Lithuanian Music Hall",
+    "artists": "Angel Du$t, Crown of Thornz, Combust, Love Sick",
+    "description": ""
+  },
+  {
+    "date": "Feb 28 (Sat)",
+    "time": "7pm",
+    "place": "God's Autobody",
+    "artists": "Yearn Decay, Jewel Eye, Nick Saia, Wet Eggs, Benoit Francois",
+    "description": ""
+  },
+  {
+    "date": "Mar 01 (Sun)",
+    "time": "",
+    "place": "Johnny Brenda's",
+    "artists": "Sheer Mag w/ Dirty Fences, Nancy, and The Smarthearts",
+    "description": ""
+  },
+  {
+    "date": "Mar 03 (Tue)",
+    "time": "",
+    "place": "Grays Warehouse",
+    "artists": "Uncle Blender, Hallucination Realized, Diuretic, Durian",
+    "description": ""
+  },
+  {
+    "date": "Mar 03 (Tue)",
+    "time": "",
+    "place": "The Side Bar",
+    "artists": "Rotten Bones, Kline, Birdcage, Temple of the Holy Spirit",
+    "description": ""
+  },
+  {
+    "date": "Mar 04 (Wed)",
+    "time": "",
+    "place": "BOK",
+    "artists": "Henbane scores Susan Kleckner films",
+    "description": ""
+  },
+  {
+    "date": "Mar 08 (Sun)",
+    "time": "630pm",
+    "place": "Brickbat Books",
+    "artists": "Readings by Sara Jaffe, Megan Milks, Julia Bloch, Emily Abendroth, Music by Matt Shuff",
+    "description": ""
+  },
+  {
+    "date": "Mar 08 (Sun)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Cat Power",
+    "description": ""
+  },
+  {
+    "date": "Mar 10 (Tue)",
+    "time": "07:00PM",
+    "place": "Cousin Danny's",
+    "artists": "Bolt Swallower (TN), Bootprint (AL), Dystrophy, Headless World",
+    "description": ""
+  },
+  {
+    "date": "Mar 10 (Tue)",
+    "time": "7:30PM",
+    "place": "48 Record Bar",
+    "artists": "Victor Viera-Branco Trio",
+    "description": ""
+  },
+  {
+    "date": "Mar 10 (Tue)",
+    "time": "8:00PM",
+    "place": "Solar Myth",
+    "artists": "Marshall Allen's Ghost Horizons with Angel Bat Dawid",
+    "description": ""
+  },
+  {
+    "date": "Mar 11 (Wed)",
+    "time": "7:30PM",
+    "place": "Perelman Theater",
+    "artists": "Owls",
+    "description": ""
+  },
+  {
+    "date": "Mar 11 (Wed)",
+    "time": "7:30PM",
+    "place": "The Perch",
+    "artists": "Lia Kohl, Zachary Good & Pureply",
+    "description": ""
+  },
+  {
+    "date": "Mar 11 (Wed)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Inoculation, Atomic Witch",
+    "description": ""
+  },
+  {
+    "date": "Mar 12 (Thu)",
+    "time": "7:30PM",
+    "place": "Century Bar",
+    "artists": "Skullcap, Dave McDonnell Group",
+    "description": ""
+  },
+  {
+    "date": "Mar 12 (Thu)",
+    "time": "8:00PM",
+    "place": "Pageant: Soloveev",
+    "artists": "The Lepidopterans & Barbedwire",
+    "description": ""
+  },
+  {
+    "date": "Mar 12 (Thu)",
+    "time": "8:00PM",
+    "place": "Jerry's on Front",
+    "artists": "Thom Nguyen & Anne Ishii, Alex Lewis & Matthew S Lee",
+    "description": ""
+  },
+  {
+    "date": "Mar 12 (Thu)",
+    "time": "08:00PM",
+    "place": "Johnny Brenda's",
+    "artists": "Joe Lally (Fugazi) + Yanni (Stinking Lizaveta) + Jason K (Hot Snakes), Deathbird Earth, Bruxxer",
+    "description": ""
+  },
+  {
+    "date": "Mar 13 (Fri)",
+    "time": "7:30PM",
+    "place": "Annenberg Center",
+    "artists": "Alarm Will Sound with Bora Yoon",
+    "description": ""
+  },
+  {
+    "date": "Mar 14 (Sat)",
+    "time": "8:30PM",
+    "place": "Above Solar Myth",
+    "artists": "Noise Songs 4",
+    "description": ""
+  },
+  {
+    "date": "Mar 14 (Sat)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Mzztr, Spellbook, Grozov, Hellion Child",
+    "description": ""
+  },
+  {
+    "date": "Mar 14 (Sat)",
+    "time": "",
+    "place": "Bonks",
+    "artists": "Chained to the Bottom of the Ocean, Moros (record release), Lichen, Caged",
+    "description": ""
+  },
+  {
+    "date": "Mar 15 (Sun)",
+    "time": "06:00PM-10:00PM",
+    "place": "Greys Warehouse",
+    "artists": "Slow No Wake x Petite Mort, Perpetual Oyster, Zygoteweb, LN Celestine, Casey Adams & Hannah Rice",
+    "description": ""
+  },
+  {
+    "date": "Mar 15 (Sun)",
+    "time": "07:00PM-11:00PM",
+    "place": "Nikki Lopez",
+    "artists": "Bootblacks (Brooklyn), The Discussion (LA), Cult Objects (Philly)",
+    "description": ""
+  },
+  {
+    "date": "Mar 15 (Sun)",
+    "time": "",
+    "place": "The Nail",
+    "artists": "Demon King, IATT, The World Without Us, Abortion Survivor",
+    "description": ""
+  },
+  {
+    "date": "Mar 16 (Mon)",
+    "time": "8:00PM",
+    "place": "Solar Myth",
+    "artists": "Anthony Tidd Quite Sane",
+    "description": ""
+  },
+  {
+    "date": "Mar 17 (Tue)",
+    "time": "7:00PM",
+    "place": "Black Squirrel Club",
+    "artists": "Burning Flubber- Kresten Osgood x Gabe Meyer Trio + FFMMAP",
+    "description": ""
+  },
+  {
+    "date": "Mar 17 (Tue)",
+    "time": "7:30PM",
+    "place": "48 Record Bar",
+    "artists": "Victor Viera-Branco Trio",
+    "description": ""
+  },
+  {
+    "date": "Mar 17 (Tue)",
+    "time": "7:30PM",
+    "place": "Solar Myth",
+    "artists": "DM Hotep / Matt Engle / Daniel Villarreal",
+    "description": ""
+  },
+  {
+    "date": "Mar 17 (Tue)",
+    "time": "8:00PM",
+    "place": "Community Education Center",
+    "artists": "Tudor works for Live Electronics Composers Inside Electronics",
+    "description": ""
+  },
+  {
+    "date": "Mar 18 (Wed)",
+    "time": "8:00PM",
+    "place": "Solar Myth",
+    "artists": "Kresten Osgood with Bobby Zankel, Marshall Allen & Dave Burrell",
+    "description": ""
+  },
+  {
+    "date": "Mar 18 (Wed)",
+    "time": "8:00PM",
+    "place": "The Rotunda",
+    "artists": "Niloufar Shiri & Bahar Badieitabar + Parsa Ferdowsi",
+    "description": ""
+  },
+  {
+    "date": "Mar 19 (Thu)",
+    "time": "8:00PM",
+    "place": "Solar Myth",
+    "artists": "GEORGE",
+    "description": ""
+  },
+  {
+    "date": "Mar 20 (Fri)",
+    "time": "07:00PM-11:55AM",
+    "place": "Nikki Lopez",
+    "artists": "Sapremia, Bone Weapon, Purulency, Spell Hammer",
+    "description": ""
+  },
+  {
+    "date": "Mar 20 (Fri)",
+    "time": "08:00PM-10:00PM",
+    "place": "The Perch",
+    "artists": "An Evening with Settled Arrows and Travis Woodson",
+    "description": ""
+  },
+  {
+    "date": "Mar 21 (Sat)",
+    "time": "7pm-11pm",
+    "place": "St. Michael's Lutheran Church Sanctuary, 2139 E Cumberland St.",
+    "artists": "Earthen Sea, Sohme, Kiernan Laveaux; visuals by Klip Collective [feat. Malzof, Luminous Abstract, David Scott Kessler w/ Steph Mantis]",
+    "description": ""
+  },
+  {
+    "date": "Mar 21 (Sat)",
+    "time": "8:00PM",
+    "place": "Fidget",
+    "artists": "Flandrew Fleisenberg, id m theft able, Bhob Rainey",
+    "description": ""
+  },
+  {
+    "date": "Mar 21 (Sat)",
+    "time": "8pm, $15",
+    "place": "Ortlieb's",
+    "artists": "Brood X, Flash Hits, Time Creep, Stiff Curlz",
+    "description": ""
+  },
+  {
+    "date": "Mar 21 (Sat)",
+    "time": "08:00PM-11:55PM",
+    "place": "Cousin Danny's",
+    "artists": "INVISIBLE CITIES (NYC), SPIRAL PATH, SUBTLE BODY",
+    "description": ""
+  },
+  {
+    "date": "Mar 22 (Sun)",
+    "time": "3:00PM",
+    "place": "Perelman Theater",
+    "artists": "Miro Quartet w/ Karen Slack",
+    "description": ""
+  },
+  {
+    "date": "Mar 22 (Sun)",
+    "time": "03:00PM-07:00PM",
+    "place": "The Latvian Society",
+    "artists": "Bitter Branches (LP Release Show) Medicinal, Stress Spells, Disappearances, New Harm",
+    "description": ""
+  },
+  {
+    "date": "Mar 22 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Angry Samoans",
+    "description": ""
+  },
+  {
+    "date": "Mar 22 (Sun)",
+    "time": "",
+    "place": "MilkBoy",
+    "artists": "Haunt, Intranced, Skullovich",
+    "description": ""
+  },
+  {
+    "date": "Mar 23 (Mon)",
+    "time": "07:00PM-12:00AM",
+    "place": "Cousin Danny's",
+    "artists": "VISUAL LEARNER (MN), NITE SPRITES (OR), CHAINED BLISS, GRUMBLE",
+    "description": ""
+  },
+  {
+    "date": "Mar 23 (Mon)",
+    "time": "8:00PM",
+    "place": "Solar Myth",
+    "artists": "Orcutt Shelley Miller with Chris Forsyth's What Is Now",
+    "description": ""
+  },
+  {
+    "date": "Mar 24 (Tue)",
+    "time": "7:30PM",
+    "place": "48 Record Bar",
+    "artists": "Victor Viera-Branco Trio",
+    "description": ""
+  },
+  {
+    "date": "Mar 24 (Tue)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Obscura, Allegaeon, Cognitive, Cryptosis",
+    "description": ""
+  },
+  {
+    "date": "Mar 25 (Wed)",
+    "time": "2 sets: 7:00PM & 9:30PM",
+    "place": "Solar Myth",
+    "artists": "Shabaka",
+    "description": ""
+  },
+  {
+    "date": "Mar 25 (Wed)",
+    "time": "",
+    "place": "Warehouse on Watts",
+    "artists": "Evicshen",
+    "description": ""
+  },
+  {
+    "date": "Mar 25 (Wed)",
+    "time": "",
+    "place": "MilkBoy",
+    "artists": "Tombs, Replicant",
+    "description": ""
+  },
+  {
+    "date": "Mar 26 (Thu)",
+    "time": "07:00PM-11:00AM",
+    "place": "philly typewriter",
+    "artists": "Goshupon, Propeller, Heater (Juntos Benefit)",
+    "description": ""
+  },
+  {
+    "date": "Mar 26 (Thu)",
+    "time": "7:30PM",
+    "place": "Century Bar",
+    "artists": "June Bender, Jason Carr w/ Koof Ibi",
+    "description": ""
+  },
+  {
+    "date": "Mar 27 (Fri)",
+    "time": "8:00PM",
+    "place": "The Perch",
+    "artists": "Caroline Davis, Christian Mirande / Carrie DeCunzo Mirande Duo",
+    "description": ""
+  },
+  {
+    "date": "Mar 27 (Fri)",
+    "time": "8:00PM",
+    "place": "Solar Myth",
+    "artists": "Irreversible Entanglements",
+    "description": ""
+  },
+  {
+    "date": "Mar 27 (Fri)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Drain, No Pressure, Haywire, Secret World",
+    "description": ""
+  },
+  {
+    "date": "Mar 28 (Sat)",
+    "time": "8:00PM",
+    "place": "The Perch",
+    "artists": "Solo and Chamber Music of Elliott Carter Arcana New Music Ensemble",
+    "description": ""
+  },
+  {
+    "date": "Mar 28 (Sat)",
+    "time": "8:00PM",
+    "place": "Solar Myth",
+    "artists": "Irreversible Entanglements present Organic Music Society",
+    "description": ""
+  },
+  {
+    "date": "Mar 28 (Sat)",
+    "time": "8:00PM",
+    "place": "Wooden Shoe Books",
+    "artists": "The Great Tomorrow- Golberg & Götzen & Pond, Glazier x Blacksberg, Hotep",
+    "description": ""
+  },
+  {
+    "date": "Mar 28 (Sat)",
+    "time": "08:00PM",
+    "place": "hall pass",
+    "artists": "Gnostics (RVA), The Guise, Cult Objects",
+    "description": ""
+  },
+  {
+    "date": "Apr 02 (Thu)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Dirty Three",
+    "description": ""
+  },
+  {
+    "date": "Apr 02 (Thu)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Gouge Away, Ovlov, Raskol, The Angies",
+    "description": ""
+  },
+  {
+    "date": "Apr 03 (Fri)",
+    "time": "07:30PM",
+    "place": "Ruba Club",
+    "artists": "EVIL SWORD (Record Release Show), Kilynn Lunsford, Nina Ryser",
+    "description": ""
+  },
+  {
+    "date": "Apr 03 (Fri)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Dogma, Frayle",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
+    "time": "7:30pm",
+    "place": "Brickbat Books",
+    "artists": "Angel Meat, The Lodestones, Ted Rees",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Phantom Rider, Total Maniac, Dipsomaniacs",
+    "description": ""
+  },
+  {
+    "date": "Apr 06 (Mon)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Tardive Dyskinesia, Subjects, Demonstrate, Condumb, Acid Test",
+    "description": ""
+  },
+  {
+    "date": "Apr 09 (Thu)",
+    "time": "08:00PM-11:55PM",
+    "place": "Cousin Danny's",
+    "artists": "NOX NOVACULA (seattle), SPESIMIN, GLORIOUS DESCENT, BEQUEST (tape release gig)",
+    "description": ""
+  },
+  {
+    "date": "Apr 09 (Thu)",
+    "time": "",
+    "place": "Warehouse on Watts",
+    "artists": "Subhumans, La Pobreska, The Brood",
+    "description": ""
+  },
+  {
+    "date": "Apr 09 (Thu)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Blood For Blood, Skinhead, Conservative Military Image, Flpsde",
+    "description": ""
+  },
+  {
+    "date": "Apr 10 (Fri)",
+    "time": "",
+    "place": "Ukie Club",
+    "artists": "Guilt Trip, Malevolence",
+    "description": ""
+  },
+  {
+    "date": "Apr 10 (Sat)",
+    "time": "",
+    "place": "God's Autobody",
+    "artists": "Sonja, Nympho, Crazy Tran",
+    "description": ""
+  },
+  {
+    "date": "Apr 11 (Sat)",
+    "time": "7pm",
+    "place": "God's Autobody",
+    "artists": "Mangled, Nomad War Machine, Layer Meat, TBA",
+    "description": ""
+  },
+  {
+    "date": "Apr 11 (Sat)",
+    "time": "09:00PM",
+    "place": "Ask a punk",
+    "artists": "Reek Minds, Yambag, Early Grave",
+    "description": ""
+  },
+  {
+    "date": "Apr 11 (Sat)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Sunn O)))",
+    "description": ""
+  },
+  {
+    "date": "Apr 20 (Mon)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Pallbearer",
+    "description": ""
+  },
+  {
+    "date": "Apr 24 (Fri)",
+    "time": "05:00PM",
+    "place": "Ortlieb's",
+    "artists": "CREEP FEST",
+    "description": ""
+  },
+  {
+    "date": "Apr 24 (Fri)",
+    "time": "07:00PM-10:00PM",
+    "place": "Common Beat Records",
+    "artists": "SKALLAR, D.O.D., NIGHTFALL, DYSTROPHY",
+    "description": ""
+  },
+  {
+    "date": "Apr 25 (Sat)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Weedeater, Conan",
+    "description": ""
+  },
+  {
+    "date": "May 01 (Fri)",
+    "time": "7:00PM-11:00PM",
+    "place": "PhilaMoca",
+    "artists": "COKE BUST, COMMITMENT (ALBUM RELEASE), HIRS, MELISSA, DEMONSTRATE",
+    "description": ""
+  },
+  {
+    "date": "May 02 (Sat)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "White Reaper, Drug Church, Public Opinion",
+    "description": ""
+  },
+  {
+    "date": "May 02 (Sat)",
+    "time": "",
+    "place": "MilkBoy",
+    "artists": "Heavy Temple, Waxed",
+    "description": ""
+  },
+  {
+    "date": "May 02 (Sat)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Poison Ruïn, The Marked Men, The Serfs, Zorn",
+    "description": ""
+  },
+  {
+    "date": "May 08 (Fri)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "The Casualties, The Drowns",
+    "description": ""
+  },
+  {
+    "date": "May 08 (Fri)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Corrosion Of Conformity, Whores, Crobot",
+    "description": ""
+  },
+  {
+    "date": "May 13 (Wed)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Snuffed On Sight, Torture, Final Resting Place",
+    "description": ""
+  },
+  {
+    "date": "May 14 (Thu)",
+    "time": "",
+    "place": "Milkboy",
+    "artists": "Ghost Bath, Unholy Altar, Zauberei",
+    "description": ""
+  },
+  {
+    "date": "May 16 (Sat)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Infected Rain",
+    "description": ""
+  },
+  {
+    "date": "May 21 (Thu)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Oranssi Pazuzu, Wayfarer",
+    "description": ""
+  },
+  {
+    "date": "May 29 (Fri)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Master Boot Record",
+    "description": ""
+  },
+  {
+    "date": "May 31 (Sun)",
+    "time": "7pm",
+    "place": "Johnny Brenda's",
+    "artists": "Flipper",
+    "description": ""
+  },
+  {
+    "date": "Jun 05 (Fri)",
+    "time": "7pm",
+    "place": "The Latvian Society of Philadelphia",
+    "artists": "mekons",
+    "description": ""
+  },
+  {
+    "date": "Jun 14 (Sun)",
+    "time": "5pm",
+    "place": "The First Unitarian Church",
+    "artists": "Saetia, Geoff Rickley, Commitment, The Saddest Landscape, Universal Girlfriend, REDS",
+    "description": ""
+  },
+  {
+    "date": "Jun 23 (Tue)",
+    "time": "",
+    "place": "Fillmore Philly",
+    "artists": "Spoon & The Beths",
+    "description": ""
+  },
+  {
+    "date": "Jun 27 (Sat)",
+    "time": "7:30pm",
+    "place": "God's Autobody",
+    "artists": "Layer Meat, Spectral Forces, Void of the Infinite Consequence. Benefit for Sol Collective",
+    "description": ""
+  },
+  {
+    "date": "Jul 02 (Thu)",
+    "time": "",
+    "place": "Johnny Brenda's",
+    "artists": "Carnivorous Bells, Cartoon, Early Grave, NRG",
+    "description": ""
+  }
+]
