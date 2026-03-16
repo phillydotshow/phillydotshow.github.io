@@ -15,13 +15,13 @@
 
     /* .doto-regular> {
     } */
-    
+
     body {
         font-family: "Doto", courier, monospace;
         font-optical-sizing: auto;
         font-weight: 400;
         font-style: normal;
-        font-variation-settings: 
+        font-variation-settings:
             "ROND" 100;
         /* font-family: "Cutive Mono", Courier, monospace; */
         background-color: #000;
@@ -32,14 +32,14 @@
         line-height: 1.25;
         font-weight: 600;
     }
-    
+
     span.date {
         /* color: #f4e098; */
         font-weight: 800;
         font-variation-settings: "ROND" 0;
         /* margin-right: .25rem; */
     }
-    
+
     span.time-place {
         /* color: hsl(10, 100%, 89%); */
         /* color: #fff0bc; */
@@ -52,6 +52,7 @@
         border-left: 2px solid #fff;
         padding-left: 10px;
     }
+
     header {
         margin-bottom: 1.5rem;
     }
@@ -77,66 +78,43 @@
     a:active {
         color: #ff0;
     }
-
 </style>
 <script>
-    const MONTHS = { Jan: 0, Feb: 1, Mar: 2, Apr: 3, May: 4, Jun: 5, Jul: 6, Aug: 7, Sep: 8, Oct: 9, Nov: 10, Dec: 11 };
+    const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
-    function parseShowDate(dateStr) {
-        const m = dateStr.match(/^(\w{3})\s+(\d+)/);
-        if (!m) return null;
-        const month = MONTHS[m[1]];
-        const day = parseInt(m[2], 10);
-        if (month === undefined || isNaN(day)) return null;
-        const today = new Date();
-        let year = today.getFullYear();
-        const showDate = new Date(year, month, day);
-        if (showDate < today && month <= 5 && today.getMonth() >= 6) {
-            year += 1;
-            showDate.setFullYear(year);
+    function toYMD(str) {
+        const match = str.match(/^(\w{3})\s+(\d+)/);
+        if (!match) return '';
+        const mi = MONTHS.indexOf(match[1]);
+        if (mi === -1) return '';
+        const now = new Date();
+        let y = now.getFullYear();
+        const m = String(mi + 1).padStart(2, 0), d = String(match[2]).padStart(2, 0);
+        const s = y + '-' + m + '-' + d;
+        if (s < now.toISOString().slice(0, 10) && mi <= 5 && now.getMonth() >= 6) y++;
+        return `${y}-${m}-${d}`;
+
+    }
+
+    function row(show) {
+        return '<p><span class="date">' + show.date + '</span> ' + show.artists + ' <span class="time-place">@ ' + show.place + (show.time ? ', ' + show.time : '') + '</span></p>';
+    }
+
+    function renderShows(shows) {
+        const today = new Date().toISOString().slice(0, 10);
+        const past = [], upcoming = [];
+        for (const show of shows) {
+            const date = toYMD(show.date);
+            if (date) (date < today ? past : upcoming).push(show);
         }
-        return new Date(year, month, day);
-    }
-
-    async function getShows() {
-        const response = await fetch('shows.json');
-        const shows = await response.json();
-        return shows;
-    }
-
-    function formatTimePlace(show) {
-        const parts = ['@ ' + show.place];
-        if (show.time) parts.push(show.time);
-        return parts.join(', ');
-    }
-
-    async function renderShows(shows) {
-        const pastContainer = document.getElementById('past-shows-container');
-        const upcomingContainer = document.getElementById('shows-container');
-        pastContainer.innerHTML = '';
-        upcomingContainer.innerHTML = '';
-        const today = new Date();
-        today.setHours(0, 0, 0, 0);
-        const pastShows = shows.filter(show => {
-            const d = parseShowDate(show.date);
-            return d && d.getTime() < today.getTime();
-        });
-        const upcomingShows = shows.filter(show => {
-            const d = parseShowDate(show.date);
-            return d && d.getTime() >= today.getTime();
-        });
-        pastShows.forEach(show => {
-            pastContainer.innerHTML += `<p><span class="date">${show.date}</span> ${show.artists} <span class="time-place">${formatTimePlace(show)}</span></p>`;
-        });
-        upcomingShows.forEach(show => {
-            upcomingContainer.innerHTML += `<p><span class="date">${show.date}</span> ${show.artists} <span class="time-place">${formatTimePlace(show)}</span></p>`;
-        });
+        document.getElementById('past-shows-container').innerHTML = past.map(row).join('');
+        document.getElementById('shows-container').innerHTML = upcoming.map(row).join('');
     }
 
     async function main() {
         try {
-            const shows = await getShows();
-            await renderShows(shows);
+            const shows = await (await fetch('shows.json')).json();
+            renderShows(shows);
         } catch (e) {
             console.error(e);
             document.getElementById('shows-container').innerHTML = '<p>Could not load shows.</p>';
@@ -162,7 +140,7 @@
 
 
     <footer>
-        <!-- <a href="https://www.215music.net/calendar.html">215 Music Calendar</a>
+        a href="https://www.215music.net/calendar.html">215 Music Calendar</a>
         <a href="https://philly.askapunk.net/">Philly Punk</a>
         <a href="https://phillymetal.net/">Philly Metal</a>->
         <p>in loving memory of playinpossum.net</p>
