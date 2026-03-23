@@ -651,6 +651,13 @@
     "description": ""
   },
   {
+    "date": "Mar 29 (Sun)",
+    "time": "2pm",
+    "place": "Fire Museum",
+    "artists": "AIRLFT Festival",
+    "description": ""
+  },
+  {
     "date": "Apr 02 (Thu)",
     "time": "",
     "place": "Underground Arts",
@@ -697,6 +704,13 @@
     "time": "",
     "place": "Cousin Danny's",
     "artists": "Tardive Dyskinesia, Subjects, Demonstrate, Condumb, Acid Test",
+    "description": ""
+  },
+  {
+    "date": "Apr 08 (Wed)",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Tatsuya Nakatani & Arcx Quartet",
     "description": ""
   },
   {
@@ -756,10 +770,31 @@
     "description": ""
   },
   {
+    "date": "Apr 14 (Tue)",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Takaat & Heavenly Bodies",
+    "description": ""
+  },
+  {
+    "date": "Apr 15 (Wed)",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Alex Harding/Lucian Ban duo & David Dzubinski/Carlos Santiago duo",
+    "description": ""
+  },
+  {
     "date": "Apr 20 (Mon)",
     "time": "",
     "place": "Underground Arts",
     "artists": "Pallbearer",
+    "description": ""
+  },
+  {
+    "date": "Apr 20 (Mon)",
+    "time": "7:30pm",
+    "place": "Fire Museum",
+    "artists": "Biotic (Shawn Lovato/Ingrid Laubrock/Henry Mermer), Killick Hinds/Mark Ettingoff/Jeanne Lyons trio & Bhob Rainey/John Moran/Joey Sullivan trio",
     "description": ""
   },
   {
@@ -781,6 +816,13 @@
     "time": "",
     "place": "Underground Arts",
     "artists": "Weedeater, Conan",
+    "description": ""
+  },
+  {
+    "date": "Apr 26 (Sun)",
+    "time": "7:30pm",
+    "place": "Fire Museum",
+    "artists": "Peni Candra Rini with Shahzad Ismaily & Andy McGraw",
     "description": ""
   },
   {
@@ -808,7 +850,14 @@
     "date": "May 02 (Sat)",
     "time": "",
     "place": "First Unitarian Church",
-    "artists": "Poison Ruïn, The Marked Men, The Serfs, Zorn",
+    "artists": "Poison Ru\u00efn, The Marked Men, The Serfs, Zorn",
+    "description": ""
+  },
+  {
+    "date": "May 02 (Sat)",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Sun & Rain + Unseen Rain",
     "description": ""
   },
   {
@@ -833,10 +882,24 @@
     "description": ""
   },
   {
+    "date": "May 13 (Wed)",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Yeison Landero",
+    "description": ""
+  },
+  {
     "date": "May 14 (Thu)",
     "time": "",
     "place": "Milkboy",
     "artists": "Ghost Bath, Unholy Altar, Zauberei",
+    "description": ""
+  },
+  {
+    "date": "May 15 (Fri)",
+    "time": "7pm",
+    "place": "Fire Museum",
+    "artists": "East Kensington Spring Festival 2 with DOGO du Togo & The Alagaa Beat Band",
     "description": ""
   },
   {
@@ -847,10 +910,24 @@
     "description": ""
   },
   {
+    "date": "May 17 (Sun)",
+    "time": "3pm",
+    "place": "Fire Museum",
+    "artists": "Dialogues 7: Charumathi Raghuraman & Anantha R Krishnan",
+    "description": ""
+  },
+  {
     "date": "May 21 (Thu)",
     "time": "",
     "place": "Underground Arts",
     "artists": "Oranssi Pazuzu, Wayfarer",
+    "description": ""
+  },
+  {
+    "date": "May 27 (Wed)",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Daniel Carter/Matt Lavelle/Julius Masri/Pete Dennis quartet & Jason Stein/Damon Smith/Adam Shead trio",
     "description": ""
   },
   {
