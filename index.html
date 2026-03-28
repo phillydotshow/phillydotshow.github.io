@@ -89,7 +89,8 @@
         if (mi === -1) return '';
         const now = new Date();
         let y = now.getFullYear();
-        const m = String(mi + 1).padStart(2, 0), d = String(match[2]).padStart(2, 0);
+        const m = String(mi + 1).padStart(2, 0);
+        const d = String(Number(match[2])+1).padStart(2, 0);
         const s = y + '-' + m + '-' + d;
         if (s < now.toISOString().slice(0, 10) && mi <= 5 && now.getMonth() >= 6) y++;
         return `${y}-${m}-${d}`;

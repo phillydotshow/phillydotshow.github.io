@@ -504,13 +504,6 @@
     "description": ""
   },
   {
-    "date": "Mar 21 (Sat)",
-    "time": "7PM",
-    "place": "Molly's Books & Records",
-    "artists": "Van Goth, Spectral Affair, Allison Durham",
-    "description": ""
-  },
-  {
     "date": "Mar 22 (Sun)",
     "time": "3:00PM",
     "place": "Perelman Theater",
@@ -624,6 +617,20 @@
   },
   {
     "date": "Mar 28 (Sat)",
+    "time": "7pm",
+    "place": "Studio 34",
+    "artists": "METER: Experiments in Poetry, Music & Dance",
+    "description": ""
+  },
+  {
+    "date": "Mar 28 (Sat)",
+    "time": "7pm-11pm",
+    "place": "God's Automatic Body",
+    "artists": "PHILLY BAG SHOW",
+    "description": ""
+  },
+  {
+    "date": "Mar 28 (Sat)",
     "time": "8:00PM",
     "place": "The Perch",
     "artists": "Solo and Chamber Music of Elliott Carter Arcana New Music Ensemble",
@@ -640,7 +647,7 @@
     "date": "Mar 28 (Sat)",
     "time": "8:00PM",
     "place": "Wooden Shoe Books",
-    "artists": "The Great Tomorrow- Golberg & Götzen & Pond, Glazier x Blacksberg, Hotep",
+    "artists": "The Great Tomorrow- Golberg & G\u00f6tzen & Pond, Glazier x Blacksberg, Hotep",
     "description": ""
   },
   {
@@ -653,8 +660,57 @@
   {
     "date": "Mar 29 (Sun)",
     "time": "2pm",
-    "place": "Fire Museum",
+    "place": "Walmart Beach",
+    "artists": "Sonali Singh Trio, Pureply, Sunryze, Shadow Catcher",
+    "description": ""
+  },
+  {
+    "date": "Mar 29 (Sun)",
+    "time": "2pm",
+    "place": "The Rotunda",
     "artists": "AIRLFT Festival",
+    "description": ""
+  },
+  {
+    "date": "Mar 29 (Sun)",
+    "time": "8pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "Oxido (NYC), Insectoids, Ballistix, Early Grave",
+    "description": ""
+  },
+  {
+    "date": "Mar 31 (Tue)",
+    "time": "7:30pm",
+    "place": "48 Record Bar",
+    "artists": "Victor Viera-Branco Trio",
+    "description": ""
+  },
+  {
+    "date": "Mar 31 (Tue)",
+    "time": "7:30pm",
+    "place": "Solar Myth",
+    "artists": "DM Hotep / Matt Engle / Daniel Villarreal",
+    "description": ""
+  },
+  {
+    "date": "Apr 01 (Wed)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Carlos Ni\u00f1o & Friends",
+    "description": ""
+  },
+  {
+    "date": "Apr 02 (Thu)",
+    "time": "7:30pm",
+    "place": "Century Bar",
+    "artists": "Juan Castrillon & Grimaldi Baez  /  Melinda Rice & Michael Quick",
+    "description": ""
+  },
+  {
+    "date": "Apr 02 (Thu)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Carlos Ni\u00f1o & Friends",
     "description": ""
   },
   {
@@ -680,9 +736,37 @@
   },
   {
     "date": "Apr 03 (Fri)",
+    "time": "7:30pm-12am",
+    "place": "Ukie Club",
+    "artists": "TAQBIR (Morocco/Spain), ABISM (NYC), VULGARES (1st Show)",
+    "description": ""
+  },
+  {
+    "date": "Apr 03 (Fri)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Dogma, Frayle",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
+    "time": "6pm",
+    "place": "The Perch",
+    "artists": "Messier by Kory Reeder",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
+    "time": "7pm",
+    "place": "Curtis Institute of Music",
+    "artists": "Portrait of Jessie Montgomery",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
+    "time": "7pm-10pm",
+    "place": "God's Automatic Body",
+    "artists": "YOWLER, SABLE ISLAND PONY, SILVIE'S OKAY, PAPER BEE",
     "description": ""
   },
   {
@@ -694,9 +778,23 @@
   },
   {
     "date": "Apr 04 (Sat)",
+    "time": "7:30pm",
+    "place": "Clef Club",
+    "artists": "Harold Smith, Didgeridoo with Arpeggio \u2013 Jazz Cultural Voices",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
     "time": "",
     "place": "Cousin Danny's",
     "artists": "Phantom Rider, Total Maniac, Dipsomaniacs",
+    "description": ""
+  },
+  {
+    "date": "Apr 05 (Sun)",
+    "time": "7pm-12am",
+    "place": "Cousin Danny's",
+    "artists": "Indikator B (Croatia), Totalna Tama (Oakland), Insectoids,The Guise",
     "description": ""
   },
   {
@@ -707,10 +805,31 @@
     "description": ""
   },
   {
+    "date": "Apr 07 (Tue)",
+    "time": "7:30pm",
+    "place": "Temple Performing Arts Center",
+    "artists": "Cybersounds",
+    "description": ""
+  },
+  {
     "date": "Apr 08 (Wed)",
     "time": "8pm",
-    "place": "Fire Museum",
+    "place": "The Perch Large Room",
     "artists": "Tatsuya Nakatani & Arcx Quartet",
+    "description": ""
+  },
+  {
+    "date": "Apr 09 (Thu)",
+    "time": "7pm",
+    "place": "Rose Recital Hll",
+    "artists": "Daedalus Quartet with Matthew Bengston: Alumni Concert",
+    "description": ""
+  },
+  {
+    "date": "Apr 09 (Thu)",
+    "time": "7:30pm",
+    "place": "Century Bar",
+    "artists": "90eze  /  Scott Verrastro  /  23 Shedu",
     "description": ""
   },
   {
@@ -736,6 +855,34 @@
   },
   {
     "date": "Apr 10 (Fri)",
+    "time": "7pm",
+    "place": "The Perch",
+    "artists": "Ghost Harmonics",
+    "description": ""
+  },
+  {
+    "date": "Apr 10 (Fri)",
+    "time": "7pm-11pm",
+    "place": "Vox Populi",
+    "artists": "Sweepers, Rope Trick, Spectral Forces, Sun Within",
+    "description": ""
+  },
+  {
+    "date": "Apr 10 (Fri)",
+    "time": "7pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "PRISION POSTUMO (CA), DARK THOUGHTS, EARLY GRAVE",
+    "description": ""
+  },
+  {
+    "date": "Apr 10 (Fri)",
+    "time": "8pm",
+    "place": "& Space (1021 Hamilton St #302)",
+    "artists": "Cancer House (CHI), JS (LA), LXV, LN Celestine",
+    "description": ""
+  },
+  {
+    "date": "Apr 10 (Fri)",
     "time": "",
     "place": "Ukie Club",
     "artists": "Guilt Trip, Malevolence",
@@ -749,17 +896,31 @@
     "description": ""
   },
   {
-    "date": "Apr 10 (Fri)",
-    "time": "8pm",
-    "place": "& Space (1021 Hamilton St #302)",
-    "artists": "Cancer House (CHI), JS (LA), LXV, LN Celestine",
+    "date": "Apr 11 (Sat)",
+    "time": "7pm",
+    "place": "God's Autobody",
+    "artists": "Mangled, Nomad War Machine, Layer Meat",
     "description": ""
   },
   {
     "date": "Apr 11 (Sat)",
-    "time": "7pm",
-    "place": "God's Autobody",
-    "artists": "Mangled, Nomad War Machine, Layer Meat, TBA",
+    "time": "7pm-12am",
+    "place": "Cousin Danny's",
+    "artists": "SHOTWELL, SUB ROSA, PEN16, GRUMBLE,  SNAGGLETOOTH",
+    "description": ""
+  },
+  {
+    "date": "Apr 11 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Chris Speed Yeah NO with Cuong Vu, Sk\u00fali Sverrisson, Jim Black",
+    "description": ""
+  },
+  {
+    "date": "Apr 11 (Sat)",
+    "time": "8pm",
+    "place": "University Lutheran Church",
+    "artists": "Audra",
     "description": ""
   },
   {
@@ -778,9 +939,30 @@
   },
   {
     "date": "Apr 14 (Tue)",
+    "time": "7:30pm",
+    "place": "Hailton Mansion",
+    "artists": "Lea Bertucci: The Days Pass Quickly Immersed in the Shadow of Eternity",
+    "description": ""
+  },
+  {
+    "date": "Apr 14 (Tue)",
     "time": "8pm",
     "place": "Fire Museum",
     "artists": "Takaat & Heavenly Bodies",
+    "description": ""
+  },
+  {
+    "date": "Apr 14 (Tue)",
+    "time": "8pm",
+    "place": "Calvary Community Center",
+    "artists": "Takaat & Heavenly Bodies",
+    "description": ""
+  },
+  {
+    "date": "Apr 14 (Tue)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Amir ElSaffar New Quartet",
     "description": ""
   },
   {
@@ -791,10 +973,38 @@
     "description": ""
   },
   {
-    "date": "Apr 20 (Mon)",
-    "time": "",
-    "place": "Underground Arts",
-    "artists": "Pallbearer",
+    "date": "Apr 15 (Wed)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Alex Harding & Lucian Ban duo",
+    "description": ""
+  },
+  {
+    "date": "Apr 16 (Thu)",
+    "time": "7pm",
+    "place": "Jerry\u2019s on Front",
+    "artists": "Bill Nace / Mike Polizze duo - Verity Den - Lo Fives - Nathan Taylor",
+    "description": ""
+  },
+  {
+    "date": "Apr 16 (Thu)",
+    "time": "7:30pm",
+    "place": "Century Bar",
+    "artists": "Matt Engle  /  Dave McDonnell's 5th World",
+    "description": ""
+  },
+  {
+    "date": "Apr 16 (Thu)",
+    "time": "7:30pm",
+    "place": "Little Big Planet",
+    "artists": "Howling Storm",
+    "description": ""
+  },
+  {
+    "date": "Apr 18 (Sat)",
+    "time": "7pm",
+    "place": "Studio 34",
+    "artists": "Elizabeth LaPrelle & Erik Ruin: Ballads & Crankies for an Upside-Down World",
     "description": ""
   },
   {
@@ -802,6 +1012,34 @@
     "time": "7:30pm",
     "place": "Fire Museum",
     "artists": "Biotic (Shawn Lovato/Ingrid Laubrock/Henry Mermer), Killick Hinds/Mark Ettingoff/Jeanne Lyons trio & Bhob Rainey/John Moran/Joey Sullivan trio",
+    "description": ""
+  },
+  {
+    "date": "Apr 20 (Mon)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Pallbearer",
+    "description": ""
+  },
+  {
+    "date": "Apr 21 (Tue)",
+    "time": "7:30pm-11pm",
+    "place": "Greys Warehouse",
+    "artists": "Gre/ay, The High Cost of Playing God, Good Pollution, Professor A",
+    "description": ""
+  },
+  {
+    "date": "Apr 22 (Wed)",
+    "time": "6pm-9pm",
+    "place": "Squeezebox Records",
+    "artists": "BEAR HUG GIG #1: BRAINWASH VICTIMS (MKE), CRYIN\u2019 HAND (DC), THE GUISE (PHL), STEEL NEEDLE (PHL), NONKROMULENT",
+    "description": ""
+  },
+  {
+    "date": "Apr 22 (Wed)",
+    "time": "7pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "THE SLADS, SHADOW AGE (IL), SUBTLE BODY",
     "description": ""
   },
   {
@@ -816,6 +1054,13 @@
     "time": "07:00PM-10:00PM",
     "place": "Common Beat Records",
     "artists": "SKALLAR, D.O.D., NIGHTFALL, DYSTROPHY",
+    "description": ""
+  },
+  {
+    "date": "Apr 24 (Fri)",
+    "time": "7:30pm-12am",
+    "place": "Cousin Danny's",
+    "artists": "Beauty,  Brown Angel (PGH),  Agita (Tape Release),  Eyes Have it (NYC)",
     "description": ""
   },
   {
@@ -841,6 +1086,13 @@
   },
   {
     "date": "May 02 (Sat)",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Sun & Rain + Unseen Rain",
+    "description": ""
+  },
+  {
+    "date": "May 02 (Sat)",
     "time": "",
     "place": "Union Transfer",
     "artists": "White Reaper, Drug Church, Public Opinion",
@@ -861,13 +1113,6 @@
     "description": ""
   },
   {
-    "date": "May 02 (Sat)",
-    "time": "8pm",
-    "place": "Fire Museum",
-    "artists": "Sun & Rain + Unseen Rain",
-    "description": ""
-  },
-  {
     "date": "May 08 (Fri)",
     "time": "",
     "place": "First Unitarian Church",
@@ -883,16 +1128,16 @@
   },
   {
     "date": "May 13 (Wed)",
-    "time": "",
-    "place": "Underground Arts",
-    "artists": "Snuffed On Sight, Torture, Final Resting Place",
+    "time": "8pm",
+    "place": "Fire Museum",
+    "artists": "Yeison Landero",
     "description": ""
   },
   {
     "date": "May 13 (Wed)",
-    "time": "8pm",
-    "place": "Fire Museum",
-    "artists": "Yeison Landero",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Snuffed On Sight, Torture, Final Resting Place",
     "description": ""
   },
   {
