@@ -15,16 +15,23 @@
   },
   {
     "date": "Jan 23 (Fri)",
+    "time": "7pm",
+    "place": "Johnny Brenda's",
+    "artists": "Bone Weapon, Dridge, Spellhammer, Nvnnery",
+    "description": ""
+  },
+  {
+    "date": "Jan 23 (Fri)",
     "time": "",
     "place": "Nikki Lopez",
     "artists": "Murder Junkies, Rubbish, Sloppy Bitches, Bad To Worse",
     "description": ""
   },
   {
-    "date": "Jan 23 (Fri)",
-    "time": "7pm",
-    "place": "Johnny Brenda's",
-    "artists": "Bone Weapon, Dridge, Spellhammer, Nvnnery",
+    "date": "Jan 24 (Sat)",
+    "time": "6pm, 7pm",
+    "place": "MilkBoy",
+    "artists": "Joe Jordan, Huston West",
     "description": ""
   },
   {
@@ -56,17 +63,17 @@
     "description": ""
   },
   {
-    "date": "Jan 24 (Sat)",
-    "time": "6pm, 7pm",
-    "place": "MilkBoy",
-    "artists": "Joe Jordan, Huston West",
-    "description": ""
-  },
-  {
     "date": "Jan 29 (Thu)",
     "time": "",
     "place": "Nikki Lopez",
     "artists": "Hiroe, Objects, Beauty",
+    "description": ""
+  },
+  {
+    "date": "Jan 30 (Fri)",
+    "time": "7pm, $10-15",
+    "place": "Brickbat Books",
+    "artists": "John Shaw, Frances Cordie",
     "description": ""
   },
   {
@@ -77,10 +84,10 @@
     "description": ""
   },
   {
-    "date": "Jan 30 (Fri)",
-    "time": "7pm, $10-15",
-    "place": "Brickbat Books",
-    "artists": "John Shaw, Frances Cordie",
+    "date": "Jan 31 (Sat)",
+    "time": "12pm-2pm",
+    "place": "Ace Outpost Coffee",
+    "artists": "Huston West",
     "description": ""
   },
   {
@@ -95,13 +102,6 @@
     "time": "Film 7pm, Show 8pm",
     "place": "Solar Myth",
     "artists": "Space Between Attack & Decay Screening, Emily Robb Band, Walnut Brain",
-    "description": ""
-  },
-  {
-    "date": "Jan 31 (Sat)",
-    "time": "12pm-2pm",
-    "place": "Ace Outpost Coffee",
-    "artists": "Huston West",
     "description": ""
   },
   {
@@ -169,16 +169,16 @@
   },
   {
     "date": "Feb 14 (Sat)",
-    "time": "730pm",
-    "place": "2223 Fish",
-    "artists": "JeJaWeDa (Jeb Bishop / Jaap Blonk / Weasel Walter & Damon Smith), Sandy Ewen & 52nd Street Planetary Ensemble",
+    "time": "8pm",
+    "place": "Laundrette",
+    "artists": "Wednesday Knudsen, Stiff Curlz, Bill Nace",
     "description": ""
   },
   {
     "date": "Feb 14 (Sat)",
-    "time": "8pm",
-    "place": "Laundrette",
-    "artists": "Wednesday Knudsen, Stiff Curlz, Bill Nace",
+    "time": "730pm",
+    "place": "2223 Fish",
+    "artists": "JeJaWeDa (Jeb Bishop / Jaap Blonk / Weasel Walter & Damon Smith), Sandy Ewen & 52nd Street Planetary Ensemble",
     "description": ""
   },
   {
@@ -232,16 +232,16 @@
   },
   {
     "date": "Feb 28 (Sat)",
-    "time": "",
-    "place": "Lithuanian Music Hall",
-    "artists": "Angel Du$t, Crown of Thornz, Combust, Love Sick",
+    "time": "7pm",
+    "place": "God's Autobody",
+    "artists": "Yearn Decay, Jewel Eye, Nick Saia, Wet Eggs, Benoit Francois",
     "description": ""
   },
   {
     "date": "Feb 28 (Sat)",
-    "time": "7pm",
-    "place": "God's Autobody",
-    "artists": "Yearn Decay, Jewel Eye, Nick Saia, Wet Eggs, Benoit Francois",
+    "time": "",
+    "place": "Lithuanian Music Hall",
+    "artists": "Angel Du$t, Crown of Thornz, Combust, Love Sick",
     "description": ""
   },
   {
@@ -819,6 +819,13 @@
     "description": ""
   },
   {
+    "date": "Apr 08 (Wed)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "Tatsuya Nakatani & Arcx Quartet",
+    "description": ""
+  },
+  {
     "date": "Apr 09 (Thu)",
     "time": "7pm",
     "place": "Rose Recital Hll",
@@ -947,13 +954,6 @@
   {
     "date": "Apr 14 (Tue)",
     "time": "8pm",
-    "place": "Fire Museum",
-    "artists": "Takaat & Heavenly Bodies",
-    "description": ""
-  },
-  {
-    "date": "Apr 14 (Tue)",
-    "time": "8pm",
     "place": "Calvary Community Center",
     "artists": "Takaat & Heavenly Bodies",
     "description": ""
@@ -968,15 +968,8 @@
   {
     "date": "Apr 15 (Wed)",
     "time": "8pm",
-    "place": "Fire Museum",
-    "artists": "Alex Harding/Lucian Ban duo & David Dzubinski/Carlos Santiago duo",
-    "description": ""
-  },
-  {
-    "date": "Apr 15 (Wed)",
-    "time": "8pm",
     "place": "The Perch",
-    "artists": "Alex Harding & Lucian Ban duo",
+    "artists": "Alex Harding/Lucian Ban duo & David Dzubinski/Carlos Santiago duo",
     "description": ""
   },
   {
@@ -1010,7 +1003,7 @@
   {
     "date": "Apr 20 (Mon)",
     "time": "7:30pm",
-    "place": "Fire Museum",
+    "place": "Vox Populi",
     "artists": "Biotic (Shawn Lovato/Ingrid Laubrock/Henry Mermer), Killick Hinds/Mark Ettingoff/Jeanne Lyons trio & Bhob Rainey/John Moran/Joey Sullivan trio",
     "description": ""
   },
@@ -1073,7 +1066,7 @@
   {
     "date": "Apr 26 (Sun)",
     "time": "7:30pm",
-    "place": "Fire Museum",
+    "place": "The Perch (Large Room)",
     "artists": "Peni Candra Rini with Shahzad Ismaily & Andy McGraw",
     "description": ""
   },
@@ -1087,7 +1080,7 @@
   {
     "date": "May 02 (Sat)",
     "time": "8pm",
-    "place": "Fire Museum",
+    "place": "Calvary Community Center",
     "artists": "Sun & Rain + Unseen Rain",
     "description": ""
   },
@@ -1129,7 +1122,7 @@
   {
     "date": "May 13 (Wed)",
     "time": "8pm",
-    "place": "Fire Museum",
+    "place": "The Rotunda",
     "artists": "Yeison Landero",
     "description": ""
   },
@@ -1150,7 +1143,7 @@
   {
     "date": "May 15 (Fri)",
     "time": "7pm",
-    "place": "Fire Museum",
+    "place": "Philadelphia Brewing Company Courtyard",
     "artists": "East Kensington Spring Festival 2 with DOGO du Togo & The Alagaa Beat Band",
     "description": ""
   },
@@ -1164,7 +1157,7 @@
   {
     "date": "May 17 (Sun)",
     "time": "3pm",
-    "place": "Fire Museum",
+    "place": "The Rotunda",
     "artists": "Dialogues 7: Charumathi Raghuraman & Anantha R Krishnan",
     "description": ""
   },
@@ -1178,7 +1171,7 @@
   {
     "date": "May 27 (Wed)",
     "time": "8pm",
-    "place": "Fire Museum",
+    "place": "The Perch (Large Room)",
     "artists": "Daniel Carter/Matt Lavelle/Julius Masri/Pete Dennis quartet & Jason Stein/Damon Smith/Adam Shead trio",
     "description": ""
   },
