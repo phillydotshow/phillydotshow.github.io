@@ -771,6 +771,13 @@
   },
   {
     "date": "Apr 04 (Sat)",
+    "time": "7pm",
+    "place": "The Pouch",
+    "artists": "John Moran Trio - Sweet Baby Jesus - Sweepers - Ringtone",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
     "time": "7:30pm",
     "place": "Brickbat Books",
     "artists": "Angel Meat, The Lodestones, Ted Rees",
@@ -788,6 +795,13 @@
     "time": "",
     "place": "Cousin Danny's",
     "artists": "Phantom Rider, Total Maniac, Dipsomaniacs",
+    "description": ""
+  },
+  {
+    "date": "Apr 04 (Sat)",
+    "time": "",
+    "place": "TLA",
+    "artists": "Circle Jerks, Gorilla Biscuits",
     "description": ""
   },
   {
@@ -855,6 +869,13 @@
   },
   {
     "date": "Apr 10 (Fri)",
+    "time": "10am",
+    "place": "Fabric Workshop and Museum",
+    "artists": "Legacy in Sound: Archiving Philadelphia Jazz with Odean Pope",
+    "description": ""
+  },
+  {
+    "date": "Apr 10 (Fri)",
     "time": "7pm",
     "place": "The Perch",
     "artists": "Ghost Harmonics",
@@ -907,6 +928,13 @@
     "time": "7pm-12am",
     "place": "Cousin Danny's",
     "artists": "SHOTWELL, SUB ROSA, PEN16, GRUMBLE,  SNAGGLETOOTH",
+    "description": ""
+  },
+  {
+    "date": "Apr 11 (Sat)",
+    "time": "7:30pm-11pm",
+    "place": "Ruba Club",
+    "artists": "Holden Linton Presents \"AN ALTERNATIVE GUIDE TO PATHWAYS\" Showcase",
     "description": ""
   },
   {
@@ -994,6 +1022,20 @@
     "description": ""
   },
   {
+    "date": "Apr 19 (Sun)",
+    "time": "7pm",
+    "place": "Christ Church",
+    "artists": "Label Launch - Infloresence Trio, Nameless Network, and Gabriel Meyer Quartet",
+    "description": ""
+  },
+  {
+    "date": "Apr 19 (Sun)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Min Xiao-Fen & Julian Kytasty",
+    "description": ""
+  },
+  {
     "date": "Apr 20 (Mon)",
     "time": "7:30pm",
     "place": "Vox Populi",
@@ -1015,6 +1057,20 @@
     "description": ""
   },
   {
+    "date": "Apr 21 (Tue)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Olivia Block",
+    "description": ""
+  },
+  {
+    "date": "Apr 21 (Tue)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Leather Lung, The Virgos, Savage Mystic, Wild Beyond",
+    "description": ""
+  },
+  {
     "date": "Apr 22 (Wed)",
     "time": "6pm-9pm",
     "place": "Squeezebox Records",
@@ -1026,6 +1082,20 @@
     "time": "7pm-11pm",
     "place": "Cousin Danny's",
     "artists": "THE SLADS, SHADOW AGE (IL), SUBTLE BODY",
+    "description": ""
+  },
+  {
+    "date": "Apr 22 (Wed)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Takuya Kuroda",
+    "description": ""
+  },
+  {
+    "date": "Apr 23 (Thu)",
+    "time": "8pm",
+    "place": "Secret Garden",
+    "artists": "Brainwash Victims (MKE), Ballistix, Real Shocks",
     "description": ""
   },
   {
@@ -1050,6 +1120,20 @@
     "description": ""
   },
   {
+    "date": "Apr 24 (Fri)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Ragana",
+    "description": ""
+  },
+  {
+    "date": "Apr 24 (Fri)",
+    "time": "",
+    "place": "Ortleib's",
+    "artists": "Creep Fest",
+    "description": ""
+  },
+  {
     "date": "Apr 25 (Sat)",
     "time": "",
     "place": "Underground Arts",
@@ -1064,10 +1148,31 @@
     "description": ""
   },
   {
+    "date": "Apr 27 (Mon)",
+    "time": "7:30pm",
+    "place": "Above Solar Myth",
+    "artists": "Chris Forsyth's What is Now w/ Joey Sullivan and John Moran",
+    "description": ""
+  },
+  {
+    "date": "Apr 28 (Tue)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Audrey Chen / Flandrew Fleisenberg , Schuyler Thum",
+    "description": ""
+  },
+  {
     "date": "May 01 (Fri)",
     "time": "7:00PM-11:00PM",
     "place": "PhilaMoca",
     "artists": "COKE BUST, COMMITMENT (ALBUM RELEASE), HIRS, MELISSA, DEMONSTRATE",
+    "description": ""
+  },
+  {
+    "date": "May 01 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Sam Prekop",
     "description": ""
   },
   {
@@ -1096,6 +1201,13 @@
     "time": "",
     "place": "First Unitarian Church",
     "artists": "Poison Ru\u00efn, The Marked Men, The Serfs, Zorn",
+    "description": ""
+  },
+  {
+    "date": "May 03 (Sun)",
+    "time": "10am",
+    "place": "John Heinz National Wildlife Refuge at Tinicum",
+    "artists": "Follow The Sound a birdwalk with music by Matt Engle and Juan Castrill\u00f3n",
     "description": ""
   },
   {
@@ -1162,6 +1274,27 @@
     "description": ""
   },
   {
+    "date": "May 21 (Thu)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Witchvomit, Torture Rack, Caesarean, Coffin Dust",
+    "description": ""
+  },
+  {
+    "date": "May 22 (Fri)",
+    "time": "7pm-10pm",
+    "place": "God's Automatic Body",
+    "artists": "Loosey, Smarthearts, Beauty",
+    "description": ""
+  },
+  {
+    "date": "May 22 (Fri)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Laceration, Glorious Depravity, Hematoid",
+    "description": ""
+  },
+  {
     "date": "May 27 (Wed)",
     "time": "8pm",
     "place": "The Perch (Large Room)",
@@ -1190,6 +1323,13 @@
     "description": ""
   },
   {
+    "date": "Jun 07 (Sun)",
+    "time": "8pm",
+    "place": "Maas Building",
+    "artists": "Max Johnson Sextet",
+    "description": ""
+  },
+  {
     "date": "Jun 14 (Sun)",
     "time": "5pm",
     "place": "The First Unitarian Church",
@@ -1197,10 +1337,31 @@
     "description": ""
   },
   {
+    "date": "Jun 18 (Thu)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Hashtronaut",
+    "description": ""
+  },
+  {
     "date": "Jun 23 (Tue)",
     "time": "",
     "place": "Fillmore Philly",
     "artists": "Spoon & The Beths",
+    "description": ""
+  },
+  {
+    "date": "Jun 24 (Wed)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "Fred Frith & Walnut Brain",
+    "description": ""
+  },
+  {
+    "date": "Jun 27 (Sat)",
+    "time": "7pm-10pm",
+    "place": "God's Autobody",
+    "artists": "LAYER MEAT, SPECTRAL FORCES, VOID OF INFINITE CONSEQUENCE : A Benefit Show for Sol Collective",
     "description": ""
   },
   {
@@ -1215,6 +1376,20 @@
     "time": "",
     "place": "Johnny Brenda's",
     "artists": "Carnivorous Bells, Cartoon, Early Grave, NRG",
+    "description": ""
+  },
+  {
+    "date": "Aug 20 (Thu)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Kaonashi, The Number 12 Looks Like You, HIRS, Abrupt Decay, Psalm, Sabella, Thus Spoke Zarathustra, Gungame",
+    "description": ""
+  },
+  {
+    "date": "Oct 10 (Sat)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Panopticon, Catharsis",
     "description": ""
   }
 ]
