@@ -700,6 +700,20 @@
     "description": ""
   },
   {
+    "date": "Apr 01 (Wed)",
+    "time": "",
+    "place": "PhilaMOCA",
+    "artists": "Coke Bust, Commitment, HIRS, Melissa, Demonstrate",
+    "description": ""
+  },
+  {
+    "date": "Apr 01 (Wed)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Green Jelly",
+    "description": ""
+  },
+  {
     "date": "Apr 02 (Thu)",
     "time": "7:30pm",
     "place": "Century Bar",
@@ -1170,9 +1184,23 @@
   },
   {
     "date": "May 01 (Fri)",
+    "time": "7pm",
+    "place": "Brickbat Books",
+    "artists": "Aaron Rosenblum / Jim Rats",
+    "description": ""
+  },
+  {
+    "date": "May 01 (Fri)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Sam Prekop",
+    "description": ""
+  },
+  {
+    "date": "May 02 (Sat)",
+    "time": "7pm-10pm",
+    "place": "The First Unitarian Church",
+    "artists": "Poison Ruin record release show with Marked Men, The Seres, Zorn",
     "description": ""
   },
   {
@@ -1211,6 +1239,41 @@
     "description": ""
   },
   {
+    "date": "May 03 (Sun)",
+    "time": "3pm",
+    "place": "Power Market",
+    "artists": "RECESS   Odean Pope & Immanuel Wilkins, with Jennifer Kidwell",
+    "description": ""
+  },
+  {
+    "date": "May 04 (Mon)",
+    "time": "8pm",
+    "place": "Head Long Dance Theater",
+    "artists": "Monday Night Footfall- Reona, Taal Baladi, Rattigan x Pond",
+    "description": ""
+  },
+  {
+    "date": "May 05 (Tue)",
+    "time": "6pm",
+    "place": "Brickbat Books",
+    "artists": "Dann Pell / Dustin Carlson & Caroline Davis / Lower Mountains",
+    "description": ""
+  },
+  {
+    "date": "May 06 (Wed)",
+    "time": "8pm",
+    "place": "Jerry\u2019s on Front",
+    "artists": "YR Knives  /. Chris Fotsyth & Victor Vieira Branco duo",
+    "description": ""
+  },
+  {
+    "date": "May 08 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "The Messthetics & James Brandon Lewis",
+    "description": ""
+  },
+  {
     "date": "May 08 (Fri)",
     "time": "",
     "place": "First Unitarian Church",
@@ -1222,6 +1285,20 @@
     "time": "",
     "place": "Underground Arts",
     "artists": "Corrosion Of Conformity, Whores, Crobot",
+    "description": ""
+  },
+  {
+    "date": "May 09 (Sat)",
+    "time": "7pm-11:30pm",
+    "place": "Warehouse on Watts",
+    "artists": "7 Seconds, Sunstroke, Rule Them All, Just Look Around",
+    "description": ""
+  },
+  {
+    "date": "May 10 (Sun)",
+    "time": "3pm",
+    "place": "Power Market",
+    "artists": "RECESS    Odean Pope, Craig McIver, Diane Monroe, Victor North, Harold Smith, and Nimrod Speaks.",
     "description": ""
   },
   {
@@ -1239,6 +1316,20 @@
     "description": ""
   },
   {
+    "date": "May 13 (Wed)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Earth Tongue, Pink Fuzz",
+    "description": ""
+  },
+  {
+    "date": "May 14 (Thu)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Will Calhoun\u2019s Mali Project",
+    "description": ""
+  },
+  {
     "date": "May 14 (Thu)",
     "time": "",
     "place": "Milkboy",
@@ -1247,9 +1338,86 @@
   },
   {
     "date": "May 15 (Fri)",
+    "time": "2pm",
+    "place": "Marion Anderson Hall",
+    "artists": "Yannick Leads Bruckner and Sorey",
+    "description": ""
+  },
+  {
+    "date": "May 15 (Fri)",
+    "time": "6pm-10:30pm",
+    "place": "The Kennel",
+    "artists": "VIVIAN GREY, SOMEBODY\u2019S DAUGHTER, MARSH OF CHELIMBER, COMPRADOR",
+    "description": ""
+  },
+  {
+    "date": "May 15 (Fri)",
     "time": "7pm",
     "place": "Philadelphia Brewing Company Courtyard",
     "artists": "East Kensington Spring Festival 2 with DOGO du Togo & The Alagaa Beat Band",
+    "description": ""
+  },
+  {
+    "date": "May 15 (Fri)",
+    "time": "7pm",
+    "place": "Philadelphia Ethical Society",
+    "artists": "Equinox Variant 6",
+    "description": ""
+  },
+  {
+    "date": "May 15 (Fri)",
+    "time": "7:30pm",
+    "place": "Cousin Danny's",
+    "artists": "STUPID BAG RECORDS 15 YESR ANNIVERSARY",
+    "description": ""
+  },
+  {
+    "date": "May 15 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Son Of Goldfinger",
+    "description": ""
+  },
+  {
+    "date": "May 15 (Fri)",
+    "time": "",
+    "place": "Rusty Nail Ardmore",
+    "artists": "Assayer, Abortion Survivor, Machines of Penalty, Cathedral Ward",
+    "description": ""
+  },
+  {
+    "date": "May 16 (Sat)",
+    "time": "1am-4am",
+    "place": "PhilaMoca",
+    "artists": "Dez Cadena plays an all Black Flag set! Plus NOUN, Droogettes, the Brood",
+    "description": ""
+  },
+  {
+    "date": "May 16 (Sat)",
+    "time": "6:30pm-10pm",
+    "place": "Common Beat Records",
+    "artists": "Stinking Lizaveta, Rope Trick, Deathbird Earth",
+    "description": ""
+  },
+  {
+    "date": "May 16 (Sat)",
+    "time": "8pm",
+    "place": "Marion Anderson Hall",
+    "artists": "Yannick Leads Bruckner and Sorey",
+    "description": ""
+  },
+  {
+    "date": "May 16 (Sat)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "The Music of Ben Nobuto NakedEye Ensemble",
+    "description": ""
+  },
+  {
+    "date": "May 16 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Walter Smith III Trio",
     "description": ""
   },
   {
@@ -1264,6 +1432,20 @@
     "time": "3pm",
     "place": "The Rotunda",
     "artists": "Dialogues 7: Charumathi Raghuraman & Anantha R Krishnan",
+    "description": ""
+  },
+  {
+    "date": "May 17 (Sun)",
+    "time": "7pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "BURSTING (CHICAGO) POSITRONIX/QUIET MAN/SUBTLE BODY",
+    "description": ""
+  },
+  {
+    "date": "May 21 (Thu)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Get Up With It A Miles Davis Centennial Celebration - In A Silent Way",
     "description": ""
   },
   {
@@ -1289,9 +1471,58 @@
   },
   {
     "date": "May 22 (Fri)",
+    "time": "7pm",
+    "place": "Brickbat Books",
+    "artists": "Marcia Bassett / Taralie Peterson / Ka Baird",
+    "description": ""
+  },
+  {
+    "date": "May 22 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Get Up With It A Miles Davis Centennial Celebration - Bitches Brew",
+    "description": ""
+  },
+  {
+    "date": "May 22 (Fri)",
+    "time": "8pm",
+    "place": "Head Long Dance Theater",
+    "artists": "Madison Greenstone, Holden Linton & ?????",
+    "description": ""
+  },
+  {
+    "date": "May 22 (Fri)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Laceration, Glorious Depravity, Hematoid",
+    "description": ""
+  },
+  {
+    "date": "May 22 (Fri)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Sisters, Hiroe, Beinn",
+    "description": ""
+  },
+  {
+    "date": "May 23 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Get Up With It A Miles Davis Centennial Celebration - Jack Johnson",
+    "description": ""
+  },
+  {
+    "date": "May 24 (Sun)",
+    "time": "5pm",
+    "place": "Ruba Club",
+    "artists": "Marshall Allen\u2019s 102 Birthday Celebration",
+    "description": ""
+  },
+  {
+    "date": "May 26 (Tue)",
+    "time": "7:30pm",
+    "place": "Solar Myth",
+    "artists": "Chris Forsyth's What Is Now w/ John Moran and Joey Sullivan",
     "description": ""
   },
   {
@@ -1302,10 +1533,59 @@
     "description": ""
   },
   {
+    "date": "May 27 (Wed)",
+    "time": "8pm",
+    "place": "The Perch Large Room",
+    "artists": "Daniel Carter/Matt Lavelle/Julius Masri/Pete Dennis quartet & Jason Stein/Damon Smith/Adam Shead trio",
+    "description": ""
+  },
+  {
+    "date": "May 28 (Thu)",
+    "time": "8pm",
+    "place": "Philadelphia Ethical Society",
+    "artists": "Victor Vieira-Branco's Bark Culture  - The Giant is Awkward  release show",
+    "description": ""
+  },
+  {
+    "date": "May 29 (Fri)",
+    "time": "8pm",
+    "place": "Pageant: Soloveev",
+    "artists": "Mankwe Ndosi/Jamal R. Moore duo & Erik Ruin's Ominous Cloud Ensemble",
+    "description": ""
+  },
+  {
     "date": "May 29 (Fri)",
     "time": "",
     "place": "Underground Arts",
     "artists": "Master Boot Record",
+    "description": ""
+  },
+  {
+    "date": "May 30 (Sat)",
+    "time": "6pm",
+    "place": "Spruce Street Harbour Park",
+    "artists": "Uranium Club, Mesh, NRG (FREE SHOW)",
+    "description": ""
+  },
+  {
+    "date": "May 30 (Sat)",
+    "time": "7:30pm",
+    "place": "Evangelical Lutheran Church of the Atonement",
+    "artists": "Zosha Warpeha & Carlo Costa / Philadelphia Research Ensemble / Episodic Memories",
+    "description": ""
+  },
+  {
+    "date": "May 30 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Wolf Eyes",
+    "description": ""
+  },
+  {
+    "date": "May 31 (Sun)",
+    "time": "6:30pm",
+    "place": "Brickbat Books",
+    "artists": "The Early / Bent Light / Anne Ishii",
     "description": ""
   },
   {
@@ -1316,6 +1596,27 @@
     "description": ""
   },
   {
+    "date": "May 31 (Sun)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "YDI, TOTAL CON (uk), EARLY GRAVE, SOFT TARGETS",
+    "description": ""
+  },
+  {
+    "date": "May 31 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Fentanyl, The Damage, Brainwashed, Blunt Force",
+    "description": ""
+  },
+  {
+    "date": "Jun 04 (Thu)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "b00b, Cutie Riot",
+    "description": ""
+  },
+  {
     "date": "Jun 05 (Fri)",
     "time": "7pm",
     "place": "The Latvian Society of Philadelphia",
@@ -1323,10 +1624,38 @@
     "description": ""
   },
   {
+    "date": "Jun 05 (Fri)",
+    "time": "8pm",
+    "place": "University Lutheran Church",
+    "artists": "Morton Feldman: Three Voices Charlotte Mundy, voice",
+    "description": ""
+  },
+  {
+    "date": "Jun 07 (Sun)",
+    "time": "7pm",
+    "place": "The Pouch",
+    "artists": "Answering Machines (Chi), P. Noid (Chi), The Shield",
+    "description": ""
+  },
+  {
     "date": "Jun 07 (Sun)",
     "time": "8pm",
     "place": "Maas Building",
     "artists": "Max Johnson Sextet",
+    "description": ""
+  },
+  {
+    "date": "Jun 09 (Tue)",
+    "time": "8pm",
+    "place": "The Rotunda",
+    "artists": "Paolo Angeli",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "Shiraz Ensemble with special guest Bahar Badieitabar",
     "description": ""
   },
   {
@@ -1366,9 +1695,23 @@
   },
   {
     "date": "Jun 27 (Sat)",
+    "time": "7pm-10pm",
+    "place": "God's Automatic Body",
+    "artists": "LAYER MEAT, SPECTRAL FORCES, VOID OF INFINITE CONSEQUENCE : A Benefit Show for Sol Collective",
+    "description": ""
+  },
+  {
+    "date": "Jun 27 (Sat)",
     "time": "7:30pm",
     "place": "God's Autobody",
     "artists": "Layer Meat, Spectral Forces, Void of the Infinite Consequence. Benefit for Sol Collective",
+    "description": ""
+  },
+  {
+    "date": "Jul 01 (Wed)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "L.O.T.I.O.N. (nyc), Destruct (rva), NISEMONO (nyc), EARLY GRAVE",
     "description": ""
   },
   {
@@ -1376,6 +1719,13 @@
     "time": "",
     "place": "Johnny Brenda's",
     "artists": "Carnivorous Bells, Cartoon, Early Grave, NRG",
+    "description": ""
+  },
+  {
+    "date": "Aug 01 (Sat)",
+    "time": "7am-11am",
+    "place": "PhilaMoca",
+    "artists": "Clash tribute show with Kepi Ghoulie, Ara and Jay of Slackers, Danbert of Chumbawamba, The Droogettes, Dracu-Las",
     "description": ""
   },
   {

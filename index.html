@@ -9,28 +9,33 @@
 </head>
 <style>
     @font-face {
-        font-family: Doto;
-        src: url('./assets/Doto-VariableFont_ROND,wght.ttf');
+        font-family: Pitch;
+        src: url('./assets/test-pitch-regular.woff2');
+        font-weight: 400;
     }
 
-    /* .doto-regular> {
-    } */
+    @font-face {
+        font-family: Pitch;
+        src: url('./assets/test-pitch-medium.woff2');
+        font-weight: 500;
+    }
+
+    @font-face {
+        font-family: Pitch;
+        src: url('./assets/test-pitch-bold.woff2');
+        font-weight: 700;
+    }
 
     body {
-        font-family: "Doto", courier, monospace;
-        font-optical-sizing: auto;
+        font-family: "Pitch", courier, monospace;
         font-weight: 400;
         font-style: normal;
-        font-variation-settings:
-            "ROND" 100;
-        /* font-family: "Cutive Mono", Courier, monospace; */
         background-color: #000;
         color: #fff;
         font-size: 17px;
         padding: 0 10px;
         color: #fff;
         line-height: 1.25;
-        font-weight: 600;
     }
 
     span.date {
