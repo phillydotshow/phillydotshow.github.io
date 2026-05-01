@@ -700,20 +700,6 @@
     "description": ""
   },
   {
-    "date": "Apr 01 (Wed)",
-    "time": "",
-    "place": "PhilaMOCA",
-    "artists": "Coke Bust, Commitment, HIRS, Melissa, Demonstrate",
-    "description": ""
-  },
-  {
-    "date": "Apr 01 (Wed)",
-    "time": "",
-    "place": "Nikki Lopez",
-    "artists": "Green Jelly",
-    "description": ""
-  },
-  {
     "date": "Apr 02 (Thu)",
     "time": "7:30pm",
     "place": "Century Bar",
@@ -1242,7 +1228,7 @@
     "date": "May 03 (Sun)",
     "time": "3pm",
     "place": "Power Market",
-    "artists": "RECESS   Odean Pope & Immanuel Wilkins, with Jennifer Kidwell",
+    "artists": "Odean Pope & Immanuel Wilkins, with Jennifer Kidwell",
     "description": ""
   },
   {
@@ -1263,7 +1249,7 @@
     "date": "May 06 (Wed)",
     "time": "8pm",
     "place": "Jerry\u2019s on Front",
-    "artists": "YR Knives  /. Chris Fotsyth & Victor Vieira Branco duo",
+    "artists": "YR Knives  /. Chris Forsyth & Victor Vieira Branco duo",
     "description": ""
   },
   {
@@ -1298,7 +1284,7 @@
     "date": "May 10 (Sun)",
     "time": "3pm",
     "place": "Power Market",
-    "artists": "RECESS    Odean Pope, Craig McIver, Diane Monroe, Victor North, Harold Smith, and Nimrod Speaks.",
+    "artists": "Odean Pope, Craig McIver, Diane Monroe, Victor North, Harold Smith, and Nimrod Speaks.",
     "description": ""
   },
   {
@@ -1645,6 +1631,13 @@
     "description": ""
   },
   {
+    "date": "Jun 08 (Mon)",
+    "time": "7pm SHARP",
+    "place": "The Perch (Large Room)",
+    "artists": "Weasel Walter / Ipek Eginli / James McKain / Evan Palmer, TYPO! / James Reichard & Matt Shuff Duo",
+    "description": ""
+  },
+  {
     "date": "Jun 09 (Tue)",
     "time": "8pm",
     "place": "The Rotunda",
@@ -1690,13 +1683,6 @@
     "date": "Jun 27 (Sat)",
     "time": "7pm-10pm",
     "place": "God's Autobody",
-    "artists": "LAYER MEAT, SPECTRAL FORCES, VOID OF INFINITE CONSEQUENCE : A Benefit Show for Sol Collective",
-    "description": ""
-  },
-  {
-    "date": "Jun 27 (Sat)",
-    "time": "7pm-10pm",
-    "place": "God's Automatic Body",
     "artists": "LAYER MEAT, SPECTRAL FORCES, VOID OF INFINITE CONSEQUENCE : A Benefit Show for Sol Collective",
     "description": ""
   },
