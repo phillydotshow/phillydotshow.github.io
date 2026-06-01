@@ -1596,6 +1596,34 @@
     "description": ""
   },
   {
+    "date": "Jun 03 (Wed)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Pollute, b.0.0.b, Insectoids, Vile Enemy",
+    "description": ""
+  },
+  {
+    "date": "Jun 03 (Wed)",
+    "time": "",
+    "place": "Johnny Brenda's",
+    "artists": "Portrayal Of Guilt, Street Sects, The Infinity Ring, Commitment",
+    "description": ""
+  },
+  {
+    "date": "Jun 04 (Thu)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Wonderful Sound 3",
+    "description": ""
+  },
+  {
+    "date": "Jun 04 (Thu)",
+    "time": "8pm",
+    "place": "The Rotunda",
+    "artists": "MSHR with Grace Villamil",
+    "description": ""
+  },
+  {
     "date": "Jun 04 (Thu)",
     "time": "",
     "place": "Nikki Lopez",
@@ -1617,6 +1645,55 @@
     "description": ""
   },
   {
+    "date": "Jun 05 (Fri)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Stygian Bough, 40 Watt Sun",
+    "description": ""
+  },
+  {
+    "date": "Jun 06 (Sat)",
+    "time": "2pm",
+    "place": "Fairmount Waterworks",
+    "artists": "Currents - Eugene Lew / Taji Ra-oof Nahl / Centaur Clause",
+    "description": ""
+  },
+  {
+    "date": "Jun 06 (Sat)",
+    "time": "6pm",
+    "place": "The Singing Fountain",
+    "artists": "Ambient Open Mic",
+    "description": ""
+  },
+  {
+    "date": "Jun 06 (Sat)",
+    "time": "7pm",
+    "place": "Settlement Music School",
+    "artists": "Prism Quartet",
+    "description": ""
+  },
+  {
+    "date": "Jun 06 (Sat)",
+    "time": "7:30pm",
+    "place": "Head Long Dance Theater",
+    "artists": "The People's Music Supply Composer's Orchestra - The Spring Concert",
+    "description": ""
+  },
+  {
+    "date": "Jun 06 (Sat)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Antiseen, Bad Luck 13, YDI, Sailik",
+    "description": ""
+  },
+  {
+    "date": "Jun 07 (Sun)",
+    "time": "6pm-7:30pm",
+    "place": "Grays Warehouse",
+    "artists": "Fake Dust (Portland), Durian, Agonesiac",
+    "description": ""
+  },
+  {
     "date": "Jun 07 (Sun)",
     "time": "7pm",
     "place": "The Pouch",
@@ -1631,10 +1708,31 @@
     "description": ""
   },
   {
+    "date": "Jun 07 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Family Garden, Moon Farmer, Lil Bambinos",
+    "description": ""
+  },
+  {
+    "date": "Jun 07 (Sun)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Conjurer, Sadness, Snooze, Pains",
+    "description": ""
+  },
+  {
     "date": "Jun 08 (Mon)",
     "time": "7pm SHARP",
     "place": "The Perch (Large Room)",
     "artists": "Weasel Walter / Ipek Eginli / James McKain / Evan Palmer, TYPO! / James Reichard & Matt Shuff Duo",
+    "description": ""
+  },
+  {
+    "date": "Jun 08 (Mon)",
+    "time": "7:30pm",
+    "place": "The Perch",
+    "artists": "Ipek Eginli / James McKain / Evan Palmer / Weasel Walter  -  Typo!  -  James Reichard/Matt Shuff",
     "description": ""
   },
   {
@@ -1645,10 +1743,122 @@
     "description": ""
   },
   {
+    "date": "Jun 09 (Tue)",
+    "time": "8pm",
+    "place": "Notsolatin",
+    "artists": "Pirasteh/Kraines/Rice/Ferdowsi",
+    "description": ""
+  },
+  {
+    "date": "Jun 11 (Thu)",
+    "time": "7:30pm",
+    "place": "Shibari Cafe",
+    "artists": "The Ghost",
+    "description": ""
+  },
+  {
+    "date": "Jun 11 (Thu)",
+    "time": "8pm",
+    "place": "PhilaMoca",
+    "artists": "Marisa Anderson",
+    "description": ""
+  },
+  {
+    "date": "Jun 11 (Thu)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Deadsky, Nightfall, Bequest, Sediment",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "7pm",
+    "place": "Strung Up",
+    "artists": "Hex Files (NC), Subtle Body, Exquisite Corp.",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "BREAK FREE FEST 6/12 - 6/14",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "7pm-11pm",
+    "place": "Ortlieb's",
+    "artists": "Tilted Issue 3 Release show",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "7pm-11pm",
+    "place": "The First Unitarian Church",
+    "artists": "Demonstrate Record Release",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "7:30pm-11:30pm",
+    "place": "Century",
+    "artists": "Northern Liberties, Coma Hole (RI), Rope Trick, Big Toy",
+    "description": ""
+  },
+  {
     "date": "Jun 12 (Fri)",
     "time": "8pm",
     "place": "The Perch (Large Room)",
     "artists": "Shiraz Ensemble with special guest Bahar Badieitabar",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Kalia Vandever",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "8pm",
+    "place": "The Perch Large Room",
+    "artists": "Shiraz Ensemble with special guest Bahar Badieitabar",
+    "description": ""
+  },
+  {
+    "date": "Jun 12 (Fri)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Demonstrate, Speed Plans, Fightback, By All Means, Joystick Fury",
+    "description": ""
+  },
+  {
+    "date": "Jun 13 (Sat)",
+    "time": "7pm",
+    "place": "Stoneleigh: a natural garden",
+    "artists": "The Music of Pauline Oliveros  - Arcana New Music Ensemble",
+    "description": ""
+  },
+  {
+    "date": "Jun 13 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Anthony Tidd Quartet",
+    "description": ""
+  },
+  {
+    "date": "Jun 13 (Sat)",
+    "time": "8pm",
+    "place": "PhilaMoca",
+    "artists": "JG Thirlwell  performs SILVER MANTIS",
+    "description": ""
+  },
+  {
+    "date": "Jun 13 (Sat)",
+    "time": "",
+    "place": "Ukie Club",
+    "artists": "Break Free Fest: Initiate, Chepang, Cherub Chains, Wretched Blessing, No Weapon, Cold Vein, Cold Call",
     "description": ""
   },
   {
@@ -1659,10 +1869,94 @@
     "description": ""
   },
   {
+    "date": "Jun 14 (Sun)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Saetia, Geoff Rickley, Commitment, The Saddest Landscape, Universal Girlfriend, Reds",
+    "description": ""
+  },
+  {
+    "date": "Jun 14 (Sun)",
+    "time": "",
+    "place": "Ukie Club",
+    "artists": "Break Free Fest: Violencia, No Model, Muelas, Lastima, Flowering, Good Teal",
+    "description": ""
+  },
+  {
+    "date": "Jun 16 (Tue)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Worm",
+    "description": ""
+  },
+  {
+    "date": "Jun 17 (Wed)",
+    "time": "8pm",
+    "place": "Johnny Brendas",
+    "artists": "Basic / Bark Culture / The ER Band",
+    "description": ""
+  },
+  {
     "date": "Jun 18 (Thu)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Hashtronaut",
+    "description": ""
+  },
+  {
+    "date": "Jun 18 (Thu)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Asko, Raskol, Soft Targets",
+    "description": ""
+  },
+  {
+    "date": "Jun 18 (Thu)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Mourn The Light, Breakker, Finix, Iron Brigade",
+    "description": ""
+  },
+  {
+    "date": "Jun 19 (Fri)",
+    "time": "7pm",
+    "place": "Icebox Project Space",
+    "artists": "FUJIllllllllllTA",
+    "description": ""
+  },
+  {
+    "date": "Jun 20 (Sat)",
+    "time": "6pm",
+    "place": "Stoneleigh: a natural garden",
+    "artists": "Follow The Sound a nature with music",
+    "description": ""
+  },
+  {
+    "date": "Jun 20 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Alden Hellmuth \u2018Tether\u2019",
+    "description": ""
+  },
+  {
+    "date": "Jun 20 (Sat)",
+    "time": "",
+    "place": "MilkBoy",
+    "artists": "Evoken, Churchburn, Blood Spore",
+    "description": ""
+  },
+  {
+    "date": "Jun 21 (Sun)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Kahil ElZabar / David Murray Duo",
+    "description": ""
+  },
+  {
+    "date": "Jun 21 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Bad Cop/Bad Cop",
     "description": ""
   },
   {
@@ -1680,9 +1974,44 @@
     "description": ""
   },
   {
+    "date": "Jun 24 (Wed)",
+    "time": "8pm",
+    "place": "Dumpster Out Back / Above Solar Myth",
+    "artists": "DoYeon Kim Quartet",
+    "description": ""
+  },
+  {
+    "date": "Jun 24 (Wed)",
+    "time": "8pm",
+    "place": "The Perch Large Room",
+    "artists": "Fred Frith & Walnut Brain",
+    "description": ""
+  },
+  {
+    "date": "Jun 24 (Wed)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Goetia, Cemetary Filth, Nuclear Tomb, Cavern Womb",
+    "description": ""
+  },
+  {
+    "date": "Jun 26 (Fri)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Chopped Up, Dysentery, Disarticulate, Spesimin",
+    "description": ""
+  },
+  {
     "date": "Jun 27 (Sat)",
     "time": "7pm-10pm",
     "place": "God's Autobody",
+    "artists": "LAYER MEAT, SPECTRAL FORCES, VOID OF INFINITE CONSEQUENCE : A Benefit Show for Sol Collective",
+    "description": ""
+  },
+  {
+    "date": "Jun 27 (Sat)",
+    "time": "7pm-10pm",
+    "place": "God's Automatic Body",
     "artists": "LAYER MEAT, SPECTRAL FORCES, VOID OF INFINITE CONSEQUENCE : A Benefit Show for Sol Collective",
     "description": ""
   },
@@ -1694,10 +2023,52 @@
     "description": ""
   },
   {
+    "date": "Jun 27 (Sat)",
+    "time": "8pm",
+    "place": "Bennett Compost",
+    "artists": "de/composition: Native Trees, Sonic Roots",
+    "description": ""
+  },
+  {
+    "date": "Jun 27 (Sat)",
+    "time": "8pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "6/27: EKGs (PGH), Diuretic, Real Shocks",
+    "description": ""
+  },
+  {
+    "date": "Jun 28 (Sun)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Teiku",
+    "description": ""
+  },
+  {
+    "date": "Jun 29 (Mon)",
+    "time": "7:30pm",
+    "place": "Solar Myth",
+    "artists": "Chris Forsyth's What Is Now w/ John Moran and Joey Sullivan",
+    "description": ""
+  },
+  {
+    "date": "Jun 30 (Tue)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "ResoNation Trio",
+    "description": ""
+  },
+  {
     "date": "Jul 01 (Wed)",
     "time": "7pm",
     "place": "Cousin Danny's",
     "artists": "L.O.T.I.O.N. (nyc), Destruct (rva), NISEMONO (nyc), EARLY GRAVE",
+    "description": ""
+  },
+  {
+    "date": "Jul 01 (Wed)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Disarmed, Brigades, Midfield, Five Steps Back",
     "description": ""
   },
   {
@@ -1708,6 +2079,132 @@
     "description": ""
   },
   {
+    "date": "Jul 10 (Fri)",
+    "time": "6pm",
+    "place": "Pentridge Station",
+    "artists": "The Monthly Fund - fundraiser for the Abolitionist Law Center",
+    "description": ""
+  },
+  {
+    "date": "Jul 13 (Mon)",
+    "time": "",
+    "place": "Ukie Club",
+    "artists": "No Cure, Big Ass Truck, Bayway, Boltcutter",
+    "description": ""
+  },
+  {
+    "date": "Jul 15 (Wed)",
+    "time": "6:30pm-11pm",
+    "place": "Upper Darby ALH",
+    "artists": "VARUKERS, VIOLENT SOCIETY, THE SLADS, REAL SHOCKS",
+    "description": ""
+  },
+  {
+    "date": "Jul 15 (Wed)",
+    "time": "",
+    "place": "Upper Darby Post 214 American Legion",
+    "artists": "The Varukers, Violent Society, The Slads, Real Shocks",
+    "description": ""
+  },
+  {
+    "date": "Jul 17 (Fri)",
+    "time": "7:30pm",
+    "place": "The Perch",
+    "artists": "Invisible Scissors, Alice Cohen & Built by Scriabin",
+    "description": ""
+  },
+  {
+    "date": "Jul 17 (Fri)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Fermented Mess, Agonesiac, Artificial Scarcity, Insecticide",
+    "description": ""
+  },
+  {
+    "date": "Jul 17 (Fri)",
+    "time": "",
+    "place": "VFW",
+    "artists": "Demiser, Honey, Spellhammer, Switchblade",
+    "description": ""
+  },
+  {
+    "date": "Jul 18 (Sat)",
+    "time": "8pm",
+    "place": "Pageant: Soloveev",
+    "artists": "Spite of Darkness & Sohme",
+    "description": ""
+  },
+  {
+    "date": "Jul 19 (Sun)",
+    "time": "9pm",
+    "place": "Grays Skatepark",
+    "artists": "Cause of Death (NC), Acid Test, Early Grave",
+    "description": ""
+  },
+  {
+    "date": "Jul 19 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Skullovich, Wolfenstein, Grozov",
+    "description": ""
+  },
+  {
+    "date": "Jul 19 (Sun)",
+    "time": "",
+    "place": "Bonk\u2019s Bar",
+    "artists": "Ancient Death, Reeking Aura, Wild Beyond, Cavern Womb",
+    "description": ""
+  },
+  {
+    "date": "Jul 19 (Sun)",
+    "time": "",
+    "place": "Gray's Skatepark",
+    "artists": "Cause of Death, Acid Test, Early Grave",
+    "description": ""
+  },
+  {
+    "date": "Jul 24 (Fri)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Slumbering Sun",
+    "description": ""
+  },
+  {
+    "date": "Jul 26 (Sun)",
+    "time": "7pm-11pm",
+    "place": "Johnny Brenda's",
+    "artists": "Mess, Vaxine, The Stress, The Slads",
+    "description": ""
+  },
+  {
+    "date": "Jul 29 (Wed)",
+    "time": "8pm-11:30pm",
+    "place": "Ortlieb's",
+    "artists": "ANCIENT RAGE, SPITER, BASTARD CROSS",
+    "description": ""
+  },
+  {
+    "date": "Jul 30 (Thu)",
+    "time": "8pm",
+    "place": "Icebox Project Space",
+    "artists": "Lesley Mok, Koof Ibi & LN Celestine",
+    "description": ""
+  },
+  {
+    "date": "Jul 30 (Thu)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "World Peace, Knifeplay, Collapsed Skull",
+    "description": ""
+  },
+  {
+    "date": "Jul 31 (Fri)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "L.O.T.I.O.N, Destruct, Nisemono, Early Grave",
+    "description": ""
+  },
+  {
     "date": "Aug 01 (Sat)",
     "time": "7am-11am",
     "place": "PhilaMoca",
@@ -1715,10 +2212,73 @@
     "description": ""
   },
   {
+    "date": "Aug 01 (Sat)",
+    "time": "7:30pm",
+    "place": "Studio 34",
+    "artists": "Grex, Ash\u00e9 Mystics & 90eeze",
+    "description": ""
+  },
+  {
+    "date": "Aug 07 (Fri)",
+    "time": "",
+    "place": "PhilaMOCA",
+    "artists": "The Body, Carnivorous Bells, Big Brave",
+    "description": ""
+  },
+  {
+    "date": "Aug 15 (Sat)",
+    "time": "7pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "Punk Noise Gig (MCTDB, Fleshwound, Frog Myst, Syringehead, Diskritik)",
+    "description": ""
+  },
+  {
+    "date": "Aug 15 (Sat)",
+    "time": "",
+    "place": "Johnny Brenda's",
+    "artists": "Zeke Sky, Astrokatz, Breakker, Skullovich",
+    "description": ""
+  },
+  {
+    "date": "Aug 20 (Thu)",
+    "time": "7pm-10:30pm",
+    "place": "PhilaMoca",
+    "artists": "Deviated Instinct, Dropdead, Agonista, Life Abuse",
+    "description": ""
+  },
+  {
     "date": "Aug 20 (Thu)",
     "time": "",
     "place": "Underground Arts",
     "artists": "Kaonashi, The Number 12 Looks Like You, HIRS, Abrupt Decay, Psalm, Sabella, Thus Spoke Zarathustra, Gungame",
+    "description": ""
+  },
+  {
+    "date": "Aug 23 (Sun)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Faetooth, Latter, Bosses",
+    "description": ""
+  },
+  {
+    "date": "Sep 02 (Wed)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Monolord, Khemmis",
+    "description": ""
+  },
+  {
+    "date": "Sep 05 (Sat)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Dopethrone, Ecstatic Vision",
+    "description": ""
+  },
+  {
+    "date": "Sep 19 (Sat)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Plow United, The Ergs!, Chris Gethard, Crossed Keys",
     "description": ""
   },
   {
