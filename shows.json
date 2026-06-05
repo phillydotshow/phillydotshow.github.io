@@ -1695,6 +1695,13 @@
   },
   {
     "date": "Jun 07 (Sun)",
+    "time": "6pm-12am",
+    "place": "Bonk's Bar",
+    "artists": "Injest and slamwich",
+    "description": ""
+  },
+  {
+    "date": "Jun 07 (Sun)",
     "time": "7pm",
     "place": "The Pouch",
     "artists": "Answering Machines (Chi), P. Noid (Chi), The Shield",
@@ -1726,6 +1733,13 @@
     "time": "7pm SHARP",
     "place": "The Perch (Large Room)",
     "artists": "  James McKain / Evan Palmer / Hans Young-Binter / James Paul Nadien, TYPO!, James Reichard & Matt Shuff Duo",
+    "description": ""
+  },
+  {
+    "date": "Jun 08 (Mon)",
+    "time": "7pm",
+    "place": "The Palace",
+    "artists": "Punxsutawney (CA), FAT LADY SING, GRE/AY, SHAMEFUL",
     "description": ""
   },
   {
@@ -1955,7 +1969,7 @@
   {
     "date": "Jun 24 (Wed)",
     "time": "8pm",
-    "place": "Dumpster Out Back / Above Solar Myth",
+    "place": "Solar Myth",
     "artists": "DoYeon Kim Quartet",
     "description": ""
   },
@@ -2087,6 +2101,13 @@
   },
   {
     "date": "Jul 18 (Sat)",
+    "time": "7pm",
+    "place": "Common Beat Music",
+    "artists": "United Stare (pgh), Destructos, Soft Targets",
+    "description": ""
+  },
+  {
+    "date": "Jul 18 (Sat)",
     "time": "8pm",
     "place": "Pageant: Soloveev",
     "artists": "Spite of Darkness & Sohme",
@@ -2111,6 +2132,20 @@
     "time": "",
     "place": "Bonk\u2019s Bar",
     "artists": "Ancient Death, Reeking Aura, Wild Beyond, Cavern Womb",
+    "description": ""
+  },
+  {
+    "date": "Jul 19 (Sun)",
+    "time": "",
+    "place": "Gray's Skatepark",
+    "artists": "Cause of Death, Acid Test, Early Grave",
+    "description": ""
+  },
+  {
+    "date": "Jul 24 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Sasha Berliner",
     "description": ""
   },
   {
@@ -2139,6 +2174,13 @@
     "time": "8pm",
     "place": "Icebox Project Space",
     "artists": "Lesley Mok, Koof Ibi & LN Celestine",
+    "description": ""
+  },
+  {
+    "date": "Jul 30 (Thu)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Nduduzo Makhathini",
     "description": ""
   },
   {
