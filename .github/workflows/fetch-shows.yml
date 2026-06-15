@@ -1,0 +1,50 @@
+name: Fetch & Dedup Events
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        working-directory: .ignored_scripts
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Fetch events and dedup
+        working-directory: .ignored_scripts
+        run: |
+          source .venv/bin/activate
+          cd ..
+          bash .ignored_scripts/fetch_all.sh
+          python .ignored_scripts/dedup_shows.py
+
+      - name: Commit and push if changed
+        working-directory: .ignored_scripts/..
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet shows.json; then
+            echo "No changes to shows.json."
+            exit 0
+          fi
+          git add shows.json
+          git commit -m "auto: fetch and dedup events ($(date +'%Y-%m-%d %H:%M'))"
+          git push origin main
