@@ -110,7 +110,12 @@
     }
 
     function renderShows(shows) {
-        const today = new Date().toISOString().slice(0, 10);
+        // Local date (not UTC) so a show happening "today" isn't pushed to
+        // past by the timezone offset (Philly is UTC-4/-5).
+        const now = new Date();
+        const today = now.getFullYear() + '-' +
+            String(now.getMonth() + 1).padStart(2, '0') + '-' +
+            String(now.getDate()).padStart(2, '0');
         const past = [], upcoming = [];
         for (const show of shows) {
             const date = toYMD(show.date);
