@@ -2121,6 +2121,20 @@
     "description": ""
   },
   {
+    "date": "Jul 01 (Wed)",
+    "time": "",
+    "place": "O'Malleys",
+    "artists": "Thunderchief, Salik, Clamfight, Sarkic",
+    "description": ""
+  },
+  {
+    "date": "Jul 01 (Wed)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Heathen, Void",
+    "description": ""
+  },
+  {
     "date": "Jul 02 (Thu)",
     "time": "",
     "place": "Johnny Brenda's",
@@ -2128,10 +2142,38 @@
     "description": ""
   },
   {
+    "date": "Jul 09 (Thu)",
+    "time": "7pm-11pm",
+    "place": "Century",
+    "artists": "Hostile Mind, Estrogents, & apricot.",
+    "description": ""
+  },
+  {
     "date": "Jul 10 (Fri)",
     "time": "6pm",
     "place": "Pentridge Station",
-    "artists": "The Monthly Fund - fundraiser for the Abolitionist Law Center",
+    "artists": "Upholstery, Julius Masri, Line on Some Trip, CCCAATS: The Monthly Fund - fundraiser for the Abolitionist Law Center",
+    "description": ""
+  },
+  {
+    "date": "Jul 10 (Fri)",
+    "time": "7pm",
+    "place": "Evil Genius",
+    "artists": "The Low Pass presents Ambient Open",
+    "description": ""
+  },
+  {
+    "date": "Jul 11 (Sat)",
+    "time": "8pm-11:55pm",
+    "place": "Grey's Courtyard",
+    "artists": "Insectoids, Webb Chapel, Brainwash Victim, Void of Infinite Consequence",
+    "description": ""
+  },
+  {
+    "date": "Jul 11 (Sat)",
+    "time": "9pm",
+    "place": "Pageant: Soloveev",
+    "artists": "Twig Harper - Bill Nace Duo , MSHR  ,  Slow Tongued Beauty",
     "description": ""
   },
   {
@@ -2150,9 +2192,37 @@
   },
   {
     "date": "Jul 15 (Wed)",
+    "time": "7:30pm-11pm",
+    "place": "The Rotunda",
+    "artists": "King Missile (Dog Fly Religion), Cheer-Accident, George Korein and the Spleen",
+    "description": ""
+  },
+  {
+    "date": "Jul 15 (Wed)",
     "time": "",
     "place": "Upper Darby Post 214 American Legion",
     "artists": "The Varukers, Violent Society, The Slads, Real Shocks",
+    "description": ""
+  },
+  {
+    "date": "Jul 17 (Fri)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "FERMENTED MESS, AGONESIAC, ARTIFICIAL SCARCITY, INSECTICIDE",
+    "description": ""
+  },
+  {
+    "date": "Jul 17 (Fri)",
+    "time": "7pm-11pm",
+    "place": "VFW",
+    "artists": "DEMISER, HONEY, SPELLHAMMER, SWITCHBLADE",
+    "description": ""
+  },
+  {
+    "date": "Jul 17 (Fri)",
+    "time": "7pm",
+    "place": "Bonk's Bar",
+    "artists": "Liberty & Justice, XL Bully, Impact Driver + more",
     "description": ""
   },
   {
@@ -2163,24 +2233,17 @@
     "description": ""
   },
   {
-    "date": "Jul 17 (Fri)",
-    "time": "",
-    "place": "Cousin Danny's",
-    "artists": "Fermented Mess, Agonesiac, Artificial Scarcity, Insecticide",
-    "description": ""
-  },
-  {
-    "date": "Jul 17 (Fri)",
-    "time": "",
-    "place": "VFW",
-    "artists": "Demiser, Honey, Spellhammer, Switchblade",
-    "description": ""
-  },
-  {
     "date": "Jul 18 (Sat)",
     "time": "7pm",
     "place": "Common Beat Music",
     "artists": "United Stare (pgh), Destructos, Soft Targets",
+    "description": ""
+  },
+  {
+    "date": "Jul 18 (Sat)",
+    "time": "7pm-12am",
+    "place": "Philadelphia",
+    "artists": "The Moth Pit",
     "description": ""
   },
   {
@@ -2212,10 +2275,31 @@
     "description": ""
   },
   {
+    "date": "Jul 19 (Sun)",
+    "time": "",
+    "place": "Gray's Skatepark",
+    "artists": "Cause of Death, Acid Test, Early Grave",
+    "description": ""
+  },
+  {
     "date": "Jul 21 (Tue)",
     "time": "6pm-11pm",
     "place": "The Kennel",
     "artists": "BLEEDER (BMG), LOVERGIRL (MPLS), MYSTERY DUNGEONS, B00B",
+    "description": ""
+  },
+  {
+    "date": "Jul 23 (Thu)",
+    "time": "7pm",
+    "place": "Solar Myth",
+    "artists": "Cosmic Music: The Life, Art and Transcendence of Alice Coltrane",
+    "description": ""
+  },
+  {
+    "date": "Jul 23 (Thu)",
+    "time": "",
+    "place": "Walmart Pier",
+    "artists": "Culture Shaping Violence, Diuretic, Sediment",
     "description": ""
   },
   {
@@ -2236,7 +2320,7 @@
     "date": "Jul 24 (Fri)",
     "time": "",
     "place": "Nikki Lopez",
-    "artists": "Slumbering Sun",
+    "artists": "Slumbering Sun, Impolite Society",
     "description": ""
   },
   {
@@ -2254,10 +2338,24 @@
     "description": ""
   },
   {
+    "date": "Jul 26 (Sun)",
+    "time": "",
+    "place": "Mousetrap",
+    "artists": "Diskritik, Dislexia, World Of Chaos, Capital Punishment",
+    "description": ""
+  },
+  {
     "date": "Jul 29 (Wed)",
     "time": "8pm-11:30pm",
     "place": "Ortlieb's",
     "artists": "ANCIENT RAGE, SPITER, BASTARD CROSS",
+    "description": ""
+  },
+  {
+    "date": "Jul 29 (Wed)",
+    "time": "",
+    "place": "Ortleib's",
+    "artists": "Ancient Rage, Spiter, Bastard Cross",
     "description": ""
   },
   {
@@ -2290,6 +2388,13 @@
   },
   {
     "date": "Jul 31 (Fri)",
+    "time": "7pm",
+    "place": "Brickbat Books",
+    "artists": "Drew Davis",
+    "description": ""
+  },
+  {
+    "date": "Jul 31 (Fri)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Nduduzo Makhathini",
@@ -2304,9 +2409,37 @@
   },
   {
     "date": "Aug 01 (Sat)",
+    "time": "6pm-11pm",
+    "place": "O'Malleys",
+    "artists": "Thunderchief, Salik, Clamfight and Sarkic",
+    "description": ""
+  },
+  {
+    "date": "Aug 01 (Sat)",
     "time": "7:30pm",
     "place": "Studio 34",
     "artists": "Grex, Ash\u00e9 Mystics & 90eeze",
+    "description": ""
+  },
+  {
+    "date": "Aug 01 (Sat)",
+    "time": "8pm-10:30pm",
+    "place": "Outdoors in Philadelphia, PA",
+    "artists": "DOG SMILES (FL), HOMEWRECKERS (MD), SOYCUPID, B00B",
+    "description": ""
+  },
+  {
+    "date": "Aug 04 (Tue)",
+    "time": "6pm",
+    "place": "Kung Fu Necktie",
+    "artists": "The Briefs, The Sleeveens, Civil Rats",
+    "description": ""
+  },
+  {
+    "date": "Aug 07 (Fri)",
+    "time": "7pm",
+    "place": "Nikki Lopez",
+    "artists": "Murphy\u2019s Law, The Goons, Menstrual Tramps, FLPSDE",
     "description": ""
   },
   {
@@ -2317,10 +2450,31 @@
     "description": ""
   },
   {
+    "date": "Aug 07 (Fri)",
+    "time": "",
+    "place": "Ortleib's",
+    "artists": "Soji, Mac N' Toss, Gina Young, Gutter Pearl",
+    "description": ""
+  },
+  {
+    "date": "Aug 08 (Sat)",
+    "time": "7:30pm",
+    "place": "Asian Arts Initiative",
+    "artists": "NOMON",
+    "description": ""
+  },
+  {
     "date": "Aug 12 (Wed)",
     "time": "7:30pm",
     "place": "The Perch",
-    "artists": "Ishmael Ali/Will Greene/Lily Finnegan Trio & Crowmeat Bob/Ian McColm duo",
+    "artists": "Ishmael Ali/Will Greene/Lily Finnegan Trio, Will McGoran/Sam Xiao Cody duo & Crowmeat Bob/Ian McColm duo",
+    "description": ""
+  },
+  {
+    "date": "Aug 14 (Fri)",
+    "time": "7pm",
+    "place": "Brickbat Books",
+    "artists": "Erin Demastes / Dylan Burchett",
     "description": ""
   },
   {
@@ -2359,10 +2513,38 @@
     "description": ""
   },
   {
+    "date": "Aug 22 (Sat)",
+    "time": "",
+    "place": "Bonks",
+    "artists": "Viogression, Tombstone, Gaffed, Spesimin",
+    "description": ""
+  },
+  {
     "date": "Aug 23 (Sun)",
     "time": "",
     "place": "Underground Arts",
     "artists": "Faetooth, Latter, Bosses",
+    "description": ""
+  },
+  {
+    "date": "Aug 24 (Mon)",
+    "time": "8pm",
+    "place": "Johnny Brendas",
+    "artists": "MAPS & ATLASES ,  BARK CULTURE ,   LOADCARD",
+    "description": ""
+  },
+  {
+    "date": "Aug 28 (Fri)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Hiroe, Flatwaves, Amplifiers, Objects",
+    "description": ""
+  },
+  {
+    "date": "Aug 30 (Sun)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Titan to Tachyons",
     "description": ""
   },
   {
@@ -2373,6 +2555,13 @@
     "description": ""
   },
   {
+    "date": "Sep 03 (Thu)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Profanatica, Cloak",
+    "description": ""
+  },
+  {
     "date": "Sep 05 (Sat)",
     "time": "",
     "place": "Kung Fu Necktie",
@@ -2380,10 +2569,59 @@
     "description": ""
   },
   {
+    "date": "Sep 06 (Sun)",
+    "time": "7pm",
+    "place": "Spruce Street Harbour Park",
+    "artists": "SHEER MAG, GRIPPER, REAL SHOCKS",
+    "description": ""
+  },
+  {
+    "date": "Sep 08 (Tue)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Squid Pisser",
+    "description": ""
+  },
+  {
+    "date": "Sep 09 (Wed)",
+    "time": "8pm",
+    "place": "Maas Building",
+    "artists": "Thor & Friends + Hour",
+    "description": ""
+  },
+  {
+    "date": "Sep 09 (Wed)",
+    "time": "",
+    "place": "Silk City",
+    "artists": "Artillery, Celestial Wizard",
+    "description": ""
+  },
+  {
+    "date": "Sep 11 (Fri)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Blasphemous, Slaughtersun, Necrosexual, Weald And Woe",
+    "description": ""
+  },
+  {
     "date": "Sep 19 (Sat)",
     "time": "",
     "place": "First Unitarian Church",
     "artists": "Plow United, The Ergs!, Chris Gethard, Crossed Keys",
+    "description": ""
+  },
+  {
+    "date": "Sep 23 (Wed)",
+    "time": "8pm",
+    "place": "Brickbat Books",
+    "artists": "Bryan Day/Toshi Makihara duo & Del Rossi Trio",
+    "description": ""
+  },
+  {
+    "date": "Oct 06 (Tue)",
+    "time": "8am",
+    "place": "The Perch Large Room",
+    "artists": "Hana Stretton & Danielle Nia",
     "description": ""
   },
   {
@@ -2426,6 +2664,13 @@
     "time": "8pm",
     "place": "The Rotunda",
     "artists": "Ak'chamel & Ecology : Homestones",
+    "description": ""
+  },
+  {
+    "date": "Nov 15 (Sun)",
+    "time": "",
+    "place": "TLA",
+    "artists": "Sleep",
     "description": ""
   }
 ]
