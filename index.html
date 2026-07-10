@@ -80,20 +80,29 @@
 </style>
 <script>
     const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const WEEKDAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
     function toYMD(str) {
-        const match = str.match(/^(\w{3})\s+(\d+)/);
-        if (!match) return '';
-        const mi = MONTHS.indexOf(match[1]);
+        // "Mar 10 (Tue)" -> "2026-03-10"
+        // The weekday in parens uniquely resolves the real year, which lets us
+        // correctly distinguish a past show (earlier this year) from a future
+        // one (next year) even though shows.json stores no explicit year.
+        const m = str.match(/^(\w{3})\s+(\d+)\s*\((\w{3})\)/);
+        if (!m) return '';
+        const mi = MONTHS.indexOf(m[1]);
         if (mi === -1) return '';
+        const day = Number(m[2]);
+        const wd = WEEKDAYS.indexOf(m[3]);
+        if (wd === -1) return '';
         const now = new Date();
-        let y = now.getFullYear();
-        const m = String(mi + 1).padStart(2, 0);
-        const d = String(Number(match[2])+1).padStart(2, 0);
-        const s = y + '-' + m + '-' + d;
-        if (s < now.toISOString().slice(0, 10) && mi <= 5 && now.getMonth() >= 6) y++;
-        return `${y}-${m}-${d}`;
-
+        const yNow = now.getFullYear();
+        for (let dy = -1; dy <= 1; dy++) {
+            const y = yNow + dy;
+            if (new Date(y, mi, day).getDay() === wd) {
+                return y + '-' + String(mi + 1).padStart(2, '0') + '-' + String(day).padStart(2, '0');
+            }
+        }
+        return '';
     }
 
     function row(show) {
