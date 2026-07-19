@@ -2234,9 +2234,9 @@
   },
   {
     "date": "Jul 18 (Sat)",
-    "time": "7pm",
-    "place": "Common Beat Music",
-    "artists": "United Stare (pgh), Destructos, Soft Targets",
+    "time": "7pm-12am",
+    "place": "Philadelphia",
+    "artists": "The Moth Pit",
     "description": ""
   },
   {
@@ -2282,10 +2282,31 @@
     "description": ""
   },
   {
+    "date": "Jul 22 (Wed)",
+    "time": "7pm-11pm",
+    "place": "Space 1026",
+    "artists": "Bride (NOLA), Kate Ferencz, Annie Achron",
+    "description": ""
+  },
+  {
     "date": "Jul 23 (Thu)",
     "time": "7pm",
     "place": "Solar Myth",
     "artists": "Cosmic Music: The Life, Art and Transcendence of Alice Coltrane",
+    "description": ""
+  },
+  {
+    "date": "Jul 23 (Thu)",
+    "time": "7pm-1am",
+    "place": "Dumpster Out Back",
+    "artists": "GOOD POLLUTION CASSETTE RELEASE SHOW",
+    "description": ""
+  },
+  {
+    "date": "Jul 23 (Thu)",
+    "time": "8pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "RASKOL RECORD RELEASE, TOUR KICKOFF W/ GASKET, SPIKEPIT, BLUNT FORCE",
     "description": ""
   },
   {
@@ -2300,6 +2321,13 @@
     "time": "7pm",
     "place": "PhilaMoca",
     "artists": "JAWBREAKER - A DOCUMENTARY ABOUT ANTI-CIMEX",
+    "description": ""
+  },
+  {
+    "date": "Jul 24 (Fri)",
+    "time": "7pm-12am",
+    "place": "Ortlieb's",
+    "artists": "The Remote Controls (Indianapolis)/Total Whine/Civil Rats/Bees!",
     "description": ""
   },
   {
@@ -2429,10 +2457,24 @@
     "description": ""
   },
   {
+    "date": "Aug 06 (Thu)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "KINETIC ORBITAL STRIKE RECORD RELEASE w/ NIGHTFALL, CONDUMB, DUREX (mtl), FILTH OF SOCIETY",
+    "description": ""
+  },
+  {
     "date": "Aug 07 (Fri)",
     "time": "7pm",
     "place": "Nikki Lopez",
     "artists": "Murphy\u2019s Law, The Goons, Menstrual Tramps, FLPSDE",
+    "description": ""
+  },
+  {
+    "date": "Aug 07 (Fri)",
+    "time": "7pm",
+    "place": "Beautiful World Syndicate",
+    "artists": "Chevrolet Pile Record Release w/ Alex Tatarksy & Shane Riley, HiHelga, Chancers",
     "description": ""
   },
   {
@@ -2486,9 +2528,23 @@
   },
   {
     "date": "Aug 15 (Sat)",
+    "time": "7pm-10pm",
+    "place": "Beautiful World Syndicate",
+    "artists": "ZOMBIESHARK! Album Release Show (w/ Murderpact, PISSCORPSE, In A Heartbeat, SpeakingDeaf)",
+    "description": ""
+  },
+  {
+    "date": "Aug 15 (Sat)",
     "time": "",
     "place": "Johnny Brenda's",
     "artists": "Zeke Sky, Astrokatz, Breakker, Skullovich",
+    "description": ""
+  },
+  {
+    "date": "Aug 16 (Sun)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "SKEKSIS (RVA), NIGHTFALL, SEDIMENT, DISKRITIK",
     "description": ""
   },
   {
@@ -2503,6 +2559,13 @@
     "time": "",
     "place": "Underground Arts",
     "artists": "Kaonashi, The Number 12 Looks Like You, HIRS, Abrupt Decay, Psalm, Sabella, Thus Spoke Zarathustra, Gungame",
+    "description": ""
+  },
+  {
+    "date": "Aug 22 (Sat)",
+    "time": "6pm",
+    "place": "Eakins Oval",
+    "artists": "Grupo Sumak de Philadelphia at Eakins Oval Minifest",
     "description": ""
   },
   {
@@ -2535,6 +2598,13 @@
   },
   {
     "date": "Aug 30 (Sun)",
+    "time": "7pm",
+    "place": "Underground Arts",
+    "artists": "Funebrarum, Blood Monolith, Concrete Caveman",
+    "description": ""
+  },
+  {
+    "date": "Aug 30 (Sun)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Titan to Tachyons",
@@ -2555,6 +2625,13 @@
     "description": ""
   },
   {
+    "date": "Sep 04 (Fri)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Crud, Coffindust, Gorgar",
+    "description": ""
+  },
+  {
     "date": "Sep 05 (Sat)",
     "time": "",
     "place": "Kung Fu Necktie",
@@ -2566,6 +2643,13 @@
     "time": "7pm",
     "place": "Spruce Street Harbour Park",
     "artists": "SHEER MAG, GRIPPER, REAL SHOCKS",
+    "description": ""
+  },
+  {
+    "date": "Sep 06 (Sun)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Ossuary, Dashuyn, Spellhammer",
     "description": ""
   },
   {
@@ -2604,10 +2688,45 @@
     "description": ""
   },
   {
+    "date": "Sep 20 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "November's Doom, Witching, Ecliptor, Oktas",
+    "description": ""
+  },
+  {
     "date": "Sep 23 (Wed)",
     "time": "8pm",
     "place": "Brickbat Books",
     "artists": "Bryan Day/Toshi Makihara duo & Del Rossi Trio",
+    "description": ""
+  },
+  {
+    "date": "Sep 26 (Sat)",
+    "time": "8pm",
+    "place": "Studio 34",
+    "artists": "Dialouges 8: Kaethe Hostetter",
+    "description": ""
+  },
+  {
+    "date": "Sep 30 (Wed)",
+    "time": "8pm",
+    "place": "The Rotunda",
+    "artists": "Mir Naqibul Islam",
+    "description": ""
+  },
+  {
+    "date": "Oct 02 (Fri)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Crystal Spiders, Heavy Temple",
+    "description": ""
+  },
+  {
+    "date": "Oct 03 (Sat)",
+    "time": "12pm-1am",
+    "place": "Underground Arts",
+    "artists": "U5 Fest",
     "description": ""
   },
   {
