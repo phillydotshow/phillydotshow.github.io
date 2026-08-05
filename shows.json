@@ -2282,6 +2282,13 @@
     "description": ""
   },
   {
+    "date": "Jul 21 (Tue)",
+    "time": "7pm-10:30pm",
+    "place": "Grays Warehouse Courtyard",
+    "artists": "CORPSE DUST (AVL), Beauty, Ring Sour, Share",
+    "description": ""
+  },
+  {
     "date": "Jul 22 (Wed)",
     "time": "7pm-11pm",
     "place": "Space 1026",
@@ -2332,9 +2339,23 @@
   },
   {
     "date": "Jul 24 (Fri)",
+    "time": "7pm-11pm",
+    "place": "The Fire",
+    "artists": "RAINBOW WIZARDS, SMOAKERSMOUTH, DJSWITCH, BATFXNGS, TWEAK",
+    "description": ""
+  },
+  {
+    "date": "Jul 24 (Fri)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Sasha Berliner",
+    "description": ""
+  },
+  {
+    "date": "Jul 24 (Fri)",
+    "time": "9pm-12am",
+    "place": "Cousin Danny's",
+    "artists": "Fan Club, Piss Me Off, S.M.I.L.E.",
     "description": ""
   },
   {
@@ -2346,9 +2367,23 @@
   },
   {
     "date": "Jul 25 (Sat)",
+    "time": "7pm",
+    "place": "Nikki Lopez",
+    "artists": "Sex Mex (San Antonio, Texas) w/ Dasg\u00fct and Fat Heaven @ Nikki Lopez",
+    "description": ""
+  },
+  {
+    "date": "Jul 25 (Sat)",
     "time": "8pm",
     "place": "The Perch",
     "artists": "*Instant Breath- Ilgenfritz x Buckner, Resonant Edge w/ Tom Kraines",
+    "description": ""
+  },
+  {
+    "date": "Jul 26 (Sun)",
+    "time": "2pm",
+    "place": "",
+    "artists": "Modular on the Spot Philly",
     "description": ""
   },
   {
@@ -2416,6 +2451,13 @@
   },
   {
     "date": "Jul 31 (Fri)",
+    "time": "7:30pm",
+    "place": "",
+    "artists": "Improvised music at the Moshpit - Pocket Flowers / Snakeroot Cleans Blood / Steve & Brannon",
+    "description": ""
+  },
+  {
+    "date": "Jul 31 (Fri)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Nduduzo Makhathini",
@@ -2479,6 +2521,13 @@
   },
   {
     "date": "Aug 07 (Fri)",
+    "time": "7pm",
+    "place": "The Palace",
+    "artists": "World of Hate/Contempt/Totaled/Down to the Wire",
+    "description": ""
+  },
+  {
+    "date": "Aug 07 (Fri)",
     "time": "",
     "place": "PhilaMOCA",
     "artists": "The Body, Carnivorous Bells, Big Brave",
@@ -2499,6 +2548,34 @@
     "description": ""
   },
   {
+    "date": "Aug 09 (Sun)",
+    "time": "6pm",
+    "place": "The Palace",
+    "artists": "Step 2 This/Fixed Game/Fever/Goin Ape",
+    "description": ""
+  },
+  {
+    "date": "Aug 09 (Sun)",
+    "time": "8pm",
+    "place": "Johnny Brendas",
+    "artists": "Percy Jones PKT   ft. Kenny Grohowski, Tim Motzer + Julie Slick Tim Mitzer duo",
+    "description": ""
+  },
+  {
+    "date": "Aug 11 (Tue)",
+    "time": "7:30pm",
+    "place": "Upstairs at Abyssinia",
+    "artists": "Kilynn Lunsford (solo voice), Del Rossi Trio, Search for the Infinite Light",
+    "description": ""
+  },
+  {
+    "date": "Aug 11 (Tue)",
+    "time": "7:30pm",
+    "place": "Upstairs at Abbyssinia",
+    "artists": "POCKET DIMENSIONS :    Del Rossi Trio  -  Search for the Infinite Light   -   Kilynn Lunsford",
+    "description": ""
+  },
+  {
     "date": "Aug 12 (Wed)",
     "time": "7:30pm",
     "place": "The Perch",
@@ -2510,6 +2587,13 @@
     "time": "7pm",
     "place": "Brickbat Books",
     "artists": "Erin Demastes / Dylan Burchett",
+    "description": ""
+  },
+  {
+    "date": "Aug 14 (Fri)",
+    "time": "7:30pm-11:30pm",
+    "place": "Cousin Danny's",
+    "artists": "F.O.D. (FLAG OF DEMOCRACY), ANAL TRAINING & PSYCHOPOMP",
     "description": ""
   },
   {
@@ -2531,6 +2615,13 @@
     "time": "7pm-10pm",
     "place": "Beautiful World Syndicate",
     "artists": "ZOMBIESHARK! Album Release Show (w/ Murderpact, PISSCORPSE, In A Heartbeat, SpeakingDeaf)",
+    "description": ""
+  },
+  {
+    "date": "Aug 15 (Sat)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Maria Grand and Shakoor Hakeem",
     "description": ""
   },
   {
@@ -2570,6 +2661,13 @@
   },
   {
     "date": "Aug 22 (Sat)",
+    "time": "7pm",
+    "place": "Grey's Courtyard",
+    "artists": "4D8K (pvd), Nadafinger, Peaceful Ezy Feeling",
+    "description": ""
+  },
+  {
+    "date": "Aug 22 (Sat)",
     "time": "",
     "place": "Bonks",
     "artists": "Viogression, Tombstone, Gaffed, Spesimin",
@@ -2591,9 +2689,23 @@
   },
   {
     "date": "Aug 28 (Fri)",
+    "time": "7pm",
+    "place": "Beautiful World Syndicate",
+    "artists": "Cronies (FL), Adhesive (FL), Cartoon",
+    "description": ""
+  },
+  {
+    "date": "Aug 28 (Fri)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Hiroe, Flatwaves, Amplifiers, Objects",
+    "description": ""
+  },
+  {
+    "date": "Aug 29 (Sat)",
+    "time": "4:30pm-10pm",
+    "place": "New Ark Church of Christ",
+    "artists": "BEAR HUG GIG #2: THE GREAT AMERICAN POP SHOW",
     "description": ""
   },
   {
@@ -2619,6 +2731,13 @@
   },
   {
     "date": "Sep 03 (Thu)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Rachel Beetz/Wilfrido Terrazas (solo & duo) + Jair-R\u00f4hm Parker Wells",
+    "description": ""
+  },
+  {
+    "date": "Sep 03 (Thu)",
     "time": "",
     "place": "Nikki Lopez",
     "artists": "Profanatica, Cloak",
@@ -2626,9 +2745,23 @@
   },
   {
     "date": "Sep 04 (Fri)",
+    "time": "8:30pm",
+    "place": "Cousin Danny's",
+    "artists": "No Human Is Illegal - Benefit Show",
+    "description": ""
+  },
+  {
+    "date": "Sep 04 (Fri)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Crud, Coffindust, Gorgar",
+    "description": ""
+  },
+  {
+    "date": "Sep 05 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "John Zorn's Flatlands",
     "description": ""
   },
   {
@@ -2675,9 +2808,37 @@
   },
   {
     "date": "Sep 11 (Fri)",
+    "time": "7:30pm-11:30pm",
+    "place": "Cousin Danny's",
+    "artists": "Nightfall, Nuclear Addicts (Ohio), Filth Of Society (NYC)",
+    "description": ""
+  },
+  {
+    "date": "Sep 11 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Prism Quartet & Craig Taborn",
+    "description": ""
+  },
+  {
+    "date": "Sep 11 (Fri)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Blasphemous, Slaughtersun, Necrosexual, Weald And Woe",
+    "description": ""
+  },
+  {
+    "date": "Sep 12 (Sat)",
+    "time": "8pm-11pm",
+    "place": "Space 1026",
+    "artists": "EVIL SWORD, HAPPPY ACCCCDENT",
+    "description": ""
+  },
+  {
+    "date": "Sep 19 (Sat)",
+    "time": "7pm",
+    "place": "First Presbyterian Church",
+    "artists": "Dynasty Battles",
     "description": ""
   },
   {
@@ -2699,6 +2860,20 @@
     "time": "8pm",
     "place": "Brickbat Books",
     "artists": "Bryan Day/Toshi Makihara duo & Del Rossi Trio",
+    "description": ""
+  },
+  {
+    "date": "Sep 25 (Fri)",
+    "time": "8pm-11:30pm",
+    "place": "Grays Warehouse",
+    "artists": "Suppression, Aroma, Sweepers, Dead Door Unit",
+    "description": ""
+  },
+  {
+    "date": "Sep 25 (Fri)",
+    "time": "8pm",
+    "place": "Vox Populi",
+    "artists": "Victor Vieira-Branco's Bark Culture",
     "description": ""
   },
   {
@@ -2727,6 +2902,20 @@
     "time": "12pm-1am",
     "place": "Underground Arts",
     "artists": "U5 Fest",
+    "description": ""
+  },
+  {
+    "date": "Oct 03 (Sat)",
+    "time": "8pm",
+    "place": "University Lutheran Church",
+    "artists": "New Thread Quartet",
+    "description": ""
+  },
+  {
+    "date": "Oct 06 (Tue)",
+    "time": "8am",
+    "place": "The Perch Large Room",
+    "artists": "Hana Stretton & Danielle Nia",
     "description": ""
   },
   {
