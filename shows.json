@@ -1,5 +1,12 @@
 [
   {
+    "date": "Jan 15 (Fri)",
+    "time": "7pm",
+    "place": "University Lutheran Church",
+    "artists": "Variant 6    \"Hologram\"",
+    "description": ""
+  },
+  {
     "date": "Jan 18 (Sun)",
     "time": "5pm-10pm",
     "place": "God's Autobody",
@@ -140,6 +147,13 @@
     "description": ""
   },
   {
+    "date": "Feb 07 (Sun)",
+    "time": "7pm",
+    "place": "Annenberg Center",
+    "artists": "THIRD COAST PERCUSSION & GLENN KOTCHE",
+    "description": ""
+  },
+  {
     "date": "Feb 07 (Sat)",
     "time": "",
     "place": "First Unitarian Church",
@@ -207,6 +221,13 @@
     "time": "7pm",
     "place": "Johnny Brenda's",
     "artists": "Huston West, Kristina Murray, Danny and the Do-Overs",
+    "description": ""
+  },
+  {
+    "date": "Feb 21 (Sun)",
+    "time": "",
+    "place": "Johnny Brenda's",
+    "artists": "Nervosa, Castrator, Embryonic Autopsy",
     "description": ""
   },
   {
@@ -1124,6 +1145,13 @@
     "time": "",
     "place": "Nikki Lopez",
     "artists": "Ragana",
+    "description": ""
+  },
+  {
+    "date": "Apr 25 (Sun)",
+    "time": "7pm",
+    "place": "Annenberg Center",
+    "artists": "PHILIP GLASS ENSEMBLE KOYAANISQATSI: LIVE WITH FILM",
     "description": ""
   },
   {
@@ -2619,6 +2647,13 @@
   },
   {
     "date": "Aug 15 (Sat)",
+    "time": "7pm-11:30pm",
+    "place": "Broken Goblet Music Room",
+    "artists": "With Sails Ahead, Astrophels, The Man and the Machine",
+    "description": ""
+  },
+  {
+    "date": "Aug 15 (Sat)",
     "time": "8pm",
     "place": "The Perch",
     "artists": "Maria Grand and Shakoor Hakeem",
@@ -2639,6 +2674,13 @@
     "description": ""
   },
   {
+    "date": "Aug 17 (Mon)",
+    "time": "7:30pm-11:30am",
+    "place": "Cousin Danny's",
+    "artists": "Fraternal Twin x Ditch x Lo Fives x Wax Girl",
+    "description": ""
+  },
+  {
     "date": "Aug 20 (Thu)",
     "time": "7pm-10:30pm",
     "place": "PhilaMoca",
@@ -2650,6 +2692,13 @@
     "time": "",
     "place": "Underground Arts",
     "artists": "Kaonashi, The Number 12 Looks Like You, HIRS, Abrupt Decay, Psalm, Sabella, Thus Spoke Zarathustra, Gungame",
+    "description": ""
+  },
+  {
+    "date": "Aug 21 (Fri)",
+    "time": "9pm",
+    "place": "PhilaMoca",
+    "artists": "Screenings at Sanctuary: Evil Dead 2 & Texas Chainsaw Massacre",
     "description": ""
   },
   {
@@ -2671,6 +2720,20 @@
     "time": "",
     "place": "Bonks",
     "artists": "Viogression, Tombstone, Gaffed, Spesimin",
+    "description": ""
+  },
+  {
+    "date": "Aug 22 (Sat)",
+    "time": "",
+    "place": "Bonk's Bar",
+    "artists": "Viogression, Tombstoner, Spesimin, Immortal Form",
+    "description": ""
+  },
+  {
+    "date": "Aug 23 (Sun)",
+    "time": "9am",
+    "place": "Wissahickon Environmental Center \u2013 Tree House",
+    "artists": "Follow the Sound        Music by Paul Giess and Marquise Lindsey-Bradley",
     "description": ""
   },
   {
@@ -2723,6 +2786,13 @@
     "description": ""
   },
   {
+    "date": "Sep 01 (Tue)",
+    "time": "",
+    "place": "Silk City",
+    "artists": "Volcandra, Graveripper",
+    "description": ""
+  },
+  {
     "date": "Sep 02 (Wed)",
     "time": "",
     "place": "Underground Arts",
@@ -2755,6 +2825,13 @@
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Crud, Coffindust, Gorgar",
+    "description": ""
+  },
+  {
+    "date": "Sep 05 (Sat)",
+    "time": "6pm",
+    "place": "ask a punk",
+    "artists": "Red Brick, Power Doom Smoke Cult, Psychopomp, Sarkic",
     "description": ""
   },
   {
@@ -2793,6 +2870,13 @@
     "description": ""
   },
   {
+    "date": "Sep 08 (Tue)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Los Mal Hablados",
+    "description": ""
+  },
+  {
     "date": "Sep 09 (Wed)",
     "time": "8pm",
     "place": "Maas Building",
@@ -2822,6 +2906,13 @@
   },
   {
     "date": "Sep 11 (Fri)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Maria Grand and Shakoor Hakeem",
+    "description": ""
+  },
+  {
+    "date": "Sep 11 (Fri)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Blasphemous, Slaughtersun, Necrosexual, Weald And Woe",
@@ -2832,6 +2923,27 @@
     "time": "8pm-11pm",
     "place": "Space 1026",
     "artists": "EVIL SWORD, HAPPPY ACCCCDENT",
+    "description": ""
+  },
+  {
+    "date": "Sep 14 (Mon)",
+    "time": "8pm-11:30pm",
+    "place": "Cousin Danny's",
+    "artists": "ULTIMATE DISASTER, NIGHTFALL, THE BROOD, SEDIMENT",
+    "description": ""
+  },
+  {
+    "date": "Sep 17 (Thu)",
+    "time": "8pm",
+    "place": "Maas Building",
+    "artists": "Henry Solomon -     Liminal States Series",
+    "description": ""
+  },
+  {
+    "date": "Sep 18 (Fri)",
+    "time": "1pm",
+    "place": "Fort Mifflin",
+    "artists": "Making Time Festival",
     "description": ""
   },
   {
@@ -2856,10 +2968,24 @@
     "description": ""
   },
   {
+    "date": "Sep 20 (Sun)",
+    "time": "",
+    "place": "Broken Goblet",
+    "artists": "MORTICIAN, PUTRID PILE, UNHOLY ALTAR, CYCLE OF ABUSE, CHOPPED UP, DISARTICULATE",
+    "description": ""
+  },
+  {
     "date": "Sep 23 (Wed)",
     "time": "8pm",
     "place": "Brickbat Books",
     "artists": "Bryan Day/Toshi Makihara duo & Del Rossi Trio",
+    "description": ""
+  },
+  {
+    "date": "Sep 24 (Thu)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Dazzling Killmen, Intercourse, God Called In Sick",
     "description": ""
   },
   {
@@ -2877,10 +3003,38 @@
     "description": ""
   },
   {
+    "date": "Sep 25 (Fri)",
+    "time": "8pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "Suppression, Aroma, Sweepers, Dead Door Unit",
+    "description": ""
+  },
+  {
     "date": "Sep 26 (Sat)",
     "time": "8pm",
     "place": "Studio 34",
     "artists": "Dialouges 8: Kaethe Hostetter",
+    "description": ""
+  },
+  {
+    "date": "Sep 27 (Sun)",
+    "time": "8pm",
+    "place": "University Lutheran Church",
+    "artists": "Trio Nebbia",
+    "description": ""
+  },
+  {
+    "date": "Sep 27 (Sun)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Sadness, Oldest Sea, Barbelith",
+    "description": ""
+  },
+  {
+    "date": "Sep 29 (Tue)",
+    "time": "8pm",
+    "place": "Evangelical Lutheran Church of the Atonement",
+    "artists": "Situation Aesthetics #2        Hunter Brown (Berlin), Liam Kramer White and Morgan Evans-Weiler, Rust Promoter",
     "description": ""
   },
   {
@@ -2902,6 +3056,13 @@
     "time": "12pm-1am",
     "place": "Underground Arts",
     "artists": "U5 Fest",
+    "description": ""
+  },
+  {
+    "date": "Oct 03 (Sat)",
+    "time": "7:30pm",
+    "place": "2223 Fish",
+    "artists": "This Time's Quartet (Elsa Saade/Tracy Chahwan/Erik Ruin/Huda Asfour), Golem Ensemble & Dani Dobkin/Matt Sargent duo",
     "description": ""
   },
   {
@@ -2940,6 +3101,20 @@
     "description": ""
   },
   {
+    "date": "Oct 10 (Sat)",
+    "time": "",
+    "place": "World Stage",
+    "artists": "Messa, Sonja",
+    "description": ""
+  },
+  {
+    "date": "Oct 15 (Thu)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "Untethered (Paul Giess/Grant Calvin Weston/Timothy Ragsdale)",
+    "description": ""
+  },
+  {
     "date": "Oct 17 (Sat)",
     "time": "8pm",
     "place": "2223 Fish",
@@ -2954,6 +3129,20 @@
     "description": ""
   },
   {
+    "date": "Oct 23 (Fri)",
+    "time": "8pm",
+    "place": "Al-Bustan Seeds of Culture",
+    "artists": "Amir ElSaffar & Lorenzo Bianchi Hoesch: Inner Spaces",
+    "description": ""
+  },
+  {
+    "date": "Oct 31 (Sat)",
+    "time": "8pm",
+    "place": "Asian Arts Initiative",
+    "artists": "Swarnendu Mandal (sarod)",
+    "description": ""
+  },
+  {
     "date": "Nov 02 (Mon)",
     "time": "8pm",
     "place": "The Rotunda",
@@ -2961,10 +3150,66 @@
     "description": ""
   },
   {
+    "date": "Nov 05 (Thu)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "Bow and Arrow (Lea Bertucci + Michael Behari) & Angel Meat (Anna Young + Myles Donovan)",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "7pm",
+    "place": "Evangelical Lutheran Church of the Atonement",
+    "artists": "Vinay Desai (santoor)",
+    "description": ""
+  },
+  {
+    "date": "Nov 10 (Tue)",
+    "time": "7pm",
+    "place": "The Perch",
+    "artists": "Birdbath Sessions Ep. 1: Morphology with Carlos Santiago, Asia Mieleszko, Salina Kuo & Pamela Fucello",
+    "description": ""
+  },
+  {
+    "date": "Nov 11 (Wed)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Chat Pile, Soul Glo, Shallowster, Skullpresser",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "8pm",
+    "place": "Evangelical Lutheran Church of the Atonement",
+    "artists": "Situation Aesthetics #4       Teo Dora An Adrea   , Hermit Town (Carrie DeCunzo and Christian Mirande)",
+    "description": ""
+  },
+  {
+    "date": "Nov 15 (Sun)",
+    "time": "8pm",
+    "place": "PhilaMoca",
+    "artists": "Negativland + Sue-C: Significantly Less Deceptive w/ MAZEL",
+    "description": ""
+  },
+  {
     "date": "Nov 15 (Sun)",
     "time": "",
     "place": "TLA",
     "artists": "Sleep",
+    "description": ""
+  },
+  {
+    "date": "Nov 16 (Mon)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Die Spitze, Faetooth",
+    "description": ""
+  },
+  {
+    "date": "Nov 20 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Resavoir",
     "description": ""
   }
 ]
