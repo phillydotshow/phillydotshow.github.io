@@ -119,8 +119,12 @@
         const past = [], upcoming = [];
         for (const show of shows) {
             const date = toYMD(show.date);
-            if (date) (date < today ? past : upcoming).push(show);
+            if (!date) continue;
+            show._date = date;
+            (date < today ? past : upcoming).push(show);
         }
+        past.sort((a, b) => a._date < b._date ? 1 : a._date > b._date ? -1 : 0);
+        upcoming.sort((a, b) => a._date < b._date ? -1 : a._date > b._date ? 1 : 0);
         document.getElementById('past-shows-container').innerHTML = past.map(row).join('');
         document.getElementById('shows-container').innerHTML = upcoming.map(row).join('');
     }
