@@ -3025,6 +3025,13 @@
   },
   {
     "date": "Sep 12 (Sat)",
+    "time": "7pm",
+    "place": "Upstairs at Abbyssinia",
+    "artists": "Fraternal Twin / Bill Nace / Bhob Rainey / Will McGoran / Spectral Forces / Henderson Century",
+    "description": ""
+  },
+  {
+    "date": "Sep 12 (Sat)",
     "time": "8pm-11pm",
     "place": "Space 1026",
     "artists": "EVIL SWORD, HAPPPY ACCCCDENT",
@@ -3038,10 +3045,24 @@
     "description": ""
   },
   {
+    "date": "Sep 13 (Sun)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Diuretic, Agita, Be My Friend, Odette, Forge The Chains",
+    "description": ""
+  },
+  {
     "date": "Sep 14 (Mon)",
     "time": "8pm-11:30pm",
     "place": "Cousin Danny's",
     "artists": "ULTIMATE DISASTER, NIGHTFALL, THE BROOD, SEDIMENT",
+    "description": ""
+  },
+  {
+    "date": "Sep 14 (Mon)",
+    "time": "",
+    "place": "Ortleib's",
+    "artists": "Shearling, Brother Dragon, Gre/ay, A Monolithic Dome",
     "description": ""
   },
   {
@@ -3073,6 +3094,13 @@
     "description": ""
   },
   {
+    "date": "Sep 17 (Thu)",
+    "time": "",
+    "place": "Franklin Music Hall",
+    "artists": "Dying Fetus, Crowbar, Sanguisugabogg, Left To Suffer, Deterioration",
+    "description": ""
+  },
+  {
     "date": "Sep 18 (Fri)",
     "time": "1pm",
     "place": "Fort Mifflin",
@@ -3080,10 +3108,45 @@
     "description": ""
   },
   {
+    "date": "Sep 18 (Fri)",
+    "time": "7pm-11pm",
+    "place": "The Courtyard",
+    "artists": "PHANTOM PIKE, AGITA, DISKRITIK",
+    "description": ""
+  },
+  {
+    "date": "Sep 18 (Fri)",
+    "time": "9pm",
+    "place": "Sanctuary",
+    "artists": "Screenings At Sanctuary: 9 to 5 & Rocky Horror Picture Show",
+    "description": ""
+  },
+  {
+    "date": "Sep 18 (Fri)",
+    "time": "",
+    "place": "McDuff's Tavern",
+    "artists": "Foreign Body, Paralyzer, Maimed, False Nine, Beauty",
+    "description": ""
+  },
+  {
+    "date": "Sep 18 (Fri)",
+    "time": "",
+    "place": "Ortleib's",
+    "artists": "Soul Exchange, Pure Bliss, Cycle of Abuse",
+    "description": ""
+  },
+  {
     "date": "Sep 19 (Sat)",
     "time": "7pm",
     "place": "First Presbyterian Church",
     "artists": "Dynasty Battles",
+    "description": ""
+  },
+  {
+    "date": "Sep 19 (Sat)",
+    "time": "7pm-10pm",
+    "place": "God's Automatic Body",
+    "artists": "ASPHALT SAVANNAHS, DOUBLE DOSE, ANAL TRAINING",
     "description": ""
   },
   {
@@ -3098,6 +3161,13 @@
     "time": "",
     "place": "First Unitarian Church",
     "artists": "Plow United, The Ergs!, Chris Gethard, Crossed Keys",
+    "description": ""
+  },
+  {
+    "date": "Sep 19 (Sat)",
+    "time": "",
+    "place": "The Nail",
+    "artists": "Caesarean, Chopped Up, Distant Dominion, Slice, Spectral Spectrum",
     "description": ""
   },
   {
@@ -3122,6 +3192,27 @@
     "description": ""
   },
   {
+    "date": "Sep 20 (Sun)",
+    "time": "",
+    "place": "Upper Darby Post 214 American Legion",
+    "artists": "Crobot, Dark Chapel",
+    "description": ""
+  },
+  {
+    "date": "Sep 20 (Sun)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Negative Approach, School Drugs, Impact Driver, Brainwashed",
+    "description": ""
+  },
+  {
+    "date": "Sep 22 (Tue)",
+    "time": "",
+    "place": "Franklin Music Hall",
+    "artists": "Mastodon, Deafheaven, Alcest",
+    "description": ""
+  },
+  {
     "date": "Sep 23 (Wed)",
     "time": "7pm",
     "place": "Cousin Danny's",
@@ -3130,9 +3221,23 @@
   },
   {
     "date": "Sep 23 (Wed)",
+    "time": "7:30pm",
+    "place": "PA",
+    "artists": "An Evening of Evocation- Majid Araim x Carlos Santiago, Singh x Noss x Winch, Ricki Weidenhof",
+    "description": ""
+  },
+  {
+    "date": "Sep 23 (Wed)",
     "time": "8pm",
     "place": "Brickbat Books",
     "artists": "Bryan Day/Toshi Makihara duo & Del Rossi Trio",
+    "description": ""
+  },
+  {
+    "date": "Sep 23 (Wed)",
+    "time": "",
+    "place": "Philly Style Pizza",
+    "artists": "Gillian Carter",
     "description": ""
   },
   {
@@ -3164,10 +3269,52 @@
     "description": ""
   },
   {
+    "date": "Sep 25 (Fri)",
+    "time": "",
+    "place": "Upper Darby American Legion",
+    "artists": "Outta Pocket, Sin Against Sin, Negative Force, Terminal, Scorched Earth Policy",
+    "description": ""
+  },
+  {
+    "date": "Sep 25 (Fri)",
+    "time": "",
+    "place": "Bhakti Garden",
+    "artists": "Ray Raghunath Cappo: talking 90's Krishnacore & Leading Kirtan",
+    "description": ""
+  },
+  {
+    "date": "Sep 25 (Fri)",
+    "time": "",
+    "place": "Mom's Living Room",
+    "artists": "Necrofelony, Mangled Limb, Unsaid, Meathook Massacre",
+    "description": ""
+  },
+  {
+    "date": "Sep 26 (Sat)",
+    "time": "7:30pm-11pm",
+    "place": "The First Unitarian Church",
+    "artists": "Iron Lung, Hologram, Pray To Be Saved, Early Grave, Malform",
+    "description": ""
+  },
+  {
     "date": "Sep 26 (Sat)",
     "time": "8pm",
     "place": "Studio 34",
     "artists": "Dialouges 8: Kaethe Hostetter",
+    "description": ""
+  },
+  {
+    "date": "Sep 26 (Sat)",
+    "time": "",
+    "place": "McDuff's",
+    "artists": "Blunt Force, Grudge, God\u2019s Favorite, Cheat Death",
+    "description": ""
+  },
+  {
+    "date": "Sep 27 (Sun)",
+    "time": "5:30pm-8pm",
+    "place": "The First Unitarian Church",
+    "artists": "The Superweakers",
     "description": ""
   },
   {
@@ -3179,9 +3326,30 @@
   },
   {
     "date": "Sep 27 (Sun)",
+    "time": "8pm",
+    "place": "Head Long Dance Theater",
+    "artists": "Industry Night- Music for Lovers Only",
+    "description": ""
+  },
+  {
+    "date": "Sep 27 (Sun)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Sadness, Oldest Sea, Barbelith",
+    "description": ""
+  },
+  {
+    "date": "Sep 27 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Black Flag",
+    "description": ""
+  },
+  {
+    "date": "Sep 28 (Mon)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Forn, Otay:Onii, Quiet Man, Blood Spore",
     "description": ""
   },
   {
@@ -3189,6 +3357,13 @@
     "time": "8pm",
     "place": "Evangelical Lutheran Church of the Atonement",
     "artists": "Situation Aesthetics #2        Hunter Brown (Berlin), Liam Kramer White and Morgan Evans-Weiler, Rust Promoter",
+    "description": ""
+  },
+  {
+    "date": "Sep 29 (Tue)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Patterns in a Chromatic Field T.J. Borden, cello + Mari Kawamura, piano",
     "description": ""
   },
   {
@@ -3200,9 +3375,30 @@
   },
   {
     "date": "Oct 02 (Fri)",
+    "time": "8pm",
+    "place": "The Rotunda",
+    "artists": "THUMBS  / Aaron Pond's Himflation",
+    "description": ""
+  },
+  {
+    "date": "Oct 02 (Fri)",
     "time": "",
     "place": "Nikki Lopez",
     "artists": "Crystal Spiders, Heavy Temple",
+    "description": ""
+  },
+  {
+    "date": "Oct 02 (Fri)",
+    "time": "",
+    "place": "Moms Living Room ( 1300 Adams Ave)",
+    "artists": "Sabella, In Jest, Myelins Sheath, Lila, Seven Crimson Suns",
+    "description": ""
+  },
+  {
+    "date": "Oct 02 (Fri)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Set Your Goals, The Warriors, Restraining Order, Stateside",
     "description": ""
   },
   {
@@ -3221,9 +3417,37 @@
   },
   {
     "date": "Oct 03 (Sat)",
+    "time": "7:30pm",
+    "place": "Equilibrium Dance Academy",
+    "artists": "Industry Night- SPACE/EFFORT/TIME",
+    "description": ""
+  },
+  {
+    "date": "Oct 03 (Sat)",
     "time": "8pm",
     "place": "University Lutheran Church",
     "artists": "New Thread Quartet",
+    "description": ""
+  },
+  {
+    "date": "Oct 04 (Sun)",
+    "time": "8pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "Mary Chicken Soup & Rice, Subtle Body, The Spine",
+    "description": ""
+  },
+  {
+    "date": "Oct 04 (Sun)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Glorious Decent, Veneraxiom, Grozov, Katabasilisk",
+    "description": ""
+  },
+  {
+    "date": "Oct 04 (Sun)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Russian Circles, Pelican",
     "description": ""
   },
   {
@@ -3235,9 +3459,30 @@
   },
   {
     "date": "Oct 06 (Tue)",
-    "time": "8pm",
+    "time": "7pm",
+    "place": "The Living Signal",
+    "artists": "Open Improvisation Lab: Jeff Snyder x Mekhi Gladden",
+    "description": ""
+  },
+  {
+    "date": "Oct 06 (Tue)",
+    "time": "7:30pm",
     "place": "The Perch (Large Room)",
-    "artists": "Hana Stretton & Danielle Nia",
+    "artists": "Hana Stretton, Jana Horn & Danielle Nia",
+    "description": ""
+  },
+  {
+    "date": "Oct 07 (Wed)",
+    "time": "5:30pm",
+    "place": "Christ Church",
+    "artists": "World to Come 1: Aaron Julius RJ",
+    "description": ""
+  },
+  {
+    "date": "Oct 08 (Thu)",
+    "time": "7pm-12am",
+    "place": "Little Big Planet",
+    "artists": "Panic Park-The Speed Dials-Shortcuts-Total Whine",
     "description": ""
   },
   {
@@ -3245,6 +3490,27 @@
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Horselords",
+    "description": ""
+  },
+  {
+    "date": "Oct 09 (Fri)",
+    "time": "",
+    "place": "Thunderbird Music Hall",
+    "artists": "Usurp Synapse, Eyelet, .GIF From God, Index, PS2, 9amygdalae",
+    "description": ""
+  },
+  {
+    "date": "Oct 10 (Sat)",
+    "time": "8am-1am",
+    "place": "Cousin Dannys",
+    "artists": "HALF CROSS/CORRUPT WORLD/D.O.D./DISKRITIK/MERCIFIX",
+    "description": ""
+  },
+  {
+    "date": "Oct 10 (Sat)",
+    "time": "8pm-10pm",
+    "place": "Franky Bradley's | B.West",
+    "artists": "Hot Fix Sideshow",
     "description": ""
   },
   {
@@ -3262,10 +3528,24 @@
     "description": ""
   },
   {
+    "date": "Oct 10 (Sat)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Half/Cross, Corrupt World, D.O.D., Diskritik, Mercifix",
+    "description": ""
+  },
+  {
+    "date": "Oct 10 (Sat)",
+    "time": "",
+    "place": "Warehouse On Watts",
+    "artists": "Criminal Instinct, King Nine, Scorched Earth Policy, Missing Link, Azshara",
+    "description": ""
+  },
+  {
     "date": "Oct 11 (Sun)",
-    "time": "3pm",
+    "time": "2pm",
     "place": "C\u00e9sar Andreu Iglesias Community Garden",
-    "artists": "Big Community Paper Show & Tell with music by Interminable",
+    "artists": "Big Community Paper Learn & Share with music by Interminable, Raices Boricuas & Line On Some Trip",
     "description": ""
   },
   {
@@ -3276,6 +3556,13 @@
     "description": ""
   },
   {
+    "date": "Oct 11 (Sun)",
+    "time": "",
+    "place": "Bonks Bar",
+    "artists": "Butcher's Nails, The Gacy Architecture, Necrofelony, Caesarean, Sarcosuchus, Scumbag",
+    "description": ""
+  },
+  {
     "date": "Oct 12 (Mon)",
     "time": "",
     "place": "MilkBoy",
@@ -3283,10 +3570,45 @@
     "description": ""
   },
   {
+    "date": "Oct 13 (Tue)",
+    "time": "7pm",
+    "place": "The Living Signal",
+    "artists": "Open Improvisation Lab: Teeth & Metals",
+    "description": ""
+  },
+  {
+    "date": "Oct 14 (Wed)",
+    "time": "5:30pm",
+    "place": "Christ Church",
+    "artists": "World to Come 2: Infra Dig",
+    "description": ""
+  },
+  {
+    "date": "Oct 14 (Wed)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Knumears, Catalyst, Love Letter, Static Brain",
+    "description": ""
+  },
+  {
+    "date": "Oct 14 (Wed)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Show Me The Body, Lip Critic, Combust",
+    "description": ""
+  },
+  {
     "date": "Oct 15 (Thu)",
-    "time": "8pm",
-    "place": "The Perch (Large Room)",
+    "time": "8am",
+    "place": "The Perch Large Room",
     "artists": "Untethered (Paul Giess/Grant Calvin Weston/Timothy Ragsdale)",
+    "description": ""
+  },
+  {
+    "date": "Oct 16 (Fri)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Inter Arma",
     "description": ""
   },
   {
@@ -3297,10 +3619,38 @@
     "description": ""
   },
   {
+    "date": "Oct 17 (Sat)",
+    "time": "",
+    "place": "Crafty's",
+    "artists": "Trunk, Gross, Chuffed",
+    "description": ""
+  },
+  {
     "date": "Oct 18 (Sun)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "\ufeff\ufeffIMMANUEL WILKINS QUARTET",
+    "description": ""
+  },
+  {
+    "date": "Oct 20 (Tue)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Motherless, Porcupine, L.M.I.",
+    "description": ""
+  },
+  {
+    "date": "Oct 20 (Tue)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Spy, Empty Shell Casing, No Guard",
+    "description": ""
+  },
+  {
+    "date": "Oct 22 (Thu)",
+    "time": "",
+    "place": "Cousin Danny's",
+    "artists": "Mulk, Scat Injector, Mechanistic Butchery, Dicqbeats, Beauty, Butcher's Nails",
     "description": ""
   },
   {
@@ -3315,6 +3665,55 @@
     "time": "7pm",
     "place": "Grays Warehouse Courtyard",
     "artists": "Zinc, Concrete Caveman, Half/Cross, Resplendence",
+    "description": ""
+  },
+  {
+    "date": "Oct 24 (Sat)",
+    "time": "7pm",
+    "place": "Living Signal",
+    "artists": "Sound House: Anna Johnson, iiisa & Addison Rider",
+    "description": ""
+  },
+  {
+    "date": "Oct 24 (Sat)",
+    "time": "8pm",
+    "place": "Evangelical Lutheran Church of the Atonement",
+    "artists": "Situation Aesthetics #3 - Eric Wong / Mark Cetilia / Ben Bennet",
+    "description": ""
+  },
+  {
+    "date": "Oct 24 (Sat)",
+    "time": "",
+    "place": "Grays Warehouse",
+    "artists": "Zinc, Concrete Caveman, Half/Cross, Resplendence",
+    "description": ""
+  },
+  {
+    "date": "Oct 27 (Tue)",
+    "time": "7:30pm",
+    "place": "The Church of the Holy Trinity",
+    "artists": "Derek Gripper - Music from the Strings of Mali",
+    "description": ""
+  },
+  {
+    "date": "Oct 28 (Wed)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Mannequin Pussy, Dark Thoughts, KulfiGirls, Commitment, Cult Objects",
+    "description": ""
+  },
+  {
+    "date": "Oct 29 (Thu)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Speed, E-Town Concrete, Division of Mind, No Idols, Suicide Eyes",
+    "description": ""
+  },
+  {
+    "date": "Oct 31 (Sat)",
+    "time": "6pm-11pm",
+    "place": "The First Unitarian Church",
+    "artists": "Devil Master, Zorn, Coffin Dust, Diabolus, Satanic Magick, Early Grave",
     "description": ""
   },
   {
@@ -3346,6 +3745,13 @@
     "description": ""
   },
   {
+    "date": "Nov 08 (Sun)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "Trash Strike, XPURITYX, Rights Abuse, Drawn By Blood, False Nine",
+    "description": ""
+  },
+  {
     "date": "Nov 10 (Tue)",
     "time": "7pm",
     "place": "The Perch",
@@ -3360,10 +3766,31 @@
     "description": ""
   },
   {
+    "date": "Nov 11 (Wed)",
+    "time": "",
+    "place": "MilkBoy",
+    "artists": "Crobot, Dark Chapel",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "7:30pm",
+    "place": "Living Signal",
+    "artists": "Okapi, Channel Marker & Chelsea Smarr",
+    "description": ""
+  },
+  {
     "date": "Nov 14 (Sat)",
     "time": "8pm",
     "place": "Evangelical Lutheran Church of the Atonement",
     "artists": "Situation Aesthetics #4       Teo Dora An Adrea   , Hermit Town (Carrie DeCunzo and Christian Mirande)",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "",
+    "place": "Franklin Music Hall",
+    "artists": "Trivium, In Flames, Frozen Soul, Fit For An Autopsy",
     "description": ""
   },
   {
@@ -3381,10 +3808,31 @@
     "description": ""
   },
   {
+    "date": "Nov 15 (Sun)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Ho99o9, N8Noface, Slay Squad",
+    "description": ""
+  },
+  {
+    "date": "Nov 15 (Sun)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Dilly Dally Fest 4",
+    "description": ""
+  },
+  {
     "date": "Nov 16 (Mon)",
     "time": "",
     "place": "Union Transfer",
     "artists": "Die Spitze, Faetooth",
+    "description": ""
+  },
+  {
+    "date": "Nov 19 (Thu)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Pain Of Truth, Madball, Rotting Out, Locked Shut",
     "description": ""
   },
   {
@@ -3402,10 +3850,101 @@
     "description": ""
   },
   {
+    "date": "Nov 28 (Sat)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Gravelord, Life After Last, Ruiness, Make It Count",
+    "description": ""
+  },
+  {
+    "date": "Nov 28 (Sat)",
+    "time": "",
+    "place": "Mousetrap",
+    "artists": "Protagony, Glorious Descent, Heretic Cult, Maidenhead, Antithetic",
+    "description": ""
+  },
+  {
     "date": "Nov 29 (Sun)",
     "time": "",
     "place": "MilkBoy",
     "artists": "Blitzkid",
+    "description": ""
+  },
+  {
+    "date": "Dec 03 (Thu)",
+    "time": "8pm",
+    "place": "Pageant: Soloveev",
+    "artists": "Careful In The Sun & Medukha",
+    "description": ""
+  },
+  {
+    "date": "Dec 04 (Fri)",
+    "time": "8pm",
+    "place": "Calvary Community Center",
+    "artists": "MANAS & Totally Automatic",
+    "description": ""
+  },
+  {
+    "date": "Dec 04 (Fri)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Static Dress, I Promised The World, Septemberistheonlytimeidontthinkofyou, Car Underwater",
+    "description": ""
+  },
+  {
+    "date": "Dec 10 (Thu)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "Dave Burrell & Steve Swell duo",
+    "description": ""
+  },
+  {
+    "date": "Dec 11 (Fri)",
+    "time": "7:30pm",
+    "place": "Pageant: Soloveev",
+    "artists": "Mandible Trio, Pushovers & Melinda Rice: Centers",
+    "description": ""
+  },
+  {
+    "date": "Dec 11 (Fri)",
+    "time": "",
+    "place": "Union Transfer",
+    "artists": "Heaven's Edge, Trixter, Spread Eagle",
+    "description": ""
+  },
+  {
+    "date": "Dec 12 (Sat)",
+    "time": "6pm-11pm",
+    "place": "Upper Darby ALH",
+    "artists": "ULCER, LIFELESS DARK, FLOWER, NO FUCKER, K.O.S., EARLY GRAVE",
+    "description": ""
+  },
+  {
+    "date": "Dec 12 (Sat)",
+    "time": "",
+    "place": "Ukie Club",
+    "artists": "Distant, Heavy, Hitter, Torn Open, Katywentmissing",
+    "description": ""
+  },
+  {
+    "date": "Dec 12 (Sat)",
+    "time": "",
+    "place": "Upper Darby American Legion Post 214",
+    "artists": "Ulcer, Lifeless Dark, Flower, No Fucker, K.O.S., Early Grave",
+    "description": ""
+  },
+  {
+    "date": "Dec 13 (Sun)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "Magic Tuber Stringband & Sam Wenc",
+    "description": ""
+  },
+  {
+    "date": "Dec 17 (Thu)",
+    "time": "8pm",
+    "place": "The Rotunda",
+    "artists": "Habibi G\u00fcn",
     "description": ""
   }
 ]
