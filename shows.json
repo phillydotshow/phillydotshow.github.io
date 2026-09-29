@@ -3396,6 +3396,13 @@
   },
   {
     "date": "Oct 02 (Fri)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "Marginalia Fest",
+    "description": ""
+  },
+  {
+    "date": "Oct 02 (Fri)",
     "time": "8pm",
     "place": "The Rotunda",
     "artists": "THUMBS  / Aaron Pond's Himflation",
@@ -3742,6 +3749,13 @@
     "time": "5:30pm",
     "place": "Christ Church",
     "artists": "World to Come - Koof Ibi / Liz Faure",
+    "description": ""
+  },
+  {
+    "date": "Oct 22 (Thu)",
+    "time": "6pm-10pm",
+    "place": "Greenhaus",
+    "artists": "AXE COLLECTOR (SAN DIEGO), INSECTICIDE, GOD INSTINCT, GAUNTLETTE",
     "description": ""
   },
   {
@@ -4134,6 +4148,13 @@
     "time": "6pm-11pm",
     "place": "Upper Darby ALH",
     "artists": "ULCER, LIFELESS DARK, FLOWER, NO FUCKER, K.O.S., EARLY GRAVE",
+    "description": ""
+  },
+  {
+    "date": "Dec 12 (Sat)",
+    "time": "8pm",
+    "place": "Maas Building",
+    "artists": "Niloufar Shiri & Bahar Badiei + Negar Soley",
     "description": ""
   },
   {
