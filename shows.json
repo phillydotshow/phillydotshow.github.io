@@ -3403,6 +3403,13 @@
   },
   {
     "date": "Oct 02 (Fri)",
+    "time": "7:30pm",
+    "place": "Molly's Books",
+    "artists": "Mike Polizze & Bill Nace Duo, Jacy Webster, Christian Mirande",
+    "description": "Doors 7pm. $10-15"
+  },
+  {
+    "date": "Oct 02 (Fri)",
     "time": "8pm",
     "place": "The Rotunda",
     "artists": "THUMBS  / Aaron Pond's Himflation",
@@ -3928,15 +3935,15 @@
   },
   {
     "date": "Nov 05 (Thu)",
-    "time": "8pm",
-    "place": "The Perch (Large Room)",
-    "artists": "Bow and Arrow (Lea Bertucci + Michael Behari) & Angel Meat (Anna Young + Myles Donovan)",
-    "description": ""
+    "time": "7pm",
+    "place": "Partners and Son",
+    "artists": "Mike Bernstein (Double Leopards, Religious Knives) / Anne Ishii / Opera Benezet",
+    "description": "Presented by Open Mouth Records. Doors 6pm. $15-20"
   },
   {
     "date": "Nov 05 (Thu)",
     "time": "8pm",
-    "place": "The Perch Large Room",
+    "place": "The Perch (Large Room)",
     "artists": "Bow and Arrow (Lea Bertucci + Michael Behari) & Angel Meat (Anna Young + Myles Donovan)",
     "description": ""
   },
@@ -3953,6 +3960,13 @@
     "place": "Nikki Lopez",
     "artists": "Trash Strike, XPURITYX, Rights Abuse, Drawn By Blood, False Nine",
     "description": ""
+  },
+  {
+    "date": "Nov 09 (Mon)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Diagram:A / Noise Nomads / Sinking Body / Tether",
+    "description": "Presented by Open Mouth Records. Doors 7:30pm. $20"
   },
   {
     "date": "Nov 10 (Tue)",
