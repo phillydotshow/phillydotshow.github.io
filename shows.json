@@ -3943,8 +3943,15 @@
   {
     "date": "Nov 05 (Thu)",
     "time": "8pm",
-    "place": "The Perch (Large Room)",
+    "place": "The Perch Large Room",
     "artists": "Bow and Arrow (Lea Bertucci + Michael Behari) & Angel Meat (Anna Young + Myles Donovan)",
+    "description": ""
+  },
+  {
+    "date": "Nov 06 (Fri)",
+    "time": "7pm",
+    "place": "Homies Helping Homies Garage",
+    "artists": "Benefit Show SPAC x Homies Helping Homies",
     "description": ""
   },
   {
@@ -3952,6 +3959,13 @@
     "time": "7pm",
     "place": "Evangelical Lutheran Church of the Atonement",
     "artists": "Vinay Desai (santoor)",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "7pm",
+    "place": "The Perch",
+    "artists": "Birdbath Sessions Ep. 1: Morphology with Carlos Santiago, Asia Mieleszko, Salina Kuo & Pamela Fucello",
     "description": ""
   },
   {
