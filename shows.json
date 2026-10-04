@@ -3388,6 +3388,13 @@
     "description": ""
   },
   {
+    "date": "Oct 01 (Thu)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Bad Luck 13 Riot Extravaganza, Chopped Up, Salik, Hard Turf, Cheddabreed, Ring Rust",
+    "description": ""
+  },
+  {
     "date": "Oct 02 (Fri)",
     "time": "7pm-11pm",
     "place": "Little Big Planet",
@@ -3469,6 +3476,13 @@
     "time": "2pm",
     "place": "Settlement Music School",
     "artists": "Crossfade: Philadelphia/Network Re-Sounding",
+    "description": ""
+  },
+  {
+    "date": "Oct 04 (Sun)",
+    "time": "5pm",
+    "place": "A Man Full Of Trouble Tavern",
+    "artists": "Tim Motzer & Sandy Eldred",
     "description": ""
   },
   {
@@ -3633,6 +3647,13 @@
     "description": ""
   },
   {
+    "date": "Oct 10 (Sat)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Revocation, Defeated Sanity, Fuming Mouth, Weeping",
+    "description": ""
+  },
+  {
     "date": "Oct 11 (Sun)",
     "time": "2pm",
     "place": "C\u00e9sar Andreu Iglesias Community Garden",
@@ -3780,6 +3801,13 @@
     "description": ""
   },
   {
+    "date": "Oct 22 (Thu)",
+    "time": "",
+    "place": "2825 W Jefferson",
+    "artists": "Axe Collector, Insecticide, God Instinct, Gauntlette",
+    "description": ""
+  },
+  {
     "date": "Oct 23 (Fri)",
     "time": "8pm",
     "place": "Al-Bustan Seeds of Culture",
@@ -3871,6 +3899,13 @@
     "description": ""
   },
   {
+    "date": "Oct 28 (Wed)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "High On Fire",
+    "description": ""
+  },
+  {
     "date": "Oct 29 (Thu)",
     "time": "8pm",
     "place": "Solar Myth",
@@ -3927,6 +3962,13 @@
     "description": ""
   },
   {
+    "date": "Nov 01 (Sun)",
+    "time": "4:30pm-12am",
+    "place": "Underground Arts",
+    "artists": "BAD LUCK 13 RIOT HALLOWEEN EXTRAVAGANZA + MORE",
+    "description": ""
+  },
+  {
     "date": "Nov 02 (Mon)",
     "time": "8pm",
     "place": "The Rotunda",
@@ -3943,15 +3985,15 @@
   {
     "date": "Nov 05 (Thu)",
     "time": "8pm",
-    "place": "The Perch Large Room",
+    "place": "The Perch (Large Room)",
     "artists": "Bow and Arrow (Lea Bertucci + Michael Behari) & Angel Meat (Anna Young + Myles Donovan)",
     "description": ""
   },
   {
     "date": "Nov 06 (Fri)",
-    "time": "7pm",
-    "place": "Homies Helping Homies Garage",
-    "artists": "Benefit Show SPAC x Homies Helping Homies",
+    "time": "",
+    "place": "2444 W Ritner St",
+    "artists": "SPAC x Homies Helping Homies Benefit Show",
     "description": ""
   },
   {
@@ -4067,6 +4109,13 @@
     "description": ""
   },
   {
+    "date": "Nov 17 (Tue)",
+    "time": "",
+    "place": "The Rotunda",
+    "artists": "Ratas En Zelo, Myles Of Destruction, Depresi\u00f3n Tropical, Night Fury",
+    "description": ""
+  },
+  {
     "date": "Nov 18 (Wed)",
     "time": "8pm-11pm",
     "place": "Johnny Brenda's",
@@ -4138,9 +4187,9 @@
   },
   {
     "date": "Dec 04 (Fri)",
-    "time": "8pm",
+    "time": "7:30pm",
     "place": "Calvary Community Center",
-    "artists": "MANAS & Totally Automatic",
+    "artists": "MANAS, Totally Automatic & The Early",
     "description": ""
   },
   {
@@ -4148,6 +4197,13 @@
     "time": "",
     "place": "Underground Arts",
     "artists": "Static Dress, I Promised The World, Septemberistheonlytimeidontthinkofyou, Car Underwater",
+    "description": ""
+  },
+  {
+    "date": "Dec 04 (Fri)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Kontusion, Hedonist, Unholy Altar, Kinetic Orbital Strike",
     "description": ""
   },
   {
@@ -4204,6 +4260,13 @@
     "time": "8pm",
     "place": "The Perch (Large Room)",
     "artists": "Magic Tuber Stringband & Sam Wenc",
+    "description": ""
+  },
+  {
+    "date": "Dec 17 (Thu)",
+    "time": "7pm-12:30am",
+    "place": "Underground Arts",
+    "artists": "CREEPOID + MORE",
     "description": ""
   },
   {
