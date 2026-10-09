@@ -3151,6 +3151,13 @@
   },
   {
     "date": "Sep 19 (Sat)",
+    "time": "11am",
+    "place": "Museum of Music Technology",
+    "artists": "Instruments That Talk Back: Celebrating the Legacy of Don Buchla",
+    "description": ""
+  },
+  {
+    "date": "Sep 19 (Sat)",
     "time": "7pm",
     "place": "First Presbyterian Church",
     "artists": "Dynasty Battles",
@@ -3585,6 +3592,13 @@
   },
   {
     "date": "Oct 09 (Fri)",
+    "time": "7pm",
+    "place": "Brickbat Books",
+    "artists": "Andy McLeod / Matt Geary / Being",
+    "description": ""
+  },
+  {
+    "date": "Oct 09 (Fri)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Horselords",
@@ -3609,6 +3623,20 @@
     "time": "1pm",
     "place": "Barnes",
     "artists": "Barnes Cinema: Tiguex by Raven Chacon",
+    "description": ""
+  },
+  {
+    "date": "Oct 10 (Sat)",
+    "time": "7pm-11pm",
+    "place": "Mom's Living Room",
+    "artists": "THE HELL (Clevo), RAW HEADS, (Clevo), Vulgares, Real Shocks",
+    "description": ""
+  },
+  {
+    "date": "Oct 10 (Sat)",
+    "time": "7pm-11pm",
+    "place": "God's Automatic Body",
+    "artists": "DIVAS DOWN! A CELEBRATION OF SAINTS! TIM CURRY/DOLLY PARTON",
     "description": ""
   },
   {
@@ -3669,6 +3697,27 @@
   },
   {
     "date": "Oct 11 (Sun)",
+    "time": "4pm",
+    "place": "Bell Tone Synth Works",
+    "artists": "Ambient Open Mic and Open House",
+    "description": ""
+  },
+  {
+    "date": "Oct 11 (Sun)",
+    "time": "5pm",
+    "place": "A Man Full Of Trouble Tavern",
+    "artists": "Doug Hirlinger - solo drums and electronics",
+    "description": ""
+  },
+  {
+    "date": "Oct 11 (Sun)",
+    "time": "7:30pm",
+    "place": "The Rotunda",
+    "artists": "Ghost Nights: an Evening of Noise/Drone/Experimental Music w/Mazel, Body garden x Milkbag (HBG/PHL interactive collab set), Empathic Window",
+    "description": ""
+  },
+  {
+    "date": "Oct 11 (Sun)",
     "time": "",
     "place": "Underground Arts",
     "artists": "CANCELLED :( Voivod, Bat",
@@ -3679,6 +3728,20 @@
     "time": "",
     "place": "Bonks Bar",
     "artists": "Butcher's Nails, The Gacy Architecture, Necrofelony, Caesarean, Sarcosuchus, Scumbag",
+    "description": ""
+  },
+  {
+    "date": "Oct 12 (Mon)",
+    "time": "7pm-11:55pm",
+    "place": "Grays Warehouse Courtyard",
+    "artists": "Reverse Birth, Zilmrah (NYC), Being Made Like God, Exodus Looper, GRE/noise/Ay",
+    "description": ""
+  },
+  {
+    "date": "Oct 12 (Mon)",
+    "time": "8pm-10pm",
+    "place": "Cousin Danny's",
+    "artists": "Mercy (NYC) with Acid Test and Early Grave",
     "description": ""
   },
   {
@@ -3700,6 +3763,20 @@
     "time": "5:30pm",
     "place": "Christ Church",
     "artists": "World to Come 2: Infra Dig",
+    "description": ""
+  },
+  {
+    "date": "Oct 14 (Wed)",
+    "time": "5:30pm",
+    "place": "Widener Lecture Hall",
+    "artists": "Claire Chase - Density 2036: A New Ecosystem for Contemporary Music",
+    "description": ""
+  },
+  {
+    "date": "Oct 14 (Wed)",
+    "time": "8pm",
+    "place": "Milkcrate Cafe",
+    "artists": "Ursula Rucker & Tim Motzer - \"Live Off the Floor\"",
     "description": ""
   },
   {
@@ -3732,9 +3809,30 @@
   },
   {
     "date": "Oct 16 (Fri)",
+    "time": "7:30pm",
+    "place": "Perelman Theater",
+    "artists": "Jennifer Koh / Vijay Iyer",
+    "description": ""
+  },
+  {
+    "date": "Oct 16 (Fri)",
     "time": "",
     "place": "Nikki Lopez",
     "artists": "Inter Arma",
+    "description": ""
+  },
+  {
+    "date": "Oct 17 (Sat)",
+    "time": "7pm-11pm",
+    "place": "The Rotunda",
+    "artists": "Ratas En Zelo, Myles of Destruction, Depresi\u00f3n Tropical , Night Fury",
+    "description": ""
+  },
+  {
+    "date": "Oct 17 (Sat)",
+    "time": "7pm",
+    "place": "Molly\u2019s Books and Records",
+    "artists": "Himflation + Alyssa w/ Friend",
     "description": ""
   },
   {
@@ -3759,6 +3857,13 @@
     "description": ""
   },
   {
+    "date": "Oct 18 (Sun)",
+    "time": "8pm",
+    "place": "Milk Boy",
+    "artists": "Acid Mothers Temple / Magick Potion / PLQ MRX",
+    "description": ""
+  },
+  {
     "date": "Oct 20 (Tue)",
     "time": "",
     "place": "Nikki Lopez",
@@ -3777,6 +3882,13 @@
     "time": "5:30pm",
     "place": "Christ Church",
     "artists": "World to Come - Koof Ibi / Liz Faure",
+    "description": ""
+  },
+  {
+    "date": "Oct 21 (Wed)",
+    "time": "7:30pm",
+    "place": "PA",
+    "artists": "*Toshi Makihara & David Forlano, Aaron x Mekhi x Will T x Liv",
     "description": ""
   },
   {
@@ -3809,6 +3921,13 @@
   },
   {
     "date": "Oct 23 (Fri)",
+    "time": "7:30pm",
+    "place": "Perelman Theater",
+    "artists": "Sphinx Virtuosi J\u2019Nai Bridges, mezzo",
+    "description": ""
+  },
+  {
+    "date": "Oct 23 (Fri)",
     "time": "8pm",
     "place": "Al-Bustan Seeds of Culture",
     "artists": "Amir ElSaffar & Lorenzo Bianchi Hoesch: Inner Spaces",
@@ -3819,6 +3938,20 @@
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Dafnis Prieto S\u00ed o S\u00ed Quartet Fri, October 23 8PM",
+    "description": ""
+  },
+  {
+    "date": "Oct 23 (Fri)",
+    "time": "8pm",
+    "place": "Ortlieb\u2019s",
+    "artists": "Mike Polizze with Sparrow Steeple and Chris Lyons",
+    "description": ""
+  },
+  {
+    "date": "Oct 24 (Sat)",
+    "time": "8am",
+    "place": "Saint Michael\u2019s Lutheran Church",
+    "artists": "Passages Season 5 - Old Saw",
     "description": ""
   },
   {
@@ -3903,6 +4036,20 @@
     "time": "",
     "place": "Underground Arts",
     "artists": "High On Fire",
+    "description": ""
+  },
+  {
+    "date": "Oct 29 (Thu)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "EXCESS BLOOD (PDX), ACID TEST, COVER BANDS",
+    "description": ""
+  },
+  {
+    "date": "Oct 29 (Thu)",
+    "time": "7pm",
+    "place": "Brickbat Books",
+    "artists": "Josephine Foster",
     "description": ""
   },
   {
@@ -4043,6 +4190,13 @@
     "time": "",
     "place": "MilkBoy",
     "artists": "Crobot, Dark Chapel",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "6:05pm",
+    "place": "Moms living room",
+    "artists": "Domepeace, Slaughter your Senses, Crosseyed, Violent Form, and Airball",
     "description": ""
   },
   {
