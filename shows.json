@@ -3774,6 +3774,13 @@
   },
   {
     "date": "Oct 14 (Wed)",
+    "time": "8pm-11pm",
+    "place": "Garden Variety",
+    "artists": "Reveri3 (NC) with Vehicular Homicide Sisters and Gauntlette",
+    "description": ""
+  },
+  {
+    "date": "Oct 14 (Wed)",
     "time": "",
     "place": "First Unitarian Church",
     "artists": "Knumears, Catalyst, Love Letter, Static Brain",
@@ -3795,9 +3802,23 @@
   },
   {
     "date": "Oct 16 (Fri)",
+    "time": "7pm-10pm",
+    "place": "God's Automatic Body",
+    "artists": "PINKWASH, THE TRICERATOPS, DEATHBIRD EARTH",
+    "description": ""
+  },
+  {
+    "date": "Oct 16 (Fri)",
     "time": "7:30pm",
     "place": "Perelman Theater",
     "artists": "Jennifer Koh / Vijay Iyer",
+    "description": ""
+  },
+  {
+    "date": "Oct 16 (Fri)",
+    "time": "7:30pm",
+    "place": "5424 Lena Street",
+    "artists": "Wet Henry, Debaser, Koof IB",
     "description": ""
   },
   {
@@ -3830,9 +3851,23 @@
   },
   {
     "date": "Oct 17 (Sat)",
+    "time": "8pm",
+    "place": "Grays Skatepark",
+    "artists": "ATOMIC PREY (pdx), THE BROOD, MILITARY SCHOOL",
+    "description": ""
+  },
+  {
+    "date": "Oct 17 (Sat)",
     "time": "",
     "place": "Crafty's",
     "artists": "Trunk, Gross, Chuffed",
+    "description": ""
+  },
+  {
+    "date": "Oct 18 (Sun)",
+    "time": "7pm",
+    "place": "Evangelical Lutheran Church of the Atonement",
+    "artists": "Situation Aesthetics #3 -  J.P.A. Falzone Morgan Evans-Weiler and Carlo Costa",
     "description": ""
   },
   {
@@ -3878,10 +3913,31 @@
     "description": ""
   },
   {
+    "date": "Oct 21 (Wed)",
+    "time": "8pm-11pm",
+    "place": "Cousin Danny's",
+    "artists": "SUBTLE BODY, AGITA, ORCHID CLUB (MPLS), CREASE",
+    "description": ""
+  },
+  {
+    "date": "Oct 21 (Wed)",
+    "time": "10pm",
+    "place": "Velvet Whip Arts & Social Club",
+    "artists": "Ash\u00e9 Mystics",
+    "description": ""
+  },
+  {
     "date": "Oct 22 (Thu)",
     "time": "6pm-10pm",
     "place": "Greenhaus",
     "artists": "AXE COLLECTOR (SAN DIEGO), INSECTICIDE, GOD INSTINCT, GAUNTLETTE",
+    "description": ""
+  },
+  {
+    "date": "Oct 22 (Thu)",
+    "time": "7pm-12am",
+    "place": "Little Big Planet",
+    "artists": "Dear Future Archaeologists, Deus Ex Girlfriend, Heads in Motion, Estrogents @ Little Big Planet",
     "description": ""
   },
   {
@@ -4040,6 +4096,13 @@
   },
   {
     "date": "Oct 29 (Thu)",
+    "time": "7:30pm",
+    "place": "First Unitarian Church",
+    "artists": "FREE RANGE - Oliver Mayman / Bruce Barth  ,  James Fernando Trio",
+    "description": ""
+  },
+  {
+    "date": "Oct 29 (Thu)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Linda Sikhakhane",
@@ -4050,6 +4113,13 @@
     "time": "",
     "place": "Union Transfer",
     "artists": "Speed, E-Town Concrete, Division of Mind, No Idols, Suicide Eyes",
+    "description": ""
+  },
+  {
+    "date": "Oct 30 (Fri)",
+    "time": "8am",
+    "place": "Annenberg Center",
+    "artists": "Arun Ramamurthy Trio & Rudresh Mahanthappa Hero Trio",
     "description": ""
   },
   {
@@ -4077,7 +4147,7 @@
     "date": "Oct 31 (Sat)",
     "time": "8pm",
     "place": "Asian Arts Initiative",
-    "artists": "Swarnendu Mandal (sarod)",
+    "artists": "Swarnendu Mandal (sarod) with Manav Khurana (tabla)",
     "description": ""
   },
   {
@@ -4099,6 +4169,13 @@
     "time": "4:30pm-12am",
     "place": "Underground Arts",
     "artists": "BAD LUCK 13 RIOT HALLOWEEN EXTRAVAGANZA + MORE",
+    "description": ""
+  },
+  {
+    "date": "Nov 01 (Sun)",
+    "time": "7:30pm",
+    "place": "Upstairs at Abbyssinia",
+    "artists": "Strawberry Hands / Early Worm / Michael Cormier-O'Leary",
     "description": ""
   },
   {
@@ -4133,7 +4210,7 @@
     "date": "Nov 07 (Sat)",
     "time": "7pm",
     "place": "Evangelical Lutheran Church of the Atonement",
-    "artists": "Vinay Desai (santoor)",
+    "artists": "Vinay Desai (santoor) with Anirudh Alva Changkakoti (tabla)",
     "description": ""
   },
   {
@@ -4141,6 +4218,13 @@
     "time": "7pm",
     "place": "The Perch",
     "artists": "Birdbath Sessions Ep. 1: Morphology with Carlos Santiago, Asia Mieleszko, Salina Kuo & Pamela Fucello",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "7pm-11pm",
+    "place": "Sanctuary",
+    "artists": "Housie (rva), Sediment, Insectoids",
     "description": ""
   },
   {
@@ -4183,6 +4267,13 @@
     "time": "6:05pm",
     "place": "Moms living room",
     "artists": "Domepeace, Slaughter your Senses, Crosseyed, Violent Form, and Airball",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "7pm-11pm",
+    "place": "ask a punk",
+    "artists": "IDENTITY SHOCK + DEMENTED FX + SUBJECTS",
     "description": ""
   },
   {
