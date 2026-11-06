@@ -91,6 +91,13 @@
     "description": ""
   },
   {
+    "date": "Jan 29 (Fri)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Portraits of Past, Jerome's Dream, Lowertown, Cash Only Tony's, Knotwork, Massa Nera, Alyvia",
+    "description": ""
+  },
+  {
     "date": "Jan 30 (Fri)",
     "time": "7pm, $10-15",
     "place": "Brickbat Books",
@@ -102,6 +109,13 @@
     "time": "",
     "place": "MilkBoy",
     "artists": "Nunslaughter",
+    "description": ""
+  },
+  {
+    "date": "Jan 30 (Sat)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Reversal Of Man, Vs Self, Concealer, Policy of 3, Fracture, Holidays In United States, Sue",
     "description": ""
   },
   {
@@ -130,6 +144,13 @@
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Skull Presser, Omit All, Violent Form",
+    "description": ""
+  },
+  {
+    "date": "Jan 31 (Sun)",
+    "time": "",
+    "place": "First Unitarian Church",
+    "artists": "Pageninetynine, Train Breaks Down, Fatal Realm, Glitterer, Holder, Commitment, Film, Soap Box Derby, Abbatia, 9amygdalae",
     "description": ""
   },
   {
@@ -728,6 +749,13 @@
     "description": ""
   },
   {
+    "date": "Mar 31 (Wed)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Haywire, Dark Thoughts, Gvllow",
+    "description": ""
+  },
+  {
     "date": "Apr 01 (Wed)",
     "time": "8pm",
     "place": "Solar Myth",
@@ -760,6 +788,13 @@
     "time": "",
     "place": "First Unitarian Church",
     "artists": "Gouge Away, Ovlov, Raskol, The Angies",
+    "description": ""
+  },
+  {
+    "date": "Apr 02 (Fri)",
+    "time": "",
+    "place": "Franklin Music Hall",
+    "artists": "The Plot In You",
     "description": ""
   },
   {
@@ -4215,6 +4250,13 @@
   },
   {
     "date": "Nov 05 (Thu)",
+    "time": "6:30pm",
+    "place": "AMLA Studios at Esperanza",
+    "artists": "Studio Orientation Facilitated by Carolyn Zaldivar Snow",
+    "description": ""
+  },
+  {
+    "date": "Nov 05 (Thu)",
     "time": "7pm",
     "place": "Partners and Son",
     "artists": "Mike Bernstein (Double Leopards, Religious Knives) / Anne Ishii / Opera Benezet",
@@ -4236,9 +4278,37 @@
   },
   {
     "date": "Nov 06 (Fri)",
+    "time": "7pm-12am",
+    "place": "Greenhaus",
+    "artists": "Real Shocks Record Release With Cryin Hand and Putrid Boys @ Greenhaus",
+    "description": ""
+  },
+  {
+    "date": "Nov 06 (Fri)",
+    "time": "7:30pm",
+    "place": "Perelman Theater",
+    "artists": "Justin Austin, baritone Howard Watkins, piano",
+    "description": ""
+  },
+  {
+    "date": "Nov 06 (Fri)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Daniel Villareal",
+    "description": ""
+  },
+  {
+    "date": "Nov 06 (Fri)",
     "time": "",
     "place": "Mom's Living Room",
     "artists": "Cold Vein, Beast From The East, Hyperfang, False Nine",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "1pm",
+    "place": "The Rotunda",
+    "artists": "Guitar Synth Festival",
     "description": ""
   },
   {
@@ -4263,10 +4333,59 @@
     "description": ""
   },
   {
+    "date": "Nov 07 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Daniel Villarreal",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "8pm",
+    "place": "Brickbat Books",
+    "artists": "Bob Desaulniers",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "8pm",
+    "place": "First Unitarian Church",
+    "artists": "William Basinski / Claire Rousay",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "8pm",
+    "place": "University Lutheran Church",
+    "artists": "Music of Laura Cetilia",
+    "description": ""
+  },
+  {
+    "date": "Nov 07 (Sat)",
+    "time": "8pm",
+    "place": "the Fidget Space",
+    "artists": "The H-O-T Series of Philadelphia",
+    "description": ""
+  },
+  {
+    "date": "Nov 08 (Sun)",
+    "time": "8pm",
+    "place": "The Perch",
+    "artists": "Postal Pieces 3 Arcana New Music Ensemble",
+    "description": ""
+  },
+  {
     "date": "Nov 08 (Sun)",
     "time": "",
     "place": "Nikki Lopez",
     "artists": "Trash Strike, XPURITYX, Rights Abuse, Drawn By Blood, False Nine",
+    "description": ""
+  },
+  {
+    "date": "Nov 08 (Sun)",
+    "time": "",
+    "place": "The Palace",
+    "artists": "Scarab, Envision, Collateral, Animal Instinct, On The Ground",
     "description": ""
   },
   {
@@ -4277,10 +4396,45 @@
     "description": "Presented by Open Mouth Records. Doors 7:30pm. $20"
   },
   {
+    "date": "Nov 09 (Mon)",
+    "time": "",
+    "place": "Kung Fu Necktie",
+    "artists": "Tear Dungeon",
+    "description": ""
+  },
+  {
+    "date": "Nov 10 (Tue)",
+    "time": "6:30pm",
+    "place": "AMLA Studios at Esperanza",
+    "artists": "Synth Foundations (Four-Part Course) Taught by Eugene Lew and Carolyn Zaldivar Snow",
+    "description": ""
+  },
+  {
     "date": "Nov 10 (Tue)",
     "time": "7pm",
     "place": "The Perch",
     "artists": "Birdbath Sessions Ep. 1: Morphology with Carlos Santiago, Asia Mieleszko, Salina Kuo & Pamela Fucello",
+    "description": ""
+  },
+  {
+    "date": "Nov 11 (Wed)",
+    "time": "1:30pm",
+    "place": "Mitten Hall",
+    "artists": "Jazz Philadelphia Summit 2026",
+    "description": ""
+  },
+  {
+    "date": "Nov 11 (Wed)",
+    "time": "7pm",
+    "place": "Little Big Planet",
+    "artists": "After Nations, Sweepers, Objects, Rope Trick",
+    "description": ""
+  },
+  {
+    "date": "Nov 11 (Wed)",
+    "time": "8pm",
+    "place": "Ortlieb's",
+    "artists": "Music for Neighbors: So Totally/Loadcard/Subtle Body/Quatro Coles",
     "description": ""
   },
   {
@@ -4298,10 +4452,52 @@
     "description": ""
   },
   {
+    "date": "Nov 12 (Thu)",
+    "time": "8pm",
+    "place": "Temple Performing Arts Center",
+    "artists": "John Coltrane's Offering Revisited featuring Ravi Coltrane",
+    "description": ""
+  },
+  {
+    "date": "Nov 12 (Thu)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Chrome Chasm / Bill Nace & Mike Polizze / Vapour Theories",
+    "description": ""
+  },
+  {
+    "date": "Nov 12 (Thu)",
+    "time": "",
+    "place": "Ukie Club",
+    "artists": "Big Ass Truck, Chamber, Mugshot, Restrictor Plate, Surfaced",
+    "description": ""
+  },
+  {
     "date": "Nov 13 (Fri)",
     "time": "7:30pm",
     "place": "2223 Fish",
     "artists": "Same Different Same",
+    "description": ""
+  },
+  {
+    "date": "Nov 13 (Fri)",
+    "time": "8pm",
+    "place": "Brickbat Books",
+    "artists": "Ryan Sawyer / Jack Wright",
+    "description": ""
+  },
+  {
+    "date": "Nov 13 (Fri)",
+    "time": "",
+    "place": "Underground Arts",
+    "artists": "Hurry Up Fest",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "6pm",
+    "place": "Philly Style Pizza and Grill",
+    "artists": "We Used to Cut the Grass /  Vethaken / Spilly Cave",
     "description": ""
   },
   {
@@ -4316,6 +4512,13 @@
     "time": "7pm-11pm",
     "place": "ask a punk",
     "artists": "IDENTITY SHOCK + DEMENTED FX + SUBJECTS",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "7pm",
+    "place": "1737phl",
+    "artists": "BABY MUFFLER (Providence), HIGHLIGHTER RABIES (NYC), T.T.L.C., and GRIPPER @ 1737phl",
     "description": ""
   },
   {
@@ -4337,6 +4540,20 @@
     "time": "",
     "place": "Franklin Music Hall",
     "artists": "Trivium, In Flames, Frozen Soul, Fit For An Autopsy",
+    "description": ""
+  },
+  {
+    "date": "Nov 14 (Sat)",
+    "time": "",
+    "place": "The Palace",
+    "artists": "Xpetals of CarrionX, myhandsweretied, God Instinct, Black Letter Day, Lady Bird",
+    "description": ""
+  },
+  {
+    "date": "Nov 15 (Sun)",
+    "time": "7pm",
+    "place": "The Pouch",
+    "artists": "LACKEY (LA), REARRANGED FACE (LA), SAPPERS AND KROT @ THE POUCH",
     "description": ""
   },
   {
@@ -4376,6 +4593,13 @@
   },
   {
     "date": "Nov 17 (Tue)",
+    "time": "6:30pm",
+    "place": "AMLA Studios at Esperanza",
+    "artists": "Synth Foundations (Four-Part Course) Taught by Eugene Lew and Carolyn Zaldivar Snow",
+    "description": ""
+  },
+  {
+    "date": "Nov 17 (Tue)",
     "time": "8pm",
     "place": "The Perch",
     "artists": "Prasant Radhakrishnan",
@@ -4404,6 +4628,27 @@
   },
   {
     "date": "Nov 19 (Thu)",
+    "time": "7pm-11:55pm",
+    "place": "Cousin Danny's",
+    "artists": "Period Bomb (LA), Uncle Blender, The Playful Bunch, Good Pollution, Stiff Curls",
+    "description": ""
+  },
+  {
+    "date": "Nov 19 (Thu)",
+    "time": "7:30pm",
+    "place": "Perelman Theater",
+    "artists": "Don Liuzzi, percussion & Friends",
+    "description": ""
+  },
+  {
+    "date": "Nov 19 (Thu)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Adam O’Farrill’s ELEPHANT",
+    "description": ""
+  },
+  {
+    "date": "Nov 19 (Thu)",
     "time": "",
     "place": "Union Transfer",
     "artists": "Pain Of Truth, Madball, Rotting Out, Locked Shut",
@@ -4411,9 +4656,30 @@
   },
   {
     "date": "Nov 20 (Fri)",
+    "time": "7:30pm",
+    "place": "Studio 34",
+    "artists": "FMP Benefit with Circuit Cult, M.E. & Coyos",
+    "description": ""
+  },
+  {
+    "date": "Nov 20 (Fri)",
     "time": "8pm",
     "place": "Solar Myth",
     "artists": "Resavoir",
+    "description": ""
+  },
+  {
+    "date": "Nov 20 (Fri)",
+    "time": "8pm",
+    "place": "The Rotunda",
+    "artists": "Treatise Revisited",
+    "description": ""
+  },
+  {
+    "date": "Nov 20 (Fri)",
+    "time": "",
+    "place": "TLA",
+    "artists": "Suicide Silence",
     "description": ""
   },
   {
@@ -4425,6 +4691,13 @@
   },
   {
     "date": "Nov 21 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "Jen Shyu’s Fertile Land, Fertile Body",
+    "description": ""
+  },
+  {
+    "date": "Nov 21 (Sat)",
     "time": "",
     "place": "First Unitarian Church",
     "artists": "H2O, Straight Ahead, Wisdom In Chains, Raw Brigade, Lose Sight, Against The World",
@@ -4432,9 +4705,37 @@
   },
   {
     "date": "Nov 22 (Sun)",
+    "time": "7pm",
+    "place": "Cousin Danny's",
+    "artists": "ARCON (IN), THE ICKS (FL), ACID TEST, MILITARY SCHOOL, PEACEFUL EZY FEELING",
+    "description": ""
+  },
+  {
+    "date": "Nov 22 (Sun)",
+    "time": "8pm",
+    "place": "The Perch (Large Room)",
+    "artists": "AIRLFT: Spatial Recognition record release show & benefit for Fire Museum Presents",
+    "description": ""
+  },
+  {
+    "date": "Nov 22 (Sun)",
     "time": "",
     "place": "Kung Fu Necktie",
     "artists": "Torsofuck, Malignancy, Suffer, Chopped Up, Viscera Crown, Shunt",
+    "description": ""
+  },
+  {
+    "date": "Nov 28 (Sat)",
+    "time": "6:30pm-11pm",
+    "place": "Vox Populi",
+    "artists": "Dark Sufers (NJ), Shampoo, Sappers, The Speed Dials & TTLC",
+    "description": ""
+  },
+  {
+    "date": "Nov 28 (Sat)",
+    "time": "8pm",
+    "place": "Solar Myth",
+    "artists": "The Jazz Gallery Mentoring Series Marcus Gilmore and Ryoma Takenaga with Special Guest David Virelles",
     "description": ""
   },
   {
@@ -4466,10 +4767,24 @@
     "description": ""
   },
   {
+    "date": "Dec 03 (Thu)",
+    "time": "",
+    "place": "Nikki Lopez",
+    "artists": "War On Women",
+    "description": ""
+  },
+  {
     "date": "Dec 04 (Fri)",
     "time": "7:30pm",
     "place": "Calvary Community Center",
     "artists": "MANAS, Totally Automatic & The Early",
+    "description": ""
+  },
+  {
+    "date": "Dec 04 (Fri)",
+    "time": "8pm",
+    "place": "The Rotunda",
+    "artists": "Water Can Assume Any Form",
     "description": ""
   },
   {
@@ -4487,10 +4802,24 @@
     "description": ""
   },
   {
+    "date": "Dec 04 (Fri)",
+    "time": "",
+    "place": "The Pouch",
+    "artists": "Blank Chrome, Worldsucks, Khankhuuluu, Panic Park, Church Wig",
+    "description": ""
+  },
+  {
     "date": "Dec 05 (Sat)",
     "time": "",
     "place": "Cousin Danny's",
     "artists": "Worm Altar, Blood Spore, Death Possession, Dragging",
+    "description": ""
+  },
+  {
+    "date": "Dec 09 (Wed)",
+    "time": "",
+    "place": "PhilaMOCA",
+    "artists": "Deaf Club",
     "description": ""
   },
   {
@@ -4512,6 +4841,13 @@
     "time": "",
     "place": "Union Transfer",
     "artists": "Heaven's Edge, Trixter, Spread Eagle",
+    "description": ""
+  },
+  {
+    "date": "Dec 11 (Fri)",
+    "time": "",
+    "place": "The Fillmore",
+    "artists": "GWAR",
     "description": ""
   },
   {
